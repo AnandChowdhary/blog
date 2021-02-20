@@ -17,3 +17,5 @@ jobs:
         uses: AnandChowdhary/notes-summary@HEAD
         with:
           token: "${{ secrets.GH_PAT }}"
+          commitMessage: ":pencil: Update blog posts summary [skip ci]"
+          dirName: "blog"
