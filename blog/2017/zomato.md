@@ -1,6 +1,7 @@
 ---
 alias: https://uxdesign.cc/zomato-for-android-redesign-6ced8b220544
-publisher: UX Collective---
+publisher: UX Collective
+---
 
 # Zomato for Android Redesign
 

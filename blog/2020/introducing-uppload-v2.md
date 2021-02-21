@@ -1,6 +1,7 @@
 ---
 alias: https://uppload.js.org/blog/introducing-uppload-v2
-publisher: Uppload Blog---
+publisher: Uppload Blog
+---
 
 # Introducing Uppload v2
 
