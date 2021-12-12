@@ -1,0 +1,29 @@
+# 1,000 companies per batch? OMG Y Combinator
+
+This is a response to [1,000 companies per Y Combinator batch? RIP Y Combinator](https://techcrunch.com/2021/12/10/y-combinator/) by Haje Jan Kamps, published on TechCrunch on December 10, 2021.
+
+Ever since I found out about Y Combinator, I wanted to be a part of it.[^when-yc] I always thought of myself as a hacker/builder/entrepreneur/(insert word here) because I've always been good at going from idea to product really quickly. Although I've been building products for as long as I can remember, my first experience building a startup (i.e., "product with a business model") was PickQuick (marketplace for second-hand books in colleges) in 2012 when I was 14. I was asked to join as the technical founder and we built a website where students could buy, sell, or swap their experience books, but didn't go any further than there. In 2014, I co-founded Class Rebels (edtech for Q&A -> pivot to crowdsourced study material -> pivot to tuition center discovery and booking), also after being invited by the original founders. In 2016, I co-founded Oswald Labs after building a browser extension at a hackathon, and worked on it part-time for four years.[^cofounders]
+
+I never applied to YC until earlier this year because I never felt I was ready. I always thought that we were too far from product-market fit; we didn't even know what it *is*. And if we were to compare ourselves to the kind of companies YC funds, we shouldn't even bother applying. No founder should think like this. When Carlo and I applied to YC, we were already working on Pabio (then called Koj) for the better part of a year, and already had some revenue and early traction, and $1 million in pre-seed funding. I think we could have applied earlier because YC didn't invest in us because we had some funding, but because we had a good team and our early customers loved the product, and we had all of that much earlier. YC's goal is to find as many great teams as they can whose ideas early customers love and invest in them -- why would it be any other way?
+
+The fact that we could be near our customers still be part of YC remotely made all the difference. We were one of the first Swiss companies in YC and we wouldn't have applied if were an in-person batch. The YC mantra is "talk to your customers" and so it didn't make sense for us to move to Silicon Valley for three months, away from our customers in Europe, working across a 9-hour time difference. When I was trying to convince Carlo to apply, we decided that it only makes sense to do it if the S21 batch would also be remote, and when it was announced that it will be, we applied early.
+
+Now that I completed the YC S21 batch, I realized that **YC is not about exclusivity, it's about accessibility.** I think Kamps' argument stems from the misnomer that YC is the [Harvard Of Silicon Valley](https://www.huffpost.com/entry/y-combinator-harvard-silicon-valley_n_874245), which I think couldn't be further from the truth. YC's [Founding Principles](https://www.ycombinator.com/principles/) state:
+
+> YC's value is the number of startups we help times how much we help them. Make both factors surprisingly big, and the product will be surprising squared.
+
+The first batch had 32 companies while my batch had over 350 companies, so YC has always been heading in this direction. On our last day, Geoff Ralston said that 2021 was a "sandwich year"; we're right in the middle of figuring out what the future of work, school, commerce, really society, looks like. The pandemic has been a forcing function for what that would have happened nonetheless, albeit slowly.
+
+I think the future of YC should be hybrid and with 1,000 companies per batch.
+
+One point that Kamps didn't make is that the deal is likely outdated. [The Y Combinator Deal](https://www.ycombinator.com/deal/) is $125k for 7%. Going into 2022, tech salaries are higher than ever, US inflation is the highest in 40 years, and the expectation of growth is so much greater since there's so much money in the system (e.g., seed rounds are larger), the $125k doesn't go nearly as far as it used to. YC's advice is to keep post-batch burn less than $50k/m, and when you're in that "YC mode", you optimize for growth-growth-growth with much disregard for burn, meaning that the $125k might not last as long as you'd want it to even during the batch. 
+
+In an article on [Insider](https://www.businessinsider.com/y-combinator-demo-day-startup-valuation-increases-2021-8) with data from Pioneer Fund[^pioneer-fund], they quote Geoff:
+
+> "Investors will always complain about the valuations that they give YC companies," Ralton said. "If they're going to set a market where they average valuation of a YC company is $10 million, that's fine. What we will tell our companies is, raise the money and get back to work."
+
+As YC batch sizes grow, I think YC's deal should also be updated to reflect the market; something like $150k for 5%. Many startups raise at valuations over $10 million after Demo Day and the current in-batch valuation of less than $2 million doesn't seem right. Investors don't care much about 5x returns anyway, I'm certain it wouldn't matter much to YC but will make it much more digestible to founders.
+
+[^when-yc]: The earliest documented evidence I have of wanting to be in YC is a Facebook Messenger conversation with a friend on October 27, 2013, but I'm certain it was much before that.
+[^cofounders]: My co-founders in PickQuick were Shivam Soon and Akshat Srivastava (although we didn't call ourselves founders back then); at Class Rebels, Kunj Khurana and Sagar Chandna; at Oswald Labs, Mahendra Singh Raghuwanshi and Nishant Gadihoke; and at Pabio, Carlo Badini -- I always stand on the shoulders of giants!
+[^pioneer-fund]: *I'll add a sidenote about Pioneer Fund here later*
