@@ -8,67 +8,71 @@ This repository contains my blog posts.
 
 ## 🌯 Summary
 
-- 36 notes in 8 years
+- 37 notes in 9 years
+
+### 2021
+
+- [1,000 companies per batch? OMG Y Combinator](./blog/2021/yc-batch-size.md), Invalid Date
 
 ### 2020
 
-- [Introducing Uppload v2](./blog/2020/introducing-uppload-v2.md), February 21, 2021
-- [Who is the author of an AI-generated news article?](./blog/2020/automated-journalism-authorship.md), June 28, 2020
-- [Microsoft should buy Spotify](./blog/2020/microsoft-spotify.md), June 28, 2020
-- [Microsoft is the most important company in the open-source ecosystem](./blog/2020/microsoft-open-source.md), June 28, 2020
+- [Who is the author of an AI-generated news article?](./blog/2020/automated-journalism-authorship.md), Invalid Date
+- [Introducing Uppload v2](./blog/2020/introducing-uppload-v2.md), Invalid Date
+- [Microsoft is the most important company in the open-source ecosystem](./blog/2020/microsoft-open-source.md), Invalid Date
+- [Microsoft should buy Spotify](./blog/2020/microsoft-spotify.md), Invalid Date
 
 ### 2019
 
-- [New Google Play Badges](./blog/2019/google-play-badges.md), August 31, 2019
-- [State of the Podcasts 2019](./blog/2019/state-of-the-podcasts-2019.md), June 12, 2019
-- [Introducing Agastya 4 + Augmenta11y](./blog/2019/agastya-4-augmentally.md), May 6, 2019
-- [Quarter of Open Source](./blog/2019/quarter-of-open-source.md), April 4, 2019
-- [Package Manager Standardization](./blog/2019/package-managers.md), March 15, 2019
-- [Twitter Subaccounts](./blog/2019/twitter-subaccounts.md), March 12, 2019
-- [Google Docs + GitHub](./blog/2019/google-docs-github.md), March 11, 2019
+- [Introducing Agastya 4 + Augmenta11y](./blog/2019/agastya-4-augmentally.md), Invalid Date
+- [Google Docs + GitHub](./blog/2019/google-docs-github.md), Invalid Date
+- [New Google Play Badges](./blog/2019/google-play-badges.md), Invalid Date
+- [Package Manager Standardization](./blog/2019/package-managers.md), Invalid Date
+- [Quarter of Open Source](./blog/2019/quarter-of-open-source.md), Invalid Date
+- [State of the Podcasts 2019](./blog/2019/state-of-the-podcasts-2019.md), Invalid Date
+- [Twitter Subaccounts](./blog/2019/twitter-subaccounts.md), Invalid Date
 
 ### 2018
 
-- [State of the Dock 2018](./blog/2018/state-of-the-dock-2018.md), July 28, 2018
-- [Introducing Universal Screen Reader on Agastya](./blog/2018/agastya-screen-reader.md), July 15, 2018
-- [Introducing the new Agastya](./blog/2018/new-agastya.md), June 9, 2018
-- [State of the Podcasts 2018](./blog/2018/state-of-the-podcasts-2018.md), May 28, 2018
+- [Introducing Universal Screen Reader on Agastya](./blog/2018/agastya-screen-reader.md), Invalid Date
+- [Introducing the new Agastya](./blog/2018/new-agastya.md), Invalid Date
+- [State of the Dock 2018](./blog/2018/state-of-the-dock-2018.md), Invalid Date
+- [State of the Podcasts 2018](./blog/2018/state-of-the-podcasts-2018.md), Invalid Date
 
 ### 2017
 
-- [Zomato for Android Redesign](./blog/2017/zomato.md), February 21, 2021
-- [UTwente PeoplePages Contact Book](./blog/2017/utwente-peoplepages.md), August 12, 2017
-- [Life Update: College](./blog/2017/college.md), March 1, 2017
-- [The Defence for MD5](./blog/2017/md5.md), February 26, 2017
+- [Life Update: College](./blog/2017/college.md), Invalid Date
+- [The Defence for MD5](./blog/2017/md5.md), Invalid Date
+- [UTwente PeoplePages Contact Book](./blog/2017/utwente-peoplepages.md), Invalid Date
+- [Zomato for Android Redesign](./blog/2017/zomato.md), Invalid Date
 
 ### 2016
 
-- [Machine Learning in 6 Lines](./blog/2016/machine-learning-in-6-lines.md), September 9, 2016
-- [The Missed $30 Billion Opportunity](./blog/2016/30-billion-opportunity.md), February 25, 2016
-- [Introducing Saga Music](./blog/2016/saga-music.md), January 13, 2016
+- [The Missed $30 Billion Opportunity](./blog/2016/30-billion-opportunity.md), Invalid Date
+- [Machine Learning in 6 Lines](./blog/2016/machine-learning-in-6-lines.md), Invalid Date
+- [Introducing Saga Music](./blog/2016/saga-music.md), Invalid Date
 
 ### 2015
 
-- [The Problem with Gaana.com’s Identity](./blog/2015/gaana-identity.md), August 30, 2015
-- [How to Name Brands](./blog/2015/naming-brands.md), June 26, 2015
-- [Can Design Be Too Simple?](./blog/2015/too-simple-design.md), June 26, 2015
-- [One Space After a Period](./blog/2015/one-space-after-a-period.md), March 23, 2015
-- [The Apple Remote](./blog/2015/apple-remote.md), March 15, 2015
+- [The Apple Remote](./blog/2015/apple-remote.md), Invalid Date
+- [The Problem with Gaana.com’s Identity](./blog/2015/gaana-identity.md), Invalid Date
+- [How to Name Brands](./blog/2015/naming-brands.md), Invalid Date
+- [One Space After a Period](./blog/2015/one-space-after-a-period.md), Invalid Date
+- [Can Design Be Too Simple?](./blog/2015/too-simple-design.md), Invalid Date
 
 ### 2014
 
-- [A Designer on Operating Systems](./blog/2014/on-operating-systems.md), October 21, 2014
-- [Surface Pro 3](./blog/2014/surface-pro-3.md), May 22, 2014
-- [The ClassRebels Dream](./blog/2014/classrebels.md), May 10, 2014
-- [Fleksy Keyboard Review](./blog/2014/fleksy-keyboard.md), February 7, 2014
+- [The ClassRebels Dream](./blog/2014/classrebels.md), Invalid Date
+- [Fleksy Keyboard Review](./blog/2014/fleksy-keyboard.md), Invalid Date
+- [A Designer on Operating Systems](./blog/2014/on-operating-systems.md), Invalid Date
+- [Surface Pro 3](./blog/2014/surface-pro-3.md), Invalid Date
 
 ### 2013
 
-- [Design](./blog/2013/design.md), December 16, 2013
-- [Internet.org Redesign](./blog/2013/internet-org.md), October 27, 2013
-- [Made with ♥ in India](./blog/2013/made-with-love-in-india.md), October 13, 2013
-- [Nineteen Eighty-four](./blog/2013/nineteen-eighty-four.md), October 9, 2013
-- [The Death of WWW](./blog/2013/the-death-of-www.md), August 30, 2013
+- [Design](./blog/2013/design.md), Invalid Date
+- [Internet.org Redesign](./blog/2013/internet-org.md), Invalid Date
+- [Made with ♥ in India](./blog/2013/made-with-love-in-india.md), Invalid Date
+- [Nineteen Eighty-four](./blog/2013/nineteen-eighty-four.md), Invalid Date
+- [The Death of WWW](./blog/2013/the-death-of-www.md), Invalid Date
 <!--/notes-->
 
 ## ℹ️ About this repository
