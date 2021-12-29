@@ -8,11 +8,12 @@ This repository contains my blog posts.
 
 ## 🌯 Summary
 
-- 37 notes in 9 years
+- 38 notes in 9 years
 
 ### 2021
 
 - [1,000 companies per batch? OMG Y Combinator](./blog/2021/yc-batch-size.md), Invalid Date
+- [2022 will be the Year of Teamwork](./blog/2021/year-of-teamwork.md), Invalid Date
 
 ### 2020
 
