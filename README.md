@@ -8,7 +8,7 @@ This repository contains my blog posts.
 
 ## 🌯 Summary
 
-- 38 notes in 9 years
+- 37 notes in 9 years
 
 ### 2021
 
@@ -18,7 +18,6 @@ This repository contains my blog posts.
 ### 2020
 
 - [Who is the author of an AI-generated news article?](./blog/2020/automated-journalism-authorship.md) (393 words), June 28, 2020
-- [Microsoft should buy Spotify](./blog/2020/microsoft-spotify.md) (170 words), June 28, 2020
 - [Microsoft is the most important company in the open-source ecosystem](./blog/2020/microsoft-open-source.md) (257 words), June 28, 2020
 - [Introducing Uppload v2](./blog/2020/introducing-uppload-v2.md) (90 words), January 3, 2020
 
