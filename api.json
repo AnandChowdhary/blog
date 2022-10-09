@@ -37,14 +37,14 @@
     "slug": "fleksy-keyboard.md",
     "title": "Fleksy Keyboard Review",
     "date": "2014-02-07T00:00:00.000Z",
-    "excerpt": "_Disclaimer: I wrote this article for the Fleksy Blog and they provided me with the premium version of the app, which, for the record, is worth the $3. 99.",
+    "excerpt": "Disclaimer: I wrote this article for the Fleksy Blog and they provided me with the premium version of the app, which, for the record, is worth the $3. 99.",
     "words": 763
   },
   {
     "slug": "classrebels.md",
     "title": "The ClassRebels Dream",
     "date": "2014-05-10T00:00:00.000Z",
-    "excerpt": "> “A substandard education will always result in a substandard nation. ” — Aubrey",
+    "excerpt": "“A substandard education will always result in a substandard nation.” — Aubrey",
     "words": 380
   },
   {
@@ -107,7 +107,7 @@
     "slug": "30-billion-opportunity.md",
     "title": "The Missed $30 Billion Opportunity",
     "date": "2016-02-25T00:00:00.000Z",
-    "excerpt": "When I posted [Study, but with a Difference](https://medium. com/@anandchowdhary/study-but-with-a-difference-89e0cb23ba85) two years back, my friends and I had an incredible idea that was going to change the way students think of education in India. We wanted to create a platform where students and teachers can find each other. We soon moved to a platform where students can access good-quality study material for free.",
+    "excerpt": "When I posted Study, but with a Difference two years back, my friends and I had an incredible idea that was going to change the way students think of education in India. We wanted to create a platform where students and teachers can find each other. We soon moved to a platform where students can access good-quality study material for free.",
     "words": 472
   },
   {
@@ -142,14 +142,14 @@
     "slug": "utwente-peoplepages.md",
     "title": "UTwente PeoplePages Contact Book",
     "date": "2017-08-12T00:00:00.000Z",
-    "excerpt": "As a future creative technology student at the University of Twente, I wanted to get in touch with a particular professor. Their website, [PeoplePages](https://people. utwente. nl/), uses a RESTful API for AJAX requests to search for university staff, so I decided to add everyone to my contacts using API scraping to save time in the future.",
+    "excerpt": "As a future creative technology student at the University of Twente, I wanted to get in touch with a particular professor. Their website, PeoplePages, uses a RESTful API for AJAX requests to search for university staff, so I decided to add everyone to my contacts using API scraping to save time in the future.",
     "words": 704
   },
   {
     "slug": "state-of-the-podcasts-2018.md",
     "title": "State of the Podcasts 2018",
     "date": "2018-05-28T00:00:00.000Z",
-    "excerpt": "I started _really_ consuming audio content in the form of podcasts and audiobooks about two years ago, and I'm very often asked what podcasts I listen to. This is the first list in a series of reviews about my daily drivers of content, services, and products.",
+    "excerpt": "I started really consuming audio content in the form of podcasts and audiobooks about two years ago, and I'm very often asked what podcasts I listen to. This is the first list in a series of reviews about my daily drivers of content, services, and products.",
     "words": 895
   },
   {
@@ -163,35 +163,35 @@
     "slug": "agastya-screen-reader.md",
     "title": "Introducing Universal Screen Reader on Agastya",
     "date": "2018-07-15T00:00:00.000Z",
-    "excerpt": "Read aloud was one of Agastya’s signature features when it first launched, and our beta partners like [Nayee Disha](http://www. nayeedisha. in/about) — a collaboration between the UNDP and large corporates to skill and employ women in rural India — extensively made use of it. It was the easiest way to have a blind- and illiterate-friendly mode which automatically reads aloud the content of a webpage.",
+    "excerpt": "Read aloud was one of Agastya’s signature features when it first launched, and our beta partners like Nayee Disha — a collaboration between the UNDP and large corporates to skill and employ women in rural India — extensively made use of it. It was the easiest way to have a blind- and illiterate-friendly mode which automatically reads aloud the content of a webpage.",
     "words": 504
   },
   {
     "slug": "state-of-the-dock-2018.md",
     "title": "State of the Dock 2018",
     "date": "2018-07-28T00:00:00.000Z",
-    "excerpt": "Two months after writing [State of the Podcasts](/blog/state-of-the/podcasts/2018/), where I talked about my go-to podcasts in 2018, this post is about the apps that find their home on my laptop's dock. These apps are those I use most often and make me much more productive.",
+    "excerpt": "Two months after writing State of the Podcasts, where I talked about my go-to podcasts in 2018, this post is about the apps that find their home on my laptop's dock. These apps are those I use most often and make me much more productive.",
     "words": 784
   },
   {
     "slug": "google-docs-github.md",
     "title": "Google Docs + GitHub",
     "date": "2019-03-11T17:44:38.000Z",
-    "excerpt": "When I first started using Google Docs, my favorite feature was \"smart\" autosaving. \"Smart\" because it's not just an interval, but also based on content changes. Today, almost all popular web-based text editors have both autosaving (WordPress, Medium, etc. ) and rich text formatting (think \\[f]CKEditor and TinyMCE a decade ago).",
+    "excerpt": "When I first started using Google Docs, my favorite feature was \"smart\" autosaving. \"Smart\" because it's not just an interval, but also based on content changes. Today, almost all popular web-based text editors have both autosaving (WordPress, Medium, etc. ) and rich text formatting (think [f]CKEditor and TinyMCE a decade ago).",
     "words": 153
   },
   {
     "slug": "twitter-subaccounts.md",
     "title": "Twitter Subaccounts",
     "date": "2019-03-12T18:02:42.000Z",
-    "excerpt": "I think Twitter should have a concept of sub-accounts. It's not smart to create a Twitter account for every small project, but it's often a necessity for support or a social media presence. In my case, I have a [Twitter account](https://twitter. com/AnandChowdhary), and so does [Oswald Labs](https://twitter. com/OswaldLabs) (which makes complete sense since it's a company and I'm just a small part of it).",
+    "excerpt": "I think Twitter should have a concept of sub-accounts. It's not smart to create a Twitter account for every small project, but it's often a necessity for support or a social media presence. In my case, I have a Twitter account, and so does Oswald Labs (which makes complete sense since it's a company and I'm just a small part of it).",
     "words": 281
   },
   {
     "slug": "package-managers.md",
     "title": "Package Manager Standardization",
     "date": "2019-03-15T18:54:59.000Z",
-    "excerpt": "Matt Turnbull has a great article titled [Why Are You Still Using Yarn in 2018? ](https://iamturns. com/yarn-vs-npm-2018/) which makes the argument that newer versions of NPM are just as fast as Yarn and switching to NPM might actually have some benefits (I'm still a Yarn user).",
+    "excerpt": "Matt Turnbull has a great article titled Why Are You Still Using Yarn in 2018? which makes the argument that newer versions of NPM are just as fast as Yarn and switching to NPM might actually have some benefits (I'm still a Yarn user).",
     "words": 239
   },
   {
@@ -205,14 +205,14 @@
     "slug": "agastya-4-augmentally.md",
     "title": "Introducing Agastya 4 + Augmenta11y",
     "date": "2019-05-06T00:00:00.000Z",
-    "excerpt": "11 months ago, [we launched Agastya 3](https://blog. oswald. foundation/introducing-the-new-agastya-privacy-first-and-universal-9a67ef66cb19), with the promise of a privacy-first accessibility widget. Today, we bring the next major version of Agastya with a focus on user customization, along with an entirely new app. Like the last update, Agastya 4 is currently available to our Pro 1M customers, and will be available to everyone this summer.",
+    "excerpt": "11 months ago, we launched Agastya 3, with the promise of a privacy-first accessibility widget. Today, we bring the next major version of Agastya with a focus on user customization, along with an entirely new app. Like the last update, Agastya 4 is currently available to our Pro 1M customers, and will be available to everyone this summer.",
     "words": 1063
   },
   {
     "slug": "state-of-the-podcasts-2019.md",
     "title": "State of the Podcasts 2019",
     "date": "2019-06-12T00:00:00.000Z",
-    "excerpt": "This is the second year of my annual State of the Podcasts list, where I highlight my daily drivers of audio content. This time last year, I published [State of the Podcasts 2018](/blog/state-of-the/podcasts/2018/), and not too much has changed. Let's see what has.",
+    "excerpt": "This is the second year of my annual State of the Podcasts list, where I highlight my daily drivers of audio content. This time last year, I published State of the Podcasts 2018, and not too much has changed. Let's see what has.",
     "words": 700
   },
   {
@@ -226,7 +226,7 @@
     "slug": "introducing-uppload-v2.md",
     "title": "Introducing Uppload v2",
     "date": "2020-01-03T00:00:00.000Z",
-    "excerpt": "In April 2018, I made the first commit to Uppload ([56bd930](https://github. com/elninotech/uppload/commit/56bd9307a020c692ed1383f0f4731690c00d90c9)) and pitched it as an idea to Michael, the founder of El Niño, to fund the development of an open-source JavaScript file uploader, something that the web desperately needed. Later that summer, we launched Uppload and started using it in our projects.",
+    "excerpt": "In April 2018, I made the first commit to Uppload (56bd930) and pitched it as an idea to Michael, the founder of El Niño, to fund the development of an open-source JavaScript file uploader, something that the web desperately needed. Later that summer, we launched Uppload and started using it in our projects.",
     "words": 90
   },
   {
@@ -240,14 +240,14 @@
     "slug": "automated-journalism-authorship.md",
     "title": "Who is the author of an AI-generated news article?",
     "date": "2020-06-28T10:18:00.000Z",
-    "excerpt": "If you read major American newspapers such as Forbes or the Los Angeles Times, chances are you've already read a story entirely written by an AI-powered software system. This process is known as automated journalism, and highlights an important question about authorship: _Who is the author of an article written by a virtual agent? _. A 2005 study found that research participants attribute story credit to the programmers who developed the AI or the news organization publishing the story.",
+    "excerpt": "If you read major American newspapers such as Forbes or the Los Angeles Times, chances are you've already read a story entirely written by an AI-powered software system. This process is known as automated journalism, and highlights an important question about authorship: Who is the author of an article written by a virtual agent?. A 2005 study found that research participants attribute story credit to the programmers who developed the AI or the news organization publishing the story.",
     "words": 393
   },
   {
     "slug": "yc-batch-size.md",
     "title": "1,000 companies per batch? OMG Y Combinator",
     "date": "2021-12-12T18:04:50.000Z",
-    "excerpt": "This is a response to [1,000 companies per Y Combinator batch? RIP Y Combinator](https://techcrunch. com/2021/12/10/y-combinator/) by Haje Jan Kamps, published on TechCrunch on December 10, 2021.",
+    "excerpt": "This is a response to 1,000 companies per Y Combinator batch? RIP Y Combinator by Haje Jan Kamps, published on TechCrunch on December 10, 2021.",
     "words": 961
   },
   {
