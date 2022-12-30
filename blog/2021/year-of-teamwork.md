@@ -8,7 +8,7 @@ I turn 24 today and I wanted to take this opportunity to reflect on my themes fr
 
 ## Themes are malleable
 
-The [theme system](https://www.themesystem.com) was popularized by CGP Gray in the *Cortex* podcast with Myke Hurley of Relay FM. I've been using it for the past few years  as alternate to New Year's Resolutions. Resolutions are specific goals, e.g., "I will lose X kg by Y date" or "I will go to the gym X times every week", which makes it very easy to fail.[^gym] Themes, on the other hand, evolve to what you make of them. The idea is simple -- an overarching theme acts as a North Star and guides you in making microdecisions. Your theme might be "Year of Health", but what that meant to you when you started the year might be very different from where you end up, but that's the point -- themes are malleable. You might have started deadlifting, changed to core exercises, or switched to watching your diet -- the theme remains the same, health. Whether you're on major crossroads (e.g., "should I focus on mental health and quit my job?") or whether you're making a tiny decisions (e.g., "should I order take out or cook something?"), your theme pushes you in one or the other direction.
+The [theme system](https://www.themesystem.com) was popularized by CGP Gray in the _Cortex_ podcast with Myke Hurley of Relay FM. I've been using it for the past few years as alternate to New Year's Resolutions. Resolutions are specific goals, e.g., "I will lose X kg by Y date" or "I will go to the gym X times every week", which makes it very easy to fail.[^gym] Themes, on the other hand, evolve to what you make of them. The idea is simple -- an overarching theme acts as a North Star and guides you in making microdecisions. Your theme might be "Year of Health", but what that meant to you when you started the year might be very different from where you end up, but that's the point -- themes are malleable. You might have started deadlifting, changed to core exercises, or switched to watching your diet -- the theme remains the same, health. Whether you're on major crossroads (e.g., "should I focus on mental health and quit my job?") or whether you're making a tiny decisions (e.g., "should I order take out or cook something?"), your theme pushes you in one or the other direction.
 
 ## Past themes
 
@@ -16,7 +16,7 @@ The [theme system](https://www.themesystem.com) was popularized by CGP Gray in t
 
 2020 was my **Year of Long Term**. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to focus my effort. I was almost certain that I didn't want to move back to India immediately, but I wasn't sure whether I want to get a job-job or work full-time on Oswald Labs. The one thing I knew for sure is that 2020 will determine what the rest of my 20s will be like, so it became the year where I say goodbye to myopic decisions and focus on the long term.
 
-I ended up doing the exact opposite as planned; I moved back to India in March because of the uncertainty brought by the pandemic, finished by thesis which ended up being nominated for the Creative Technology Bachelor Award and received 9/10, and cofounded a new company. With this, Pabio became by first official full-time job, and a job I can very well imagine doing for the next decade.
+I ended up doing the exact opposite as planned; I moved back to India in March because of the uncertainty brought by the pandemic, finished my thesis which ended up being nominated for the Creative Technology Bachelor Award and received 9/10, and cofounded a new company. With this, Pabio became by first official full-time job, and a job I can very well imagine doing for the next decade.
 
 ### Committing in 2021
 
@@ -32,7 +32,7 @@ I'm not sure whether I should be surprised by the fact that if you focus on one 
 
 Secondly, **I want to do a better job at internalizing feedback**; I've been told that I'm very receptive to it, but that's where it stops -- I don't actually do a good enough job in implementing it.
 
-Finally, like this past year, **I want to continue to do the things I did right, but invest more in my support system**.  I want to continue improving my physical and mental health and keep working hard towards my goals, both short- and long-term, while finding more time for my friends and family.
+Finally, like this past year, **I want to continue to do the things I did right, but invest more in my support system**. I want to continue improving my physical and mental health and keep working hard towards my goals, both short- and long-term, while finding more time for my friends and family.
 
 Other themes I considered were Year of Focus and Year of Wellness. I've found myself working on Sundays or checking my phone during coding sprints[^screen-time] and I want to do less at a time but with a greater focus, even if that means "harder vacationing"[^no-laptop], but I think the Year of Teamwork will help push me in the right direction with these goals as well.
 
