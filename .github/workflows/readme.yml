@@ -20,4 +20,4 @@ jobs:
         with:
           token: "${{ secrets.GH_PAT }}"
           commitMessage: ":pencil: Update blog posts summary [skip ci]"
-          dirName: "blog"
+          directory: "blog"
