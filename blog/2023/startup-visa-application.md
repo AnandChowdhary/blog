@@ -4,7 +4,7 @@ date: 2023-06-28
 
 # Pabio's startup visa application
 
-After you graduate from a Dutch university, you get a one-year orientation year visa to find a job or set up a business. Sukriti and I moved to the Netherlands in 2020 after spending a year in India during the pandemic, so the clock started ticking for my visa. Since Pabio was already fully operational at this point as a Swiss company (owned by an American company), I decided to set up a Dutch subsidiary and apply for a startup visa to keep my residency here.
+After you graduate from a Dutch university, you get a one-year orientation year visa to find a job or set up a business. Sukriti and I moved to the Netherlands in 2021 after spending a year in India during the pandemic, so the clock started ticking for my visa. Since Pabio was already fully operational at this point as a Swiss company (owned by an American company), I decided to set up a Dutch subsidiary and apply for a startup visa to keep my residency here.
 
 As part of this process, you work with a facilitator (e.g., startup accelerator or mentor) to get your business plan approved by the Dutch government. I worked with my friends at [Novel-T](https://novelt.com) and submitted the following application in December 2020, which was approve after around seven weeks. If you're looking to write a business plan for a startup visa, I hope this helps you get started!
 
@@ -46,7 +46,7 @@ During my study, I thought of several tech startup ideas and was an active parti
 
 Pabio provides rent-to-own furniture in Europe with an interior design service. Customers can visit our website, pabio.com, and share their interior design preferences via an online "style quiz" and receive a personalized concept for their new apartment. After accepting the proposal, all furniture is delivered and installed and the customer is charged a monthly subscription fee as opposed to purchasing the furniture directly.
 
-My co-founder Carlo Badini and I started Pabio in Switzerland (where my co-founder lives) while I was living in India last year. We have already furnished over 70 apartments there, and generated contracts of over \[redacted] million with monthly recurring revenue of over €\[redacted],000 as of last month.
+My co-founder Carlo Badini and I started Pabio in Switzerland (where my co-founder lives) while I was living in India last year. We have already furnished over \[redacted] apartments there, and generated contracts of over \[redacted] million with monthly recurring revenue of over €\[redacted] as of last month.
 
 I came back to the Netherlands earlier this year and want to start operations for Pabio in the Netherlands and the rest of Europe. The Dutch company Pabio B.V. is a wholly owned subsidiary of United States-based Pabio Inc. The parent company was incorporated in the United States to make it easier for American investors to participate in the company's funding. To date, we have raised over €3 million in funding from top American and European investors including Pioneer Find, Serpentine Ventures, and SessionVC, part of which we will be investing to set up the Dutch company.
 
