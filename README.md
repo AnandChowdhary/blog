@@ -15,7 +15,11 @@ I am currently working on redesigning my personal website. As soon as it's ready
 
 ## 🌯 Summary
 
-- 39 blog in 11 years
+- 40 blog in 12 years
+
+### 2024
+
+- [2024 will be the Year of Gratitude](./blog/2024/year-of-gratitude.md)
 
 ### 2023
 
