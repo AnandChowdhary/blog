@@ -1,6 +1,5 @@
 ---
 date: 2024-01-05
-draft: true
 ---
 
 # 2024 will be the Year of Gratitude
