@@ -7,7 +7,14 @@ draft: true
 
 I've always wanted to design state flags for India - I'm a big fan of the Japanese prefecture flags and have felt envious of countries like the Netherlands that have state flags. Flags instill pride and give the people a symbol to rally around.
 
-I worked with ChatGPT's new Agent to research the history, cultural symbols, and any existing concepts or local tastes for each Indian state to design these flag.s The colours and motifs are selected to evoke distinctive local tastes while remaining respectful of national symbols (the Indian tricolour and Ashoka Chakra) and court rulings (e.g., S.R. Bommai v. Union of India affirmed that states may have their own flags provided they do not dishonour the national flag).
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/ec14ac51-e189-4bf1-ac38-12a228f98745" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/46ace199-a74c-4e4a-9848-df3c732588ab" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/721c7543-cda3-41e9-8ba7-7c1db1a0170b" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/64a71971-cad5-4a68-ab1c-ae99af2ca171" />
+
+I worked with ChatGPT's new Agent to research the history, cultural symbols, and any existing concepts or local tastes for each Indian state to design these flags. I asked ChatGPT for early concepts and then designed the flags in Photoshop.
+
+The colours and motifs are selected to evoke distinctive local tastes while remaining respectful of national symbols (the Indian tricolour and Ashoka Chakra) and court rulings (e.g., S.R. Bommai v. Union of India affirmed that states may have their own flags provided they do not dishonour the national flag).
 
 ## Andhra Pradesh
 
