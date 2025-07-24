@@ -15,7 +15,11 @@ I am currently working on redesigning my personal website. As soon as it's ready
 
 ## 🌯 Summary
 
-- 40 blog in 12 years
+- 41 blog in 13 years
+
+### 2025
+
+- [State flags for India](./blog/2025/state-flags-for-india.md)
 
 ### 2024
 

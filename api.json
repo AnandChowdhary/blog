@@ -372,5 +372,17 @@
     "attributes": {
       "date": "2024-01-05T00:00:00.000Z"
     }
+  },
+  {
+    "slug": "state-flags-for-india.md",
+    "path": "blog/2025/state-flags-for-india.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/state-flags-for-india.md",
+    "title": "State flags for India",
+    "date": "2025-07-24T00:00:00.000Z",
+    "excerpt": "I've always wanted to design state flags for India - I'm a big fan of the Japanese prefecture flags and have felt envious of countries like the Netherlands that have state flags. Flags instill pride and give the people a symbol to rally around.",
+    "attributes": {
+      "date": "2025-07-24T00:00:00.000Z",
+      "draft": true
+    }
   }
 ]
