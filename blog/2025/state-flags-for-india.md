@@ -11,6 +11,8 @@ I've always wanted to design state flags for India - I'm a big fan of the Japane
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/46ace199-a74c-4e4a-9848-df3c732588ab" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/721c7543-cda3-41e9-8ba7-7c1db1a0170b" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/64a71971-cad5-4a68-ab1c-ae99af2ca171" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/4454d095-0f4b-45a4-a0ad-24ba4b5abb68" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/98c1e929-f177-4dff-a9cc-e8bd0c6d99b8" />
 
 I worked with ChatGPT's new Agent to research the history, cultural symbols, and any existing concepts or local tastes for each Indian state to design these flags. I asked ChatGPT for early concepts and then designed the flags in Photoshop.
 
@@ -92,6 +94,46 @@ Historically the core of the Magadha empire (6th century BCE–8th century C
 - Symbols:
   - Bodhi tree represents a human being's capacity to attain enlightenment
   - It's a simplified version of the emblem of Bihar
+ 
+## Chhattisgarh
+
+### Context
+
+Chhattisgarh has one of India's largest forest areas; its official animal is the wild Asian buffalo, the state bird is the hill myna, and the state tree is the sal. Culturally, the state hosts festivals like Bastar Dussehra and Madai, and features ancient monuments, waterfalls, and tribal art.
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4454d095-0f4b-45a4-a0ad-24ba4b5abb68" />
+
+### Meaning
+
+- Colors:
+  - Dark green for the vast sal forests and dense greenery of central India and a silent tribute to the forest-dwelling tribal communities
+  - Charcoal denotes earth, fire, and ancestral memory, the tactile visual language of Bastar tribal that anchors the emblem in indigenous tradition
+- Symbols:
+  - Buffalo head to honor the state animal
+  - Chitrakote waterfall
+ 
+## Goa
+
+### Context
+
+Goa;s history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admiral Afonso de Albuquerque captured it in 1510. The Portuguese period shaped Goan culture, introducing Catholicism, baroque architecture (e.g., Basilica of Bom Jesus) and festivals such as Carnival, Shigmo, and São João. Goans are reputedly "born with music and football in their blood". State symbols include the gaur (animal), ruby‑throated yellow bulbul (bird), frangipani (flower), coconut palm (heritage tree) and matti tree.
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/98c1e929-f177-4dff-a9cc-e8bd0c6d99b8" />
+
+### Meaning
+
+- Colors:
+  - Deep Maroon for the traditional Goan football jerseys, passion, and identity, also similar to the Portuguese flag
+  - White for coastal clarity and purity - white churches, white sands, white blossoms
+  - Soft yellow deontes the local flora and light from the peace, joy, and sacredness in Goan homes and altars
+- Symbols:
+  - Coconut palm, the heritage tree of Goa
+  - 3 frangipani flowers on the palm form a cross to reference the syncretic Christian heritage
+  - Waves recalling early trade and port heritage, acknowledges maritime history
  
 ## References
 
