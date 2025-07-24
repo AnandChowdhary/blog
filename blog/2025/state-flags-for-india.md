@@ -66,3 +66,26 @@ Assam is called the "land of red rivers and blue hills" and blends Indo-Burmese,
 - Symbols:
   - One‑horned rhinoceros
   - Circular braid suggesting a mekhela pattern
+
+## Bihar
+
+### Context
+
+Historically the core of the Magadha empire (6th century BCE–8th century CE) that produced the Mauryan and Gupta dynasties, Buddhism and Jainism flourished in Bihar. Pataliputra (Patna) was a major capital and the Chhath festival venerates the sun god Surya and his sister Chhathi Maiya where devotees offer prayers, fast, and stand in water over four days. State symbols include the gaur (animal), house sparrow (bird), orchid (flower) and banyan tree.
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/64a71971-cad5-4a68-ab1c-ae99af2ca171" />
+
+### Meaning
+
+- Colors:
+  - Saffron for spiritual illumination, it echoes Buddhism and Jainism’s origins in Bihar and the robes of monks and sages who once walked Bodh Gaya
+  - Riverine Blue for the the sacred Ganges, giver of life and ritual purity, and for flowing devotion, time, and continuity
+- Symbols:
+  - Bodhi tree represents a human being's capacity to attain enlightenment
+  - It's a simplified version of the emblem of Bihar
+ 
+## References
+
+- [Fantastic colors of Indian culture!](https://colors.dopely.top/inside-colors/fantastic-colors-of-indian-culture/) by Nazanin
