@@ -13,6 +13,9 @@ I've always wanted to design state flags for India - I'm a big fan of the Japane
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/64a71971-cad5-4a68-ab1c-ae99af2ca171" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/4454d095-0f4b-45a4-a0ad-24ba4b5abb68" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/98c1e929-f177-4dff-a9cc-e8bd0c6d99b8" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/3b385cce-4158-4112-8dce-fa7728ad41ec" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/4f032327-674b-41cb-8f88-11aa39928467" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/995a0a01-41b1-4dfb-9070-5025887dfc36" />
 
 I worked with ChatGPT's new Agent to research the history, cultural symbols, and any existing concepts or local tastes for each Indian state to design these flags. I asked ChatGPT for early concepts and then designed the flags in Photoshop.
 
@@ -118,7 +121,7 @@ Chhattisgarh has one of India's largest forest areas; its official animal is the
 
 ### Context
 
-Goa;s history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admiral Afonso de Albuquerque captured it in 1510. The Portuguese period shaped Goan culture, introducing Catholicism, baroque architecture (e.g., Basilica of Bom Jesus) and festivals such as Carnival, Shigmo, and São João. Goans are reputedly "born with music and football in their blood". State symbols include the gaur (animal), ruby‑throated yellow bulbul (bird), frangipani (flower), coconut palm (heritage tree) and matti tree.
+Goa's history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admiral Afonso de Albuquerque captured it in 1510. The Portuguese period shaped Goan culture, introducing Catholicism, baroque architecture (e.g., Basilica of Bom Jesus) and festivals such as Carnival, Shigmo, and São João. Goans are reputedly "born with music and football in their blood". State symbols include the gaur (animal), ruby‑throated yellow bulbul (bird), frangipani (flower), coconut palm (heritage tree) and matti tree.
 
 ### Flag
 
@@ -134,6 +137,64 @@ Goa;s history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admi
   - Coconut palm, the heritage tree of Goa
   - 3 frangipani flowers on the palm form a cross to reference the syncretic Christian heritage
   - Waves recalling early trade and port heritage, acknowledges maritime history
+ 
+## Gujarat
+
+### Context
+
+The culture of Gujarat is linked to Krishna mythology where traditional dances like garba and bhavai are performed during Navratri. Vaishnava saints Narsinh Mehta and Mirabai influenced music and poetry, and there is architectural heritage including the Somnath and Dwarka temples, Modhera Sun Temple and the step‑well Rani ki Vav. The craft traditions include bandhani tie‑dye, patola silk and Ajrakh printing, the Statue of Unity honours Sardar Patel, and ttate symbols are Asiatic lion (animal), greater flamingo (bird), marigold (flower), banyan (tree).
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3b385cce-4158-4112-8dce-fa7728ad41ec" />
+
+### Meaning
+
+- Colors:
+  - Saffron for the Garba energy, the desert sunset over the Rann of Kutch, and spiritual devotion and cultural fervor rooted in Krishna bhakti
+  - Deep maroon from traditional tie-dye palettes, festive and ornamental, echoing bridal wear, rituals, and the textile identity
+  - Mustard gold represents woven elegance, the mathematical precision of Patan's patola sarees glowing like temple carvings under the Gujarat sun
+- Symbols:
+  - Asiatic lion from the Gir forest
+  - The Sun, Pratyaksha Brahman is the visible manifestation of the divine
+  - Rays contain bandhani dots recognizing Gujarat’s craft traditions
+ 
+## Haryana
+
+### Context
+
+Haryana's landscape saw Indus Valley sites (Rakhigarhi, Bhirrana) and the Mahabharata's Kurukshetra war, and the state hosts the three battles of Panipat. Folk culture features hookahs, charpoys, Vedic chanting, and fairs like Surajkund crafts mela and Teej represent the state. Symbols are blackbuck (animal), black francolin (bird), lotus (flower) and peepal (tree).
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4f032327-674b-41cb-8f88-11aa39928467" />
+
+### Meaning
+
+- Colors:
+  - Earthy Brown for the fertile plains and farmlands and the soil of ancient sites like Rakhigarhi and Kurukshetra
+  - White shows purity and clarity, 
+- Symbols:
+  - Blackbuck, the state animal
+  - 3 blocks symbolising the three Panipat battles being leapfrogged
+ 
+## Himachal Pradesh
+
+### Context
+
+The mountainous terrain preserved distinct cultures and the state is famed for handicrafts (Kullu shawls, Kangra paintings, Chamba rumals). Wooden temples replicate the divine deodar tree and reflect local deities and famous festivals include Kullu Dussehra, Minjar Mela and Mandi Mahashivratri. State symbols are snow leopard (animal), western tragopan (bird), pink rhododendron (flower) and deodar cedar (tree).
+
+### Flag
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/995a0a01-41b1-4dfb-9070-5025887dfc36" />
+
+### Meaning
+
+- Colors:
+  - Deep pine green for the forested slopes of the Himalayas and the sacred deodar cedar which also echoes the wooden architecture of mountain temples
+- Symbols:
+  - Blackbuck, the state animal
+  - 3 blocks symbolising the three Panipat battles being leapfrogged
  
 ## References
 
