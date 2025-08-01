@@ -19,7 +19,7 @@ jobs:
         uses: AnandChowdhary/notes-summary@HEAD
         with:
           token: "${{ secrets.GH_PAT }}"
-          openAiApiKey: "${{ OPENAI_API_KEY.GH_PAT }}"
+          openAiApiKey: "${{ secrets.OPENAI_API_KEY.GH_PAT }}"
           commitMessage: ":pencil: Update blog posts summary [skip ci]"
           directory: "blog"
       - name: Dispatch AnandChowdhary/everything update
