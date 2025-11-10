@@ -21,13 +21,10 @@ Over the next few months, we communicated daily on Zoom (sometimes several hours
 
 In parallel, Carlo onboarded an interior designer part time to get started on the first concept for Rahel, his early employee at Cleverclip who later became the studio's CEO and our first customer. After 20 hours of design work and a budget of CHF 20,000 for all furniture, Kateryna prepared a list of all items and Carlo prepared a presentation to pitch Rahel. "They really love it!", he said. In April, Carlo coordinated the ordering and logistics of this first Koj-furnished home, and Kateryna sourced additional items like curtains and decor. She also suggested having a detailed questionnaire filled in by prospects so we can design the initial concept taking their preferences into account and save time spent in revisions.
 
+![Detailing the bedroom atmosphere](/assets/accidentally-founding-koj/koj-bedroom-moodboard.jpg)
+![Moodboard explorations for Rahel](/assets/accidentally-founding-koj/koj-bedroom-concept.jpg)
 ![Early Koj living room render](/assets/accidentally-founding-koj/koj-render-preview-1.jpg)
 ![Iterating on the first concept](/assets/accidentally-founding-koj/koj-render-preview-2.jpg)
-
-We celebrated every new visual. Renders like these were the first time the idea felt tangible and it reminded us that we could make rentals feel like intentional homes.
-
-![Moodboard explorations for Rahel](/assets/accidentally-founding-koj/koj-bedroom-concept.jpg)
-![Detailing the bedroom atmosphere](/assets/accidentally-founding-koj/koj-bedroom-moodboard.jpg)
 
 In May, I joined the Slack workspace as Carlo's "late" cofounder, although we decided to drop the "late" prefix shortly after. I got started with what all technical founders do: creating a GitHub org, setting up a password manager, availing AWS credits, and so on. We also purchased our first domain, joinkoj.com, and started exploring the business model. I began competitive monitoring of furniture-rental players like Fernish and OliverSpace, and Carlo debated whether it was better to own our own furniture inventory or partner with retailers.
 
@@ -87,8 +84,8 @@ The designers standardized three styles - Scandinavian, Industrial, and Modern C
 
 To scale up, we started working with a marketing agency, documented internal processes and tooling in Notion, and hired additional freelance designers. Our favorite product unlock was more interactive proposals. Customers could click a sofa, swap it, and instantly see the price change without waiting for a new render. It felt like magic, even though it required sleepless nights wiring presets, add-ons, and soft credit checks into the backend.
 
-![Updating proposals without waiting on new renders felt like magic](/assets/accidentally-founding-koj/koj-change-gif.gif)
-![Showing customers before-and-after changes unlocked faster approvals](/assets/accidentally-founding-koj/koj-change-gif-2.png)
+![Updating proposals without waiting on new renders felt like magic](/assets/accidentally-founding-koj/koj-change-1.gif)
+![Showing customers before-and-after changes unlocked faster approvals](/assets/accidentally-founding-koj/koj-change-2.gif)
 
 We also worked on PPPP (Price Per Product Project, because naming things is hard), wherein each item was assigned a fixed price for each minimum rental duration that added up to the monthly price, rather than a single price for the entire apartment. It worked: customers stopped asking "Why does my living room cost X?" and started asking "Can I add the lamp?"
 
