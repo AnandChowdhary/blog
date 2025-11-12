@@ -44,11 +44,9 @@ We also set up Airtable for our internal furniture catalogue and task tracking f
 ![Our first Airtable pipeline tracking every lead](/assets/accidentally-founding-koj/koj-airtable.png)
 ![One of my early render experiments](/assets/accidentally-founding-koj/koj-render-anand.png)
 
-To market to both real estate professionals and consumers, we created dedicated landing pages focused on B2B and the environmental impact of "fast furniture" respectively. With this sudden surge of interest leading to more leads than we could manage, we migrated all leads from Firebase to Pipedrive to centralize pipeline management.
+We built dedicated landing pages, one for real estate partners, and about the environmental impact of "fast furniture". Leads snowballed. When we couldn't keep track anymore, we migrated everything from Firebase to Pipedrive with a Slack for each concept. It made the workspace look like a NASA control room.
 
 We also realized that we probably needed to hire someone to help with sales sooner rather than later, and made several improvements to our onboarding funnel such as adding a date selector for gathering timelines, asking prospects to upload their floor plans, and a new component to visualize different interior design styles.
-
-Leads snowballed. We spun up dedicated landing pages, one for real estate partners, and about the environmental impact of "fast furniture". When we couldn't keep track anymore, we migrated everything from Firebase to Pipedrive and invented a Slack naming scheme: every lead got a `#concept-###` channel. It made the workspace look like a NASA control room.
 
 ![Migrating leads into Pipedrive to stop losing follow-ups](/assets/accidentally-founding-koj/koj-pipedrive.png)
 
@@ -99,7 +97,7 @@ Customers were asking "Why does my living room cost X?" because our pricing was 
 
 ## Rebranding to Pabio
 
-Then came the rebrand. We loved Koj, but the world kept pronouncing it "codge" instead of "koi". We couldn't buy the .com and every intro call started with pronunciation lessons. So we threw a naming sprint, explored hundreds of options, and landed on Pabio - warm, memorable, and available.
+Then came the rebrand. We loved Koj, but the world kept pronouncing it "codge" instead of "koi". We couldn't buy the .com and every intro call started with pronunciation lessons. So we threw a naming sprint, explored hundreds of options, and landed on Pabio - warm, memorable, and most importantly - available.
 
 ![Name brainstorming](/assets/accidentally-founding-koj/koj-name-1.png)
 ![Name brainstorming](/assets/accidentally-founding-koj/koj-name-2.png)
@@ -114,14 +112,16 @@ Redirect rules, ad tracking, and translations ate entire weekends; our marketing
 ![Pabio website redesign](/assets/accidentally-founding-koj/pabio-website-1.gif)
 ![Pabio proposal](/assets/accidentally-founding-koj/pabio-proposal-1.png)
 
-April already felt like stepping onto a conveyor belt that kept speeding up, and then Michael Seibel from Y Combinator called to say we got into the Summer 2021 batch. We hired Ayush and Mihir as engineering interns who lived inside Lounge, fixing my bugs and building a new admin app. Some of the obvious-in-hindsight features we built for the first time were add-ons (you always need a bulb when you buy a lamp!) and allowing customers to make changes to orders after they've been confirmed already.
+April already felt like stepping onto a conveyor belt that kept speeding up, and then Michael Seibel from Y Combinator called to say we got into the Summer 2021 batch. We hired Ayush and Mihir as part-time engineers who lived inside Lounge, fixing my bugs and building a new admin app. Some of the obvious-in-hindsight features we built for the first time were add-ons (you always need a bulb when you buy a lamp!) and allowing customers to make changes to orders after they've been confirmed already.
 
 ![Pabio Lounge inventory management](/assets/accidentally-founding-koj/pabio-lounge-1.png)
 ![Pabio Lounge addons](/assets/accidentally-founding-koj/pabio-lounge-2.png)
 
 We wrote an after-sales checklist in Notion because "we'll remember it next time" stopped scaling, and we built a great experience where customers could track delivery progress and manage their orders. We ran dozens of hotfix deploys to keep Lounge stable while designers onboarded new 3D artists and chased missing Blender assets. All of that chaos happened in the same weeks the YC onboarding kicked off, so every celebratory moment came with a fresh Linear issue.
 
-Here are lessons I learned from accidentally founding Koj:
+## Three takeaways
+
+Here are the three most important lessons I learned from accidentally founding Koj:
 
 **Operations are the real product.**  
 What looked like an interior design startup was really a logistics and coordination engine: design, sourcing, shipping, assembly, and financing. Most of our innovation came from reducing operational pain instead of adding more features. A few Facebook ads, a designer, a spreadsheet, and a Slack channel turned into real customers, and that early speed helped us understand what worked long before the product was "ready."
