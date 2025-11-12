@@ -97,16 +97,31 @@ To scale up, we started working with a marketing agency, documented internal pro
 
 Customers were asking "Why does my living room cost X?" because our pricing was a black box. So we worked on PPPP (Price Per Product Project, because naming things is hard), wherein each item was assigned a fixed monthly price for each minimum rental duration, so customers could see exactly how much each item costs and add or remove items as they please.
 
-Then came the rebrand. We loved Koj, but the world kept pronouncing it "codge" instead of "koi". We couldn't buy the .com and every intro call started with pronunciation lessons. So we threw a naming sprint, explored hundreds of options, and landed on Pabio - warm, memorable, and available. It felt like naming a band right before the big tour.
+## Rebranding to Pabio
+
+Then came the rebrand. We loved Koj, but the world kept pronouncing it "codge" instead of "koi". We couldn't buy the .com and every intro call started with pronunciation lessons. So we threw a naming sprint, explored hundreds of options, and landed on Pabio - warm, memorable, and available.
 
 ![Name brainstorming](/assets/accidentally-founding-koj/koj-name-1.png)
 ![Name brainstorming](/assets/accidentally-founding-koj/koj-name-2.png)
+
+We also took this opportunity to redesign our brand and website. Carlo designed a new website in Figma, and we set up a staging environment. This time around, we added a headless CMS so non-technical team members could ship content updates faster than we could swap screenshots in Slack.
+
 ![Koj to Pabio logo change](/assets/accidentally-founding-koj/koj-name-3.png)
 ![Pabio logo explorations](/assets/accidentally-founding-koj/pabio-logo-explorations.png)
 
-By spring 2021 we were tired, proud, and very aware of how fragile the whole system still was. That's exactly why I wanted to write this series: the messy middle was where the magic (and the scars) came from.
+Redirect rules, ad tracking, and translations ate entire weekends; our marketing partners debugged Facebook and GTM events while we tested every redirect twice before flipping the switch (you don't want to mess up changing domains). But it all worked out in the end - the brand finally felt aligned with the product we were shipping.
 
-Here are first lessons I learned from accidentally founding Koj:
+![Pabio website redesign](/assets/accidentally-founding-koj/pabio-website-1.gif)
+![Pabio proposal](/assets/accidentally-founding-koj/pabio-proposal-1.png)
+
+April already felt like stepping onto a conveyor belt that kept speeding up, and then Michael Seibel from Y Combinator called to say we got into the Summer 2021 batch. We hired Ayush and Mihir as engineering interns who lived inside Lounge, fixing my bugs and building a new admin app. Some of the obvious-in-hindsight features we built for the first time were add-ons (you always need a bulb when you buy a lamp!) and allowing customers to make changes to orders after they've been confirmed already.
+
+![Pabio Lounge inventory management](/assets/accidentally-founding-koj/pabio-lounge-1.png)
+![Pabio Lounge addons](/assets/accidentally-founding-koj/pabio-lounge-2.png)
+
+We wrote an after-sales checklist in Notion because "we'll remember it next time" stopped scaling, and we built a great experience where customers could track delivery progress and manage their orders. We ran dozens of hotfix deploys to keep Lounge stable while designers onboarded new 3D artists and chased missing Blender assets. All of that chaos happened in the same weeks the YC onboarding kicked off, so every celebratory moment came with a fresh Linear issue.
+
+Here are lessons I learned from accidentally founding Koj:
 
 **Operations are the real product.**  
 What looked like an interior design startup was really a logistics and coordination engine: design, sourcing, shipping, assembly, and financing. Most of our innovation came from reducing operational pain instead of adding more features. A few Facebook ads, a designer, a spreadsheet, and a Slack channel turned into real customers, and that early speed helped us understand what worked long before the product was "ready."
