@@ -132,4 +132,4 @@ The reason we built rendering automation, Airtable workflows, and an ERP was not
 **Customers teach you faster than any spreadsheet.**  
 Our proposal fee, style standardization, and design revisions were all reactions to real customer behavior, and nothing in our early documents predicted that. It reminded me that data is what people do, not what they say. I feel like we had to learn from first-hand experience what YC has been saying for years: Talk to your users.
 
-Next up in this series: how Koj grew into Pabio, the Y Combinator experience, and the messy decisions that followed. Continue to the next article: [The life of Pabio]
+Next up in this series: how Koj grew into Pabio, the Y Combinator experience, and the messy decisions that followed. Continue to the next article: [The life of Pabio](/blog/2025/the-life-of-pabio).

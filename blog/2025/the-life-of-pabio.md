@@ -47,7 +47,7 @@ In fact, your company blurb (short intro) is something YC helps you write on day
 
 Demo Day itself was anticlimactic - a pre-recorded video instead of the live performance you'd expect, but we were already over halfway done with our seed round by then (many investors reach out to you during the batch). We had grown from $10K MRR to around $30K MRR in those three months, so we wanted to raise $2M at a $20M cap. We ending up putting a hard stop at $2.2M at $25M, mostly over Zoom calls, bringing our total funding to almost $3.5M.
 
-![Screenshot of the demo day pitch](/assets/the-life-of-pabio/yc-demo-day-pitch.png)
+![Screenshot of the demo day pitch](/assets/the-life-of-pabio/yc-demo-day.png)
 
 A lot of people ask me if what the value of doing YC is. I always say the same thing: It's more than the badge. It's the partners, it's everything you learn during the batch, and it's the incredible community that you are part of for life. That being said, the YC badge opened doors we didn't even know existed. Investors who'd passed on us at a $10M cap during out pre-seed were extremely keen on the $25M valuation. But it also set expectations sky-high.
 
@@ -150,7 +150,6 @@ In September 2022, we pulled off something audacious: we built a pop-up bedroom 
 All day, our team would hang out at that apartment and talk to potential customers about they can also have a really nice place to live in. And in the evening, we organized dinners every night - one with early customers, one with early investors, one with the team, and so on.
 
 ![Poster at the train station](/assets/the-life-of-pabio/zurich-poster.png)
-![Dining table](/assets/the-life-of-pabio/zurich-dining.png)
 
 I would bring sushi from the take-out place at the train station (sponsored by our friends at Uber Eats), Carlo would sleep in that bed every night, and I would do the dishes in the morning for the next dinner.
 
@@ -165,10 +164,21 @@ Set up a live stream so for all of those days, everyone could see exactly what's
 I think this was when we were at our peak. But the logistics were insane. We printed graphics, placed ads on TV, hauled in real furniture, and created sample proposals for every style.
 
 ![The boys](/assets/the-life-of-pabio/zurich-boys.png)
-![Team at the train station](/assets/the-life-of-pabio/zurich-team.png)
+![Dining table](/assets/the-life-of-pabio/zurich-dining.png)
 
 For five days, we turned the train station into our showroom. The results: thousands of visitors, hundreds of leads, and priceless brand awareness. More importantly, we learned that experiential marketing could crack the trust barrier that plagued online furniture rental.
 
-## Move fast and save things
+## Three takeaways
 
-TO BE CONTINUED...
+Here are the three most important lessons I learned from scaling Pabio:
+
+**If you need to constantly buy customers, you don't have product-market fit.**  
+Our addiction to paid acquisition was a symptom, not a solution. We were paying people to want our product rather than fixing why they didn't want it organically. Real product-market fit doesn't require a marketing budget to sustain. If you don't have word of mouth, referrals, and organic growth on day 1, you likely won't have it on day 1,000 either.
+
+**Don't reinvent the wheel for the sake of it.**  
+When we picked MoKs instead of MRR, we thought we were being clever, but we were just being confusing. Standard metrics create alignment, enable comparison, and prevent self-deception. And Building Lounge before we knew what we actually needed was classic premature optimization when we could have used existing tools. Every time we ignored peer-reviewed, empirically-proven advice like YC's, they were right and we were wrong.
+
+**Complexity is the enemy of growth.**  
+Every time we faced a growth challenge, our instinct was to add something new - more furniture styles, custom payment terms, bespoke contracts, virtual consultations. But each addition created exponential operational overhead. What started as flexibility to win customers became the very thing that made us too slow and expensive to serve them. The irony is that simplicity - one style, one price, one process - would have forced us to nail the fundamentals instead of papering over problems with complexity.
+
+What's next? We'd find out the hard way that we were bleeding cash on every order and transform from furniture rental to AI sales automation in 48 desperate hours. Continue to the next article: [Move fast and save things](/blog/2025/move-fast-and-save-things).
