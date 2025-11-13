@@ -438,5 +438,17 @@
       "draft": true
     },
     "emoji": "🏠💡🚀"
+  },
+  {
+    "slug": "the-life-of-pabio.md",
+    "path": "blog/2025/the-life-of-pabio.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-life-of-pabio.md",
+    "title": "The Life of Pabio",
+    "date": "2025-11-11T00:00:00.000Z",
+    "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj and getting into Y Combinator, we rebranded to Pabio and embarked on what would become an intense journey of hypergrowth, operational complexity, and hard-earned lessons about unit economics and sustainable scaling. Our Y Combinator experience\n\nWe were on the fence about whether YC was a good fit for us - Koj wasn't \"pure tech\" and wa",
+    "attributes": {
+      "date": "2025-11-11T00:00:00.000Z",
+      "draft": true
+    }
   }
 ]

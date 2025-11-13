@@ -15,10 +15,11 @@ I am currently working on redesigning my personal website. As soon as it's ready
 
 ## 🌯 Summary
 
-- 42 blog in 13 years
+- 43 blog in 13 years
 
 ### 2025
 
+- [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
 - [ 🏠💡🚀Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
 - [ 🟧🟩🕉️State flags for India](./blog/2025/state-flags-for-india.md)
 
