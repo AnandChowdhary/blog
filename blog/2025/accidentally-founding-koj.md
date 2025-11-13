@@ -107,7 +107,7 @@ We also took this opportunity to redesign our brand and website. Carlo designed 
 ![Koj to Pabio logo change](/assets/accidentally-founding-koj/koj-name-3.png)
 ![Pabio logo explorations](/assets/accidentally-founding-koj/pabio-logo-explorations.png)
 
-Redirect rules, ad tracking, and translations ate entire weekends; our marketing partners debugged Facebook and GTM events while we tested every redirect twice before flipping the switch (you don't want to mess up changing domains). But it all worked out in the end - the brand finally felt aligned with the product we were shipping.
+Redirect rules, ad tracking, and translations ate entire weekends; our marketing partners debugged Facebook and GTM events while we tested every redirect twice before flipping the switch (you don't want to mess up changing domains). And the lesson was clear: always bet on dot-com; short but unpronounceable .co domains rarely make the cut. We'd wasted months building brand recognition for a name people couldn't say or spell. But it all worked out in the end - the brand finally felt aligned with the product we were shipping.
 
 ![Pabio website redesign](/assets/accidentally-founding-koj/pabio-website-1.gif)
 ![Pabio proposal](/assets/accidentally-founding-koj/pabio-proposal-1.png)
