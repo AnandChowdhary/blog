@@ -12,7 +12,7 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ### 2025
 
-- [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
+- 🤖🔄💻 [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
 - 🛋️📈🗺️ [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
 - 🏠💡🚀 [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
 - 🟧🟩🕉️ [State flags for India](./blog/2025/state-flags-for-india.md)
