@@ -459,6 +459,7 @@
     "title": "Running Claude Code in a loop",
     "date": "2025-11-15T15:22:04.000Z",
     "excerpt": "This all started because I was contractually obligated to write unit tests for a codebase with hundreds of thousands of lines of code and go from 0% to 80%+ coverage in the next few weeks - seems like something Claude should do. So I built Continuous Claude, a CLI tool to run Claude Code in a loop that maintains a persistent context across multiple iterations.",
-    "attributes": {}
+    "attributes": {},
+    "emoji": "🤖🔄💻"
   }
 ]
