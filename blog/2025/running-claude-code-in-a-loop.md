@@ -8,32 +8,47 @@ Turns out, it's as simple as just running Claude Code in a continuous loop - but
 
 ## While + git + persistence
 
-When you have a task that is too complex to complete in a single step, for example migrating from Next.js to TanStack Start or adding documentation for a previously undocumented codebase, you need to break down the task into many small tasks (e.g., only document this one file first, then the rest of the folder, and so on). So all you need is a while loop that stops eventually, a version control and PR reviews integrations, and a persistent context mechanism.
+The first version of this idea was a simple while loop:
 
-I wrote a Bash script that acts as the conductor, repeatedly invoking Claude Code with the appropriate prompts and handling the surrounding tooling. The script accepts the prompt (task description), the maximum number of iterations to run, and repository information (owner and repo name for the GitHub integration). When started, it goes into a loop (potentially infinite) where each loop iteration corresponds to Claude attempting a unit of work towards the overall goal.
+```bash
+while true; do
+  claude --dangerously-skip-permissions "Increase test coverage [...] write notes for the next developer in TASKS.md, [etc.]"
+  sleep 1
+done
+```
 
-This loop runs Claude Code with the prompt that the user supplies but also explicitly tells the model: "This is part of a continuous development loop... you don't need to complete the entire goal in one iteration, just make meaningful progress on one thing, then leave clear notes for the next iteration (human or AI)... think of it as a relay race where you're passing the baton." This sets the right expectations for the model that it should aim for incremental progress, not rush to finish everything at once.
+to which my friend [Namanyay](https://nmn.gl) of Giga AI said "genius and hilarious". I spent all of Saturday building the rest of the tooling. Now, the Bash script acts as the conductor, repeatedly invoking Claude Code with the appropriate prompts and handling the surrounding tooling. For each iteration, the script:
 
-The script handles also the git operations around the code changes. For each loop, it creates a new branch, generates the commit, pushes it, and creates a pull request using GitHub's CLI. Next step is monitoring and control: it enters a time-interval loop where it periodically checks the status of CI checks and reviews on that PR using `gh pr checks` and waits for the PR to get all green statuses and required approvals. If everything looks good (tests passed, etc.), it merges the PR, then pulls the updated main branch and cleans up the local feature branch, so essentially implementing a merge queue.
+1. Creates a new branch and runs Claude Code to generate a commit
+2. Pushes changes and creates a pull request using GitHub's CLI
+3. Monitors CI checks and reviews via `gh pr checks`
+4. Merges on success or discards on failure
+5. Pulls the updated main branch, cleans up, and repeats
 
-Should an iteration fail, it can just close the PR, delete the branch, and disregard the work. This is indeed wasteful, but now with knowledge of the test failures, the next attempt can choose to try something different. And because it piggybacks on top of GitHub, you can combine things like code review and preview environments without any additional work, for example if the repo requires at least one code owner review or has specific CI checks that must pass, it will simply be constrained by those and will not merge until they are satisfied.
+When an iteration fails, it closes the PR and discards the work. This is wasteful, but with knowledge of test failures, the next attempt can try something different. Because it piggybacks on GitHub's existing workflows, you get code review and preview environments without additional work - if your repo requires code owner approval or specific CI checks, it will respect those constraints.
 
 ## Context continuity
 
-It's a common practice to use a shared persistent markdown file like TASKS.md to maintain context continuity across different agents working on the same task. The MVP of this is just a single file that serves as an external memory where Claude can record what it has done and what should be done next, any new insights or mistakes, and so on.
+A shared markdown file serves as external memory where Claude records what it has done and what should be done next. Without specific prompting instructions, it would create verbose logs that harm more than help - the intent is to keep notes as a clean handoff package between runs. So the key instruction to the model is: "This is part of a continuous development loop... you don't need to complete the entire goal in one iteration, just make meaningful progress on one thing, then leave clear notes for the next iteration... think of it as a relay race where you're passing the baton."
 
-The default prompt includes guidelines about what these notes should contain: they should be concise and action-oriented, focusing on context that will help the next step, and should not become a verbose log or include information that can be deduced from the code or test results GitHub. Without these specific prompting instructions, it would go rogue and create a really long file that harms more than helps, when the intent is to keep the notes as a clean handoff package between runs.
+Here's an actual production example: the previous iteration ended with "Note: tried adding tests to X but failed on edge case, need to handle null input in function Y" and the very next Claude invocation saw that and prioritized addressing it. A single small file reduces context drift, where it might forget earlier reasoning and go in circles.
 
-An actual production example I saw was that the previous iteration ended with "Note: I tried adding tests to X but they paid because of an edge case, need to handle null input in function Y" and the very next Claude invocation saw that and prioritized addressing it. I think you can definitely have a much better mechanism but I found that a single tiny file already reduces the chances of context drift, where it might forget earlier reasoning or work and go in circles.
+What's fascinating is how the markdown file enables self-improvement. A simple "increase coverage" from the user becomes "run coverage, find files with low coverage, do one at a time" as the system teaches itself through iteration and keeps track of its own progress.
 
-I am not yet sure whether I want this file to be checked into the git commit history. This file serves as an external scratchpad for Claude, giving it a long-term memory that survives beyond the context window of any single invocation, so one can argue that it makes sense to have a more sophisticated system that can manage multiple tasks while tracking the changes to the living document, but I'm not sure yet. Either way, the trade-off is that the notes rely on Claude to faithfully maintain them (which I observed it generally will because of the prompting).
+## Continuous AI
+
+My friends at GitHub Next have been exploring this idea in their project [Continuous AI](https://githubnext.com/projects/continuous-ai/) and I shared Continuous Claude with them.
+
+One compelling idea from the team was running specialized agents simultaneously - one for development, another for tests, a third for refactoring. While this could divide and conquer complex tasks more efficiently, it possibly introduces coordination challenges. I'm trying a similar approach for adding tests in different parts of a monorepository at the same time.
+
+The [agentics project](https://github.com/githubnext/agentics) combines an explicit research phase with pre-build steps to ensure the software is restored before agentic work begins. The fault-tolerance is crucial - if things go wrong, it just hits resource limits and tries again. Or you throw the generated PR away if it's garbage. "It's so much better than having a frustrated user tearing their hair out trying to guide a faulty agent, or trying to fix up dodgy PRs," said GitHub Next Principal Researcher [Don Syme](https://github.com/dsyme).
+
+It reminded me of a concept in economics/mathematics called "radiation of probabilities" (I know, pretty far afield, but bear with me) and here, each agent run is like a random particle - not analyzed individually, but the general direction emerges from the distribution. Each run can even be thought of as idempotent: if GitHub Actions kills the process after six hours, you only lose some dirty files that the next agent will pick up anyway. All you care about is that it's moving in the right direction in general, for example increasing test coverage, rather than what an individual agent does. This wasteful-but-effective approach becomes viable as token costs approach zero, similar to Cursor's multiple agents.
 
 ## Dependabot on steroids
 
-I was thinking about what could be some other use cases for this. Tools like Renovate and Dependabot were the first to come to mind, while Continuous Code is not limited to only dependencies and also capable of fixing post-update issues. So you could run a GitHub Actions workflow that runs every morning, checks for dependency updates, and then continuously makes updates to the codebase based on the release notes of the dependency until you're all green again.
+Tools like Dependabot handle dependency updates, but Continuous Claude can also fix post-update breaking changes using release notes. You could run a GitHub Actions workflow every morning that checks for updates and continuously fixes issues until all tests pass.
 
-Also refactoring tasks like breaking a monolith into modules, modernizing callbacks to async/await, or updating code to new style guidelines can be done stepwise. For example, it could over a weekend perform a series of 20 pull requests, each doing part of the refactor, and each PR will have to pass all tests/CI. There's a whole class of tasks that are too mundane for us but still require attention to avoid breaking the build - can this be how we address technical debt?
+Large refactoring tasks become manageable: breaking a monolith into modules, modernizing callbacks to async/await, or updating to new style guidelines. It could perform a series of 20 pull requests over a weekend, each doing part of the refactor with full CI validation. There's a whole class of tasks that are too mundane for humans but still require attention to avoid breaking the build.
 
-In general, I think that the model of running the coding agent in a loop better mirrors human development practices and avoids the common pitfall it trying to solve everything in one go; even with plan mode, I think iterative refinement is the way to go for larger tasks. Also depending on your appetite, the system can be as human-in-the-loop as you like. Claude Code handles the grunt work of coding and iteration, but humans remain in the loop through familiar mechanisms like PR reviews and reading the markdown notes.
-
-Continuous Claude emphasizes small, incremental changes rather than giant leaps. Download the CLI from GitHub to get started: [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)
+The model mirrors human development practices. Claude Code handles the grunt work, but humans remain in the loop through familiar mechanisms like PR reviews. Download the CLI from GitHub to get started: [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)
