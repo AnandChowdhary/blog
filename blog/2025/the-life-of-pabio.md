@@ -5,35 +5,31 @@ draft: true
 
 # The Life of Pabio
 
-This is the second chapter in my five-year retrospective. After [accidentally founding Koj](/blog/2025/accidentally-founding-koj) and getting into Y Combinator, we rebranded to Pabio and embarked on what would become an intense journey of hypergrowth, operational complexity, and hard-earned lessons about unit economics and sustainable scaling.
+This is the second chapter in my five-year retrospective. After [accidentally founding Koj](/blog/2025/accidentally-founding-koj), we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life.
 
-## Our Y Combinator experience
+## Convincing Silicon Valley that sofas are SaaS
 
-We were on the fence about whether YC was a good fit for us - Koj wasn't "pure tech" and wasn't based in San Francisco. I remember discussing the idea of doing YC with Carlo within the first few months of starting Koj, and it was something I dreamed of in my high school computer club, so it was still very much on the bucket list.
+We weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and delivery windows, so it was a bit of a stretch. But YC had been my dream since high school computer club, and Carlo was also game - but only if we didn't have to abandon our customers in Switzerland. Carlo and Neel were showing up to every single delivery back then, sometimes even helping the delivery guys physically carry things up apartment stairs. Try explaining that in a YC application: "Our competitive moat? We personally ensure your furniture doesn't get stuck in the stairwell."
 
-We decided that if we got in and didn't have to move to California, we'd do it, because being close to our customers was crucial - Carlo and Neel were personally attending every delivery in those early days. Carlo's childhood friend Raphael Schaad did YC in Winter 2020 with the calendar app Cron (later acquired by Notion) and blessed us a recommendation and a mock interview. We spent several days perfecting every answer in the application and [recorded the video on Zoom](https://youtu.be/ZTq-O2BNhno).
+We decided that we'd only apply if we can attend remotely, and because of pandemic season the Summer 2021 batch was so. Carlo's childhood friend Raphael, who'd done YC with Cron (later acquired by Notion), gave us a recommendation and ran us through mock interviews. We spent an entire weekend perfecting our application, and [recorded our video on Zoom](https://youtu.be/ZTq-O2BNhno) - Carlo in Switzerland, me with my family in India, both trying to look like we knew what we were doing.
 
-Although Carlo and I had still not met in person, we had furnished 5 apartments at the time of recording that video ($50k in subscription value). We also shared that we have 150 leads waiting in the pipeline and partnerships with debt financing providers and furniture retailers set up, so we were ready to start scaling up.
+The wild part? Carlo and I had still never shaken hands, yet we'd somehow furnished 5 actual apartments. Our entire partnership existed in Slack and Zoom, but hey, we had 150 leads waiting and a deal with a company willing to finance them. My favorite part of our application was an answer Carlo wrote: "When selling Koj subscriptions, it's fascinating how little people understand present value. A customer will say \$350/month for 3 years is outrageous, then happily sign for \$300/month for 4 years." We'd discovered that people hate math as much as assembling IKEA furniture.
 
-Here are some of the most interesting answers from our application:
+Some time later, our inbox pinged: interview invite. We'd just gone from a 2.5% chance to about 25% (we heard that YC interviews 4x as many companies as they fund), and now we had a real shot. We prepared hard, maybe a bit too hard.
 
-Please tell us something surprising or amusing that one of you has discovered:
+The YC interview is extremely information-dense because you go through so much in only ten minutes. I don't even remember what we talked about; I just remember feeling like we're not going to make it when it was over. It was late at night in Europe when the email came: "We're on the fence. Can you do another interview in a few hours?"
 
-> When selling Koj subscriptions to customers, it's fascinating to observe how little understanding people have for the present discounted value of subscription payments. While a user may say \$350/m with a duration of 3 years is way too much, they readily agree to \$300/m on a 4-year contract.
+We chugged coffee and jumped back on Zoom. This time, different partners, and somehow we were less terrified. Maybe it was the exhaustion, maybe it was the caffeine, but we actually sounded like we knew what we were doing. The next morning, Carlo's phone rang. Michael Seibel on the other end saying "You're in".
 
-After a few weeks of patiently waiting, we got an email that we've been selected for an interview. We were really excited because our chance of getting in increased by over 10 times. Apparently YC interviews 4x the number of companies they would admit, so now we had about a 25% chance of getting in. We did 2 or 3 mock interviews, and then D-Day came.
+Of course, the celebration didn't last long before reality hit. Our internal processes were held together by duct tape, customers were DMing us about late deliveries, and we were still calculating prices in a spreadsheet. And now we had to do YC remotely, across time zones, while selling actual furniture.
 
-The YC interview is extremely information-dense because you go through so much in only ten minutes. I don't even remember what we talked about; I just remember feeling like we're not going to make it when it was over. It was almost midnight for Carlo and I in Europe, and we got an email after a few hours - they were on the fence about whether they should let us in, so they would like to do a second interview in a few hours. The second time around, we had different group partners, we were less nervous, and had better answers. They told us they're going to call us if we get in, and email us if we don't.
-
-The next morning, Michael Seibel called Carlo; it felt surreal. Suddenly, we were part of the Summer 2021 batch. The program kicked off while we were still firefighting daily operations - Lounge was crashing, customers were waiting on deliveries, and we were manually calculating prices in spreadsheets - now we were doing YC remotely and across time zones.
-
-The first few weeks were chaos. I think those three months were the hardest I have ever worked. We'd join the virtual dinners at odd hours of the night, trying to absorb all we could while our Slack channels exploded with customer issues.
+Those first weeks were absolutely crazy. We'd be on YC dinners late at night in Europe, well past midnight in India, with one ear on the speaker and one eye on Slack where someone was inevitably asking why their dining table had three legs. I think these few months were the hardest I've ever worked in my life.
 
 ![Screenshot of the kickoff call](/assets/the-life-of-pabio/yc-batch-kickoff.png)
 
-We'd also made the mistake of picking a non-standard KPI metric - MoKs (months of Koj) instead of MRR to incentivize our salespeople to sell longer-term contracts. I swear "How many MoKs did you sell this week?" sounded much better then than it does in hindsight. We thought we were being clever, but YC quickly taught us that standard KPIs exist for a reason. They create alignment, enable comparison, and prevent you from fooling yourself with vanity metrics. We switched to MRR halfway through the batch.
+Here's where we got creative (read: stupid). We invented MoKs - "Months of Koj" and used it as our key metric. As in, "How many MoKs did you sell this week?" to focus on longer contracts. Michael took one look at our weekly update and just asked, "What the hell is a MoK?" Turns out, when you invent your own metric, nobody knows if you're doing well or terribly. Who knew? We switched to boring old MRR halfway through the batch, and suddenly our graphs started making sense to people who weren't us.
 
-It was pretty funny that our batchmates were building tools for developers while we were figuring out how to ship a sofa from Pfister to an apartment in Zug without losing money. One founder asked us, "So you actually touch physical inventory?" as if we'd admitted to using a fax machine... but the YC partners got it - they'd seen Airbnb go through similar operational complexity in the early days.
+The batch dynamics were fun too. Everyone else: "We're building AI for developers!" Us: "We're trying to figure out if this sofa will fit in a Swiss freight elevator." But the YC partners got it. They'd seen Airbnb deal with actual physical spaces and DoorDash handle actual food.
 
 ![My notes from YC](/assets/the-life-of-pabio/yc-lessons.png)
 
@@ -45,128 +41,148 @@ In fact, your company blurb (short intro) is something YC helps you write on day
 
 > Pabio offers personalized interior design with high-quality furniture rental for Europe. With our asset-light rent-to-own business model, qualified customers can get $20k of new furniture with $0 upfront and monthly payments for up to 4 years.
 
-Demo Day itself was anticlimactic - a pre-recorded video instead of the live performance you'd expect, but we were already over halfway done with our seed round by then (many investors reach out to you during the batch). We had grown from $10K MRR to around $30K MRR in those three months, so we wanted to raise $2M at a $20M cap. We ending up putting a hard stop at $2.2M at $25M, mostly over Zoom calls, bringing our total funding to almost $3.5M.
+Demo Day itself was relatively anticlimactic because it was on Zoom instead of the live performance you'd expect, but we were already over halfway done with our seed round by then (many investors reach out to you during the batch). We had grown from $10K MRR to around $30K MRR in those three months, so we wanted to raise $2M at a $20M cap. We ending up putting a hard stop at $2.2M at $25M, mostly over Zoom calls, bringing our total funding to almost $3.5M.
 
 ![Screenshot of the demo day pitch](/assets/the-life-of-pabio/yc-demo-day.png)
 
-A lot of people ask me if what the value of doing YC is. I always say the same thing: It's more than the badge. It's the partners, it's everything you learn during the batch, and it's the incredible community that you are part of for life. That being said, the YC badge opened doors we didn't even know existed. Investors who'd passed on us at a $10M cap during out pre-seed were extremely keen on the $25M valuation. But it also set expectations sky-high.
+People always ask: "Was YC worth it?"
 
-Being in YC meant we had to "flip" our Swiss company to a Delaware C-corp structure to make it easy for American investors to participate in our seed round. But since we already had revenue in Switzerland, we kept Koj AG operational as a wholly-owned subsidiary. In hindsight, this was incredibly fortunate - when we pivoted, all the furniture liabilities stayed contained in the Swiss entity while the US parent company remained clean. Pure luck, but it saved us.
+Well, for one, we went from being "those furniture guys" to "those YC furniture guys." That orange logo is basically a cheat code for fundraising. Investors who passed pre-YC at a $10M valuation for being too high were suddenly sliding into our DMs at a $25M valuation. The same pitch, the same team, the same questionable unit economics - but now with YC prestige.
+
+But honestly, the real value wasn't the badge (though the badge was nice). It was learning from partners who'd seen every possible way a startup could fail and somehow still believed in us. It was batchmates who became actual friends, not just LinkedIn connections. It was discovering that even successful founders feel like they're winging it most of the time. It's being part of a team for life.
+
+And we had to "flip" our Swiss company to Delaware because American investors are allergic to foreign entities. We kept the Swiss company as a subsidiary, which seemed annoying at the time but turned out to be genius when we pivoted - all the furniture liabilities stayed in Switzerland while the US entity stayed clean. Sometimes it's better to be lucky than smart, and we were definitely more of the former than the latter.
 
 ## Scaling chaos
 
-Post-YC and post-funding, we thought we could finally build product. Instead, we every week brought new fires. Here's a highlight reel - one from each of the next few months:
+Post-YC, we had millions in the bank and thought we'd finally escaped startup chaos (nope). Instead, every week brought a new flavor of disaster. Here's the greatest hits album from our first few months as real startup with real startup money:
 
-**August 2021: Chargebee to Stripe:** We'd built our billing on Chargebee, but their developer SDK was riddled with bugs, and we ended up spending more time figuring out which API version to use than charging customers. We started migrating to Stripe while simultaneously trying to cache Chargebee responses. For three days, I warned everyone: "Do nothing and look at nothing related to payments until midnight" (literally quoted from my Slack).
+**The great payment migration of 2021:** We'd built our entire billing system on Chargebee. Turns out, their SDK was riddled with bugs. We were spending more time debugging their API versions than actually charging people. We decided to migrate to Stripe, and I sent a Slack message that went something like: "Nobody touch ANYTHING payment-related until midnight. I'm not joking. Don't even LOOK at the payments dashboard. Don't even THINK about payments. Pretend money doesn't exist."
 
 The migration was a nightmare of edge cases. Some customers had been double-charged due to duplicate subscriptions. Others had contracts but no payment methods. We discovered over $40K in unpaid invoices that Chargebee simply hadn't been collecting. Monique, our (external) finance lead, was working overtime to reconcile accounts while I wrote scripts to sync data between three different systems.
 
 ![OKRs](/assets/the-life-of-pabio/okrs.png)
 
-**September 2021: Render revolution:** As I shared in my previous post, customers often said "I like it, but can you change the sofa?" Each change meant 48 hours of 3D re-rendering, but I couldn't blame them for wanting to see what that specific sofa would look like in their apartment - after all, that was our value proposition. Ralph proposed something radical: a visual builder where designers could drag furniture onto floorplans and auto-generate renders via EC2 spot instances. We built it in six weeks. Suddenly, we could iterate proposals in minutes instead of days.
+**The render revolution:** Remember when customers would say "I love it, but can you switch to the blue armchait?" and we'd die a little inside because that meant 48 hours of re-rendering? Yeah, that was sustainable for exactly zero seconds at scale.
 
-But the real breakthrough was the render pipeline itself. Raphael and Laura, our 3D artists, created a library of thousands of furniture models. We standardized everything: 1920x1300 resolution, consistent lighting angles, realistic material textures. When customers saw our renders, indistinguishable from photographs of their apartment, they were ready to sign.
+Ralph, our 3D wizard, had this crazy idea: "What if designers could just drag and drop furniture?" Six weeks of caffeine-fueled coding later, we had a visual builder that could generate renders almost in real time. Our AWS bill was high with all those GPUs running at full blast, but watching designers drag a sofa onto a floor plan and get a photorealistic render in minutes? Pure magic.
+
+But the real breakthrough was the render pipeline itself. Raphael and Laura, our 3D artists, created a library of thousands of furniture models. We standardized everything: 1920x1300 resolution, consistent lighting angles, realistic material textures. When customers saw our renders, indistinguishable from photographs of their apartment, they were ready to sign up for a subscription.
 
 ![Floor plan uploading page](/assets/the-life-of-pabio/proposal-floor-plan.png)
 ![Add-ons page](/assets/the-life-of-pabio/pabio-proposal-addons.png)
 ![Furniture selection page](/assets/the-life-of-pabio/pabio-proposal-furniture.png)
 ![Product deatils page](/assets/the-life-of-pabio/pabio-proposal-product.png)
 
-**October 2021: Supplies and Deutschland:** Expanding to Germany seemed logical - same time zone, similar market, bigger opportunity. We didn't anticipate the complexity: different VAT rules, new payment preferences ("Rechnung" culture meant everyone wanted invoices), alternative credit check systems (SCHUFA vs Swiss CRIF), and completely different supplier relationships. Our "copy Switzerland to Germany" plan became a three-month operational marathon, and we hired our new COO Claudia from "big furniture" to bring in a new adult in the room.
+**The German expansion:** "How different can Germany be?" we asked ourselves. "It's literally next door!" Oh, sweet summer children.
 
-Our supplier relationships were complicated at best, catastrophic at worst. Pfister, the Swiss furniture giant, gave us a good discount but had 16-week lead times. Claudia set up collaborations with new retailers and brands such as Nuucon and Hannun - but it was always messy and chaotic. I always thought I would be brainstorming solutions to JavaScript bugs and not that the supplier forgot to ship legs with the dining table.
+Turns out Germans have this thing called "Rechnung" where they want to receive an invoice, think about it for 30 days, maybe pay it, maybe not. The Swiss credit system (CRIF) didn't work in Germany (SCHUFA). VAT rules were different, payment preferences were different, even the way people measured their apartments was different. Especially because we had to ship the furniture from Switzerland to Germany and deal with border taxes and customs.
 
-We onboarded several suppliers, but each had different systems: some required manual email orders, others had B2B portals that broke weekly, and a few we had to call to follow up. Our scrapers were checking product availability across all these sites every night, generating thousands of "product price updated" notifications that drove everyone insane - but we tried to automate what we could to scale faster.
+Our "copy-paste Switzerland to Germany" strategy didn't last long. We hired Claudia, a veteran from big furniture companies, who took one look at our operations and probably wondered what she'd gotten herself into. She became our COO and our collective sanity, starting with setting up deals with more furniture suppliers.
 
-**November 2021: Marketing addiction:** We ran A/B tests with different headlines, redesigned our home page for higher conversion, and invested in better rendering, but over time we became addicted to digital marketing, spending thousands every week on Facebook and Google. Our CAC was around CHF 2,000, which we thought we could easily afford because we sign long-term contracts (yep, we hadn't factored in churn yet).
+The supplier situation was a beautiful disaster. Pfister gave us great prices but had 16-week lead times. One supplier only accepted orders via email, another had a B2B portal that worked exclusively on Internet Explorer, and my personal favorite - a supplier who insisted we call them to confirm every email we sent them.
+
+I always thought I would be brainstorming solutions to JavaScript bugs and not to "oh no, the supplier forgot to ship legs with the dining table".
+
+**Marketing addiction:** We started innocently enough. Just a few A/B tests. Maybe a new headline here, a button color there. Before we knew it, we were spending thousands every week on Facebook and Google. Our CAC was over $2,000, but we had a great rationalization: "It's fine! They sign 3-year contracts!" (Narrator: They did not all keep their 3-year contracts.)
+
+We tried everything else. Word-of-mouth? People move apartments once every few years, not exactly something you can call your friends about. B2B partnerships? Real estate companies wanted kickbacks that would make our already questionable unit economics actually negative. Influencer marketing? Turns out nobody wants to watch a 20-minute Instagram story about someone's rental couch. Shocking.
 
 ![Homepage v1](/assets/the-life-of-pabio/pabio-homepage-1.png)
 ![Homepage v2](/assets/the-life-of-pabio/pabio-homepage-2.png)
 ![Homepage v3](/assets/the-life-of-pabio/pabio-homepage-3.png)
 ![Style quiz](/assets/the-life-of-pabio/pabio-homepage-style-quiz.png)
 
-We tried everything else: word-of-mouth (people don't move often enough), B2B partnerships (real estate companies wanted kickbacks we couldn't afford), influencer marketing (nobody cared). We kept returning to the drug of paid acquisition, even though it was killing our unit economics.
+But like moths to a very expensive flame, we kept going back to paid ads. Every Monday: "This week we're going to try and reduce paid spend." Every Friday: "Okay, but if we just increase the budget a little, we can hit our target." We were basically paying people to pretend our product had product-market fit.
 
 ![Digital marketing report](/assets/the-life-of-pabio/marketing-report.png)
 ![Financial dashboard spreadsheet](/assets/the-life-of-pabio/financial-dashboard.png)
 
-The lesson was harsh but obvious: if you need to constantly buy customers, you don't have product-market fit. In hindsight, we were paying people to want our product rather than fixing why they didn't want it organically.
-
 ## Automation and Lounge
 
-By early 2022, the sheer volume of manual work was overwhelming us. Each order demanded checking more than 15 supplier websites for product availability, calculating delivery windows across several warehouses, manually entering orders into different supplier systems, and tracking shipments through endless email threads. On top of that, we had to coordinate with our logistics partner for last-mile delivery and arrange for electricians to handle installation. The entire process was time-consuming and exhausting, and it became increasingly clear that our existing workflow was not sustainable.
+By early 2022, our operation were not operational. Picture this daily ritual: Check 15 supplier websites, calculate delivery windows using a spreadsheet, manually type the same order into six different systems (each with its own special way of formatting addresses), then track everything through an email thread.
 
-We built scrapers for every supplier website, but they broke constantly. Our `#automation-errors` channel was a graveyard of failures. Some days, half our product prices would show as CHF 0 because a scraper failed silently and we'd wake up to customers asking about free sofas and have to manually update thousands of prices.
+Oh, and coordinate with logistics partners who communicated exclusively in German abbreviations I'm 90% sure they made up, plus electricians who had their own scheduling system that appeared to be based on lunar cycles. We knew something had to change. So we built web scrapers with the confidence of people who'd never built web scrapers before. "How hard can it be?" we asked. The `#automation-errors` Slack channel answered that question hourly.
 
-The breakthrough came from desperation: we implemented a "circuit breaker" rule - if a price changed by more than 50%, don't update it automatically, flag it for human review. Then we added Browserless (a headless Chrome service) but kept hitting concurrency limits. Then we tried Playwright but it consumed too much memory. Finally, we gave up on real-time accuracy and accepted that our prices would always be roughly correct, never exactly right, and we updated them overnight.
+My personal favorite disaster: One morning, half our catalog showed CHF 0 prices because a scraper decided to take a vacation without telling anyone. We woke up to emails asking if we were doing a "free furniture Friday" promotion.
+
+Every "solution" created new problems. Scrapers worked! Until websites changed their HTML. We added Browserless! Until we hit rate limits and they thought we were DDoSing them. We tried Playwright! Until it ate so much RAM that our server just gave up on life. Finally, in a moment of exhausted clarity, we implemented the "good enough" rule: If a price changed by more than 50%, a human had to check it. Our prices became "roughly correct," which was somehow an improvement. We updated everything at 3 AM when nobody was watching, like furniture elves, but significantly less magical.
 
 ![Inventory management](/assets/the-life-of-pabio/lounge-furniture.png)
 ![ERP system](/assets/the-life-of-pabio/lounge-erp.png)
 
-We also rebuilt our internal ERP system, Lounge, from the groud up because we didn't support multiple currencies or suppliers yet. We built an extremely complex piece of software where we manage the entire pipeline, from signing up and uploading your floor plan and photos, to designing and sending the proposal, to e-signing the contract, to placing the furniture order, to coordinating delivery, installation, and customer success - a combination of a CRM, ERP, and design tool, all in one.
+Then we built Lounge 2.0, because apparently we enjoy building ERPs from scratch. But honestly? It was beautiful. This Frankenstein's monster of a system could do everything: upload floor plans, generate proposals, process e-signatures, place orders, coordinate deliveries, track installations, manage customer relationships, make coffee (okay, not the last one, but I would be lying if I said I didn't consider it).
+
+It was a CRM! It was an ERP! It was a design tool! It was whatever we needed it to be at 2 am when something broke! We were so proud of this thing. It was like our baby, if your baby was made of TypeScript and had a tendency to throw tantrums at the worst possible moments.
 
 ![CRM pipeline view](/assets/the-life-of-pabio/lounge-pipeline.png)
 ![Audit trail](/assets/the-life-of-pabio/lounge-audit.png)
 
-Although this was probably my favorite part of the product, in hindsight I can say that one of our biggest mistakes was building it in the first place. We thought we were "too custom" to use existing products. We needed something that combined asset management, service scheduling, subscription billing, and inventory tracking. Plus, honestly, the tech team needed something to do - just maintaining a website didn't feel like being a "tech company."
+Building Lounge was probably my favorite mistake. Every startup founder has that one feature they built because they could, not because they should. Lounge was mine. We convinced ourselves we were "too unique" for off-the-shelf solutions.
 
 ![Managing an apartment](/assets/the-life-of-pabio/lounge-apartment.png)
 ![Adding electricians](/assets/the-life-of-pabio/lounge-electrician.png)
 
-This was classic premature optimization. We spent thousands of hours building features that we could have done manually in minutes. We built an Omocom insurance integration for German customers - then sold fewer than 10 apartments in Berlin total. We created a complex per-apartment pricing calculator, then switched to per-product pricing, requiring painful migrations.
+The feature creep was legendary. We built an insurance integration for German customers, then we sold less than 20 apartments in Berlin. We created a pricing calculator for apartments, then we switched to simple per-product pricing. The automated invoicing system took hundreds of hours to build. It would have taken maybe 20 hours to manually create invoices for our first 100 customers. We could have just duct-taped Retool to Salesforce and called it a day. But no, we had to be "real" engineers building "real" systems.
 
-The hours we spent building automated invoicing were more than it would have taken to manually create invoices for our first 100 customers. But my ego wanted to prove we were a tech company. I wanted to build something from scratch. And I was enjoying it a lot.
+## From burnout in Istanbul to living in a train station
 
-The lesson? Don't automate until the cumulative manual hours become a non-trivial part of your unit costs. Don't make ego-driven or FOMO-driven decisions. There's no reason to do tech for the sake of tech. If Pabio wasn't a good fit for me because it wasn't a pure tech product, I shouldn't have worked at Pabio - and if it was, I could have connected Retool with Salesforce and do away with a lot less engineering.
+Our solution to every problem was magnificently wrong: add more options! Customer hesitant? New style! Conversion dropping? Another style! Random Tuesday? Why not add Boho Chic? Each style meant new SKUs, inventory management, and supplier relationships. We had more furniture combinations than entire stores, except we were 12 people operating out of our bedrooms.
 
-## From Istanbul to Zurich
-
-It seems like every time we faced a growth challenge, we added complexity instead of removing friction. When customers said they wanted "something different", we added new styles: Boho, Art Deco, Penthouse, Nordic Farmhouse, Black & White. Each style meant more SKUs, more warehouse space, more supplier relationships. Turns out when people say they want something different, they often mean they just don't want what you're selling.
+We didn't add these styles for no reason, it was because customers were asking for something "different". Turns out they weren't asking for more options, they were trying to politely ghost us. We were the furniture equivalent of "it's not you, it's me" and we just kept offering more date ideas.
 
 ![New component](/assets/the-life-of-pabio/pabio-component.png)
 ![Pricing page](/assets/the-life-of-pabio/pabio-pricing.png)
 
-We found ourselves offering bespoke deals to close clients. Some got special cancellation terms, some got net-60 payment. Each exception created operational debt. When one of our largest customers churned, we lost over $10K MRR overnight with no recourse because of their custom contract.
+We became the "yes" company. Special cancellation terms, net-60 payment, outside our service area? we'll figure it out! Each "yes" created what I call operational debt - future pain we were borrowing against current revenue. When our biggest customer churned, it was $10K MRR gone - poof. The special cancellation clause we'd agreed to meant they could leave whenever they wanted with zero penalty. Only much later did we make a hard rule, "no weird deals".
 
 ![Onboarding funnel](/assets/the-life-of-pabio/report-onboarding-funnel.png)
 
-Customers weren't converting, so we added virtual consultations, room planning, style quizzes, referral programs. Each feature was a hypothesis that failed. Meanwhile, our core problem - furniture was too expensive and commitment was too long - went unaddressed. Our MRR was growing, but our profitability was tanking.
+Our feature factory went into overdrive too. Add virtual consultations, per-room planning service, style quiz, referral program... we were like a restaurant that keeps adding dishes to the menu instead of asking why nobody wants to eat there.
+
+The funny thing? Our MRR graph looked great. Up and to the right! We were basically running a very expensive charity for people who wanted nice furniture. Except charities usually know they're charities.
 
 ![Graph of contracts sold](/assets/the-life-of-pabio/report-mrr-sold.png)
 ![MRR graph](/assets/the-life-of-pabio/report-mrr.png)
 
-In May 2022, with the team exhausted from months of firefighting, we decided to run our first company retreat in Istanbul. It was partly strategic planning, partly team building, mostly desperation to get everyone in one room and figure out what we were actually building.
+By May 2022, we were all pretty much deserving a mental health day. Our Slack had devolved into a stream of fire emojis and crying-laughing faces (heavy on the crying), so we decided to take a week off in Istanbul. Neel turned into a travel agent overnight, coordinating plans from Zurich, Berlin, New Delhi, and Groningen. We descended on Istanbul like a very confused, slightly exhausted United Nations of furniture.
 
-Neel did an excellent job planning the whole week, and we our team flew in from Zurich, Berlin, New Delhi, and Groningen. When we arrived, everyone had different views on priorities: Sales wanted faster proposal creation, Operations wanted automated ordering, Engineering wanted to rebuild components. Carlo and I just wanted us to stop bleeding money. But by the end of the week, we had strong OKRs for the next three months and a renewed sense of purpose.
+We spent a week in this beautiful city, alternating between intense whiteboarding sessions and fun activities. By day three, we'd actually agreed on priorities. By day five, we had OKRs that made sense. By day seven, we felt like an actual team again instead of people accidentally building the same company.
 
 ![Istanbul team photo](/assets/the-life-of-pabio/istanbul-1.png)
 ![Istanbul dinner](/assets/the-life-of-pabio/istanbul-2.png)
 
-In September 2022, we pulled off something audacious: we built a pop-up bedroom in Zurich's main train station. Not a booth with brochures - an actual apartment without walls where commuters could test our furniture while waiting for trains - and Carlo actually lived there! This was several months in the making, with interior design, renders, furniture orders, and all the compliance.
+Later, Carlo suggested the idea that was either genius or insane (still not sure): "What if we build an apartment in Zurich's main train station?" Not a booth, not a display, an actual, functioning apartment in the middle of Switzerland's busiest train station. Where Carlo would actually live for the better part of a week.
+
+The planning was absurd. You ever try to get permits to build a bedroom in a train station? The Swiss paperwork alone could have furnished a small apartment. We had to coordinate interior design, furniture delivery, electrical installation, and somehow convince the authorities that yes, a CEO sleeping in a train station was a legitimate business strategy.
 
 ![Top view render](/assets/the-life-of-pabio/train-station-render-1.png)
 ![Side view render](/assets/the-life-of-pabio/train-station-render-2.png)
 
-All day, our team would hang out at that apartment and talk to potential customers about they can also have a really nice place to live in. And in the evening, we organized dinners every night - one with early customers, one with early investors, one with the team, and so on.
+But we did it. We built a gorgeous apartment with no walls, right there between the takeaway stands and the departure boards. Complete with a bed, dining table, designer lighting, and a very confused Carlo trying to act natural while 50,000 commuters walked by daily.
 
 ![Poster at the train station](/assets/the-life-of-pabio/zurich-poster.png)
 
-I would bring sushi from the take-out place at the train station (sponsored by our friends at Uber Eats), Carlo would sleep in that bed every night, and I would do the dishes in the morning for the next dinner.
+We hosted different groups for dinner each night: customers, investors, friends. I became a sushi procurement specialist (shoutout to the station's takeout place and Uber Eats for sponsoring) and resident dishwasher.
 
 ![Uber Eats](/assets/the-life-of-pabio/zurich-uber-eats.png)
 ![Carlo getting interviewed](/assets/the-life-of-pabio/zurich-carlo.png)
 
-Set up a live stream so for all of those days, everyone could see exactly what's going on in real-time. Including seeing Carlo sleep all night (not creepy, I promise).
+Because I have no boundaries, I set up a 24/7 live stream. People could literally watch Carlo sleep. The internet is weird, and apparently, people will watch anything, because we had hundreds of viewers at 3 am watching our CEO snore in a train station.
 
 ![Carlo sleeping](/assets/the-life-of-pabio/zurich-carlo-asleep.png)
 ![Live stream](/assets/the-life-of-pabio/zurich-streaming.png)
 
-I think this was when we were at our peak. But the logistics were insane. We printed graphics, placed ads on TV, hauled in real furniture, and created sample proposals for every style.
+This was our peak. Not in revenue, not in metrics, but in pure startup audacity. We'd convinced Switzerland's' busiest train station to let us build a bedroom in their train infrastructure. We got Swiss people to stop and chat (a miracle).
 
 ![The boys](/assets/the-life-of-pabio/zurich-boys.png)
 ![Dining table](/assets/the-life-of-pabio/zurich-dining.png)
 
-For five days, we turned the train station into our showroom. The results: thousands of visitors, hundreds of leads, and priceless brand awareness. More importantly, we learned that experiential marketing could crack the trust barrier that plagued online furniture rental.
+For five glorious days, Zurich HB was Switzerland's most unusual furniture showroom. Thousands of people stopped by, from curious teenagers to working professionals asking if we could furnish their homes. We collected hundreds of leads, though I suspect some just wanted to see if Carlo was really sleeping there (he was).
+
+The real win wasn't the leads or even the press coverage. It was proving that we could pull off something absolutely bonkers and make it work. If we could build an apartment in a train station, surely we could figure out unit economics, right? (Narrator: They could not figure out unit economics.)
+
+But for those five days, surrounded by the chaos of Switzerland's busiest train station, eating station sushi at a designer dining table, watching Carlo explain subscription furniture to bemused commuters - we felt like we were exactly where we were supposed to be. Even if that place was, admittedly, very weird. We had made it. But not for long.
 
 ## Three takeaways
 
@@ -181,4 +197,4 @@ When we picked MoKs instead of MRR, we thought we were being clever, but we were
 **Complexity is the enemy of growth.**  
 Every time we faced a growth challenge, our instinct was to add something new - more furniture styles, custom payment terms, bespoke contracts, virtual consultations. But each addition created exponential operational overhead. What started as flexibility to win customers became the very thing that made us too slow and expensive to serve them. The irony is that simplicity - one style, one price, one process - would have forced us to nail the fundamentals instead of papering over problems with complexity.
 
-What's next? We'd find out the hard way that we were bleeding cash on every order and transform from furniture rental to AI sales automation in 48 desperate hours. Continue to the next article: [Move fast and save things](/blog/2025/move-fast-and-save-things).
+Next up: The story of how we discovered we were burning cash on every sale (math is hard), had an existential crisis on Zoom, and somehow convinced ourselves that pivoting from furniture to AI in 48 hours was totally reasonable. Spoiler alert: it actually worked (until it didn't). Continue to the next article: [Move fast and save things](/blog/2025/move-fast-and-save-things).
