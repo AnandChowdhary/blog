@@ -1,6 +1,5 @@
 ---
-date: 2025-11-10
-draft: true
+date: 2025-11-23
 ---
 
 # Accidentally founding Koj

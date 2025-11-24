@@ -1,6 +1,5 @@
 ---
-date: 2025-11-11
-draft: true
+date: 2025-11-24
 ---
 
 # The Life of Pabio
@@ -186,7 +185,7 @@ But for those five days, surrounded by the chaos of Switzerland's busiest train 
 
 ## Three takeaways
 
-Here are the three most important lessons I learned from scaling Pabio:
+Here are the three most important lessons I learned from the life of Pabio:
 
 **If you need to constantly buy customers, you don't have product-market fit.**  
 Our addiction to paid acquisition was a symptom, not a solution. We were paying people to want our product rather than fixing why they didn't want it organically. Real product-market fit doesn't require a marketing budget to sustain. If you don't have word of mouth, referrals, and organic growth on day 1, you likely won't have it on day 1,000 either.
@@ -197,4 +196,4 @@ When we picked MoKs instead of MRR, we thought we were being clever, but we were
 **Complexity is the enemy of growth.**  
 Every time we faced a growth challenge, our instinct was to add something new - more furniture styles, custom payment terms, bespoke contracts, virtual consultations. But each addition created exponential operational overhead. What started as flexibility to win customers became the very thing that made us too slow and expensive to serve them. The irony is that simplicity - one style, one price, one process - would have forced us to nail the fundamentals instead of papering over problems with complexity.
 
-Next up: The story of how we discovered we were burning cash on every sale (math is hard), had an existential crisis on Zoom, and somehow convinced ourselves that pivoting from furniture to AI in 48 hours was totally reasonable. Spoiler alert: it actually worked (until it didn't). Continue to the next article: [Move fast and save things](/blog/2025/move-fast-and-save-things).
+Next up: The story of how we discovered we were burning cash on every sale (math is hard), had an existential crisis on Zoom, and somehow convinced ourselves that pivoting from furniture to AI in 48 hours was totally reasonable. Spoiler alert: it actually worked (until it didn't). Continue to the next article: Move fast and save things (coming soon).
