@@ -12,7 +12,7 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ### 2025
 
-- `[DRAFT]` [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
+- 💸📉🔄 `[DRAFT]` [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
 - 🤖🔄💻 [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
 - 🛋️📈🗺️ `[DRAFT]` [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
 - 🏠💡🚀 `[DRAFT]` [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
