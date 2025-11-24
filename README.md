@@ -8,14 +8,15 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 45 blog in 13 years
+- 46 blog in 13 years
 
 ### 2025
 
+- 🤖💼🚀 `[DRAFT]` [Building the first AI SDR](./blog/2025/building-the-first-as-sdr.md)
+- 🛋️📈🗺️ [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
+- 🏠💡🚀 [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
 - 💸📉🔄 `[DRAFT]` [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
 - 🤖🔄💻 [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
-- 🛋️📈🗺️ `[DRAFT]` [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
-- 🏠💡🚀 `[DRAFT]` [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
 - 🟧🟩🕉️ `[DRAFT]` [State flags for India](./blog/2025/state-flags-for-india.md)
 
 ### 2024

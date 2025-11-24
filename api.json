@@ -427,32 +427,6 @@
     "emoji": "🟧🟩🕉️"
   },
   {
-    "slug": "accidentally-founding-koj.md",
-    "path": "blog/2025/accidentally-founding-koj.md",
-    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/accidentally-founding-koj.md",
-    "title": "Accidentally founding Koj",
-    "date": "2025-11-10T00:00:00.000Z",
-    "excerpt": "This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace in October 2019. Carlo started Swiss explainer video agency Cleverclip in 2013 and after several years of running it, he was looking for hi",
-    "attributes": {
-      "date": "2025-11-10T00:00:00.000Z",
-      "draft": true
-    },
-    "emoji": "🏠💡🚀"
-  },
-  {
-    "slug": "the-life-of-pabio.md",
-    "path": "blog/2025/the-life-of-pabio.md",
-    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-life-of-pabio.md",
-    "title": "The Life of Pabio",
-    "date": "2025-11-11T00:00:00.000Z",
-    "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d",
-    "attributes": {
-      "date": "2025-11-11T00:00:00.000Z",
-      "draft": true
-    },
-    "emoji": "🛋️📈🗺️"
-  },
-  {
     "slug": "running-claude-code-in-a-loop.md",
     "path": "blog/2025/running-claude-code-in-a-loop.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/running-claude-code-in-a-loop.md",
@@ -474,5 +448,42 @@
       "draft": true
     },
     "emoji": "💸📉🔄"
+  },
+  {
+    "slug": "accidentally-founding-koj.md",
+    "path": "blog/2025/accidentally-founding-koj.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/accidentally-founding-koj.md",
+    "title": "Accidentally founding Koj",
+    "date": "2025-11-23T00:00:00.000Z",
+    "excerpt": "This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace in October 2019. Carlo started Swiss explainer video agency Cleverclip in 2013 and after several years of running it, he was looking for hi",
+    "attributes": {
+      "date": "2025-11-23T00:00:00.000Z"
+    },
+    "emoji": "🏠💡🚀"
+  },
+  {
+    "slug": "building-the-first-as-sdr.md",
+    "path": "blog/2025/building-the-first-as-sdr.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/building-the-first-as-sdr.md",
+    "title": "Building the first AI SDR",
+    "date": "2025-11-24T00:00:00.000Z",
+    "excerpt": "This is the fourth chapter in my five-year retrospective. We decided to move fast and save things, after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, we ended up inventing the first sales tool in the post-ChatGPT era. From sofas to software in 48 hours\n\nIn December 2022, while our furniture business was literally being dismantled and sold piece by piece, Carlo and I were secretly playing with GPT",
+    "attributes": {
+      "date": "2025-11-24T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "🤖💼🚀"
+  },
+  {
+    "slug": "the-life-of-pabio.md",
+    "path": "blog/2025/the-life-of-pabio.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-life-of-pabio.md",
+    "title": "The Life of Pabio",
+    "date": "2025-11-24T00:00:00.000Z",
+    "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d",
+    "attributes": {
+      "date": "2025-11-24T00:00:00.000Z"
+    },
+    "emoji": "🛋️📈🗺️"
   }
 ]
