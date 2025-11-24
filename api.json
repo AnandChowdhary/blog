@@ -445,7 +445,7 @@
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-life-of-pabio.md",
     "title": "The Life of Pabio",
     "date": "2025-11-11T00:00:00.000Z",
-    "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj and getting into Y Combinator, we rebranded to Pabio and embarked on what would become an intense journey of hypergrowth, operational complexity, and hard-earned lessons about unit economics and sustainable scaling. Our Y Combinator experience\n\nWe were on the fence about whether YC was a good fit for us - Koj wasn't \"pure tech\" and wa",
+    "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d",
     "attributes": {
       "date": "2025-11-11T00:00:00.000Z",
       "draft": true
@@ -461,5 +461,17 @@
     "excerpt": "This all started because I was contractually obligated to write unit tests for a codebase with hundreds of thousands of lines of code and go from 0% to 80%+ coverage in the next few weeks - seems like something Claude should do. So I built Continuous Claude, a CLI tool to run Claude Code in a loop that maintains a persistent context across multiple iterations.",
     "attributes": {},
     "emoji": "🤖🔄💻"
+  },
+  {
+    "slug": "move-fast-and-save-things.md",
+    "path": "blog/2025/move-fast-and-save-things.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/move-fast-and-save-things.md",
+    "title": "Move fast and save things",
+    "date": "2025-11-21T00:00:00.000Z",
+    "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. The culture was... unique? Carlo introduced the XX:59 meeting culture - every meeting started at 29 or 59 minutes past the hour. Miss the 7:59 AM standup by even 30 seconds? You're out, read the notes later.",
+    "attributes": {
+      "date": "2025-11-21T00:00:00.000Z",
+      "draft": true
+    }
   }
 ]

@@ -8,10 +8,11 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 44 blog in 13 years
+- 45 blog in 13 years
 
 ### 2025
 
+- `[DRAFT]` [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
 - 🤖🔄💻 [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
 - 🛋️📈🗺️ `[DRAFT]` [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
 - 🏠💡🚀 `[DRAFT]` [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
