@@ -437,25 +437,12 @@
     "emoji": "🤖🔄💻"
   },
   {
-    "slug": "move-fast-and-save-things.md",
-    "path": "blog/2025/move-fast-and-save-things.md",
-    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/move-fast-and-save-things.md",
-    "title": "Move fast and save things",
-    "date": "2025-11-21T00:00:00.000Z",
-    "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. The culture was... unique? Carlo introduced the XX:59 meeting culture - every meeting started at 29 or 59 minutes past the hour. Miss the 7:59 AM standup by even 30 seconds? You're out, read the notes later.",
-    "attributes": {
-      "date": "2025-11-21T00:00:00.000Z",
-      "draft": true
-    },
-    "emoji": "💸📉🔄"
-  },
-  {
     "slug": "accidentally-founding-koj.md",
     "path": "blog/2025/accidentally-founding-koj.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/accidentally-founding-koj.md",
     "title": "Accidentally founding Koj",
     "date": "2025-11-23T00:00:00.000Z",
-    "excerpt": "This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace in October 2019. Carlo started Swiss explainer video agency Cleverclip in 2013 and after several years of running it, he was looking for hi",
+    "excerpt": "This is the first chapter in a five-year retrospective about how two founders who'd never met in person built a furniture subscription company, got into Y Combinator, discovered we were losing money on every sofa, pivoted to AI in 48 hours, built the first AI SDR, and eventually sold everything. I'm writing this for myself as much as for anyone else - it's the kind of post-mortem I wish I'd read before starting. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace",
     "attributes": {
       "date": "2025-11-23T00:00:00.000Z"
     },
@@ -485,5 +472,17 @@
       "date": "2025-11-24T00:00:00.000Z"
     },
     "emoji": "🛋️📈🗺️"
+  },
+  {
+    "slug": "move-fast-and-save-things.md",
+    "path": "blog/2025/move-fast-and-save-things.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/move-fast-and-save-things.md",
+    "title": "Move fast and save things",
+    "date": "2025-11-25T00:00:00.000Z",
+    "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. Our culture was... unique? Carlo introduced the XX:59 meeting - every meeting started at 29 or 59 minutes past the hour so if you're on time at 8 am, you're already late. Miss the 7:59 am standup by even 30 seconds?",
+    "attributes": {
+      "date": "2025-11-25T00:00:00.000Z"
+    },
+    "emoji": "💸📉🔄"
   }
 ]
