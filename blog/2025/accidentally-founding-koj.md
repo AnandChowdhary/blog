@@ -4,7 +4,7 @@ date: 2025-11-23
 
 # Accidentally founding Koj
 
-This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way.
+This is the first chapter in a five-year retrospective about how two founders who'd never met in person built a furniture subscription company, got into Y Combinator, discovered we were losing money on every sofa, pivoted to AI in 48 hours, built the first AI SDR, and eventually sold everything. I'm writing this for myself as much as for anyone else - it's the kind of post-mortem I wish I'd read before starting.
 
 ## A real meet-cute
 
