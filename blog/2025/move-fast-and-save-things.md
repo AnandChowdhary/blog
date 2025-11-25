@@ -111,4 +111,4 @@ Our entire business model depended on a debt financing partner continuing to fun
 **Wind-downs are harder than startups.**  
 Starting a company is exciting - everything is potential and promise. Shutting one down is a slow grind through legal documents, angry customers, and disappointed stakeholders. It took us eight months to properly close Pabio, and we're still occasionally getting emails about furniture warranties. We learned that the same optimism that helps you start a company makes it almost impossible to know when to stop. The sunk cost fallacy is more than an economic concept; it's an emotional reality when you've spent years building something.
 
-Next up: How we went from selling sofas to selling software in 48 hours, and why building an AI SDR even before ChatGPT launched was simultaneously the best and worst decision we could have made: [Building the first AI SDR](/blog/2025/building-the-first-as-sdr).
+Next up: How we went from selling sofas to selling software in 48 hours, and why building an AI SDR even before ChatGPT launched was simultaneously the best and worst decision we could have made: Building the first AI SDR (coming soon).
