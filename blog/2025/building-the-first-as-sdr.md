@@ -1,33 +1,43 @@
 ---
-date: 2025-11-24
+date: 2025-11-29
 draft: true
 ---
 
 # Building the first AI SDR
 
-This is the fourth chapter in my five-year retrospective. We decided to [move fast and save things](/blog/2025/move-fast-and-save-things), after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, we ended up inventing the first sales tool in the post-ChatGPT era.
+This is the fourth chapter in my five-year retrospective. We tried to [move fast and save things](/blog/2025/move-fast-and-save-things) after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, and ended up inventing the first sales agent in the post-ChatGPT era.
 
-## From sofas to software in 48 hours
+## The wedding I almost missed
 
-In December 2022, while our furniture business was literally being dismantled and sold piece by piece, Carlo and I were secretly playing with GPT-3 like kids who'd discovered fire. We'd type prompts, watch the AI respond, and text each other "this is insane" at 2 AM. Carlo even had GPT-3 write our investor update about Pabio's collapse, and when investors complimented the clarity of our communication, we just smiled and nodded.
+January 2023. I was about to marry Sukriti, the love of my life, in a beautiful ceremony in India. Except I wasn't really there - not mentally, anyway.
 
-The pivot wasn't some grand strategic move. It was two founders in denial about their failed startup, desperately looking for something - anything - that could work. We spent weeks brainstorming ideas, scoring them on spreadsheets, and arguing about everything from naming conventions to whether we should just raise $10M for a fake app and go to the Bahamas (we were joking... mostly).
+While my then-fiancée was coordinating with vendors, finalizing the guest list, choosing flowers, and handling the thousand tiny decisions that make a wedding happen, I was on my laptop in the corner, debugging GPT-3 prompts. Our furniture business was collapsing in Switzerland, Carlo and I were frantically pivoting to AI, and I was physically present but emotionally checked out of my own wedding preparations.
 
-But one problem kept haunting us from Pabio: outbound sales sucked. I mean, it really sucked. At Carlo's previous company Cleverclip, he'd built an 8-person SDR team that generated millions in revenue. But the reality of an SDR's life is soul-crushing: endless LinkedIn stalking, crafting "personalized" messages that were really just templates with {FirstName} variables, and praying for a 2% response rate. We'd spent months at Pabio doing this manually, and it was about as fun as assembling IKEA furniture with missing screws.
+I need to say this clearly: Sukriti did everything. She and our families carried the entire weight of the wedding while I contributed approximately nothing except stress and distraction. I should have been there more. I should have put the laptop away. I should have been a better partner in those weeks. But when you're watching one company die while trying to birth another, your judgment gets clouded. She deserved better, and I'm still grateful she married me anyway.
+
+The same week we got married, we launched FirstQuadrant on Bookface. I was editing wedding photos in one browser tab and refreshing our Stripe dashboard in another - not exactly the honeymoon I'd imagined, but when you're pivoting from a failing furniture business, you don't get to be picky about timing.
+
+## Selling a product that didn't exist
+
+Here's where things get wonderfully stupid. We didn't have a product. We didn't have a prototype. We didn't even have a backend. What we had was audacity and Figma.
+
+For weeks before the wedding, while our furniture business was being dismantled piece by piece, Carlo and I had been secretly playing with GPT-3 like kids who'd discovered fire. We'd type prompts, watch the AI respond, and text each other "this is insane" at 2 AM. Carlo even had GPT-3 write our investor update about Pabio's collapse, and when investors complimented the clarity of our communication, we just smiled and nodded.
+
+The AI outbound idea kept winning our scoring sheets. Every founder we talked to had the same complaint: outbound sales was either impossibly expensive (hire SDRs) or impossibly time-consuming (do it yourself). At Carlo's previous company Cleverclip, he'd built an 8-person SDR team that generated millions in revenue. But the reality of an SDR's life is soul-crushing: endless LinkedIn stalking, crafting "personalized" messages that were really just templates with {FirstName} variables, and praying for a 2% response rate.
 
 That's when it clicked: what if GPT could write actually personalized sales emails? Not just "Hi {FirstName}, I see you work at {Company}" but real, researched, contextual outreach that didn't sound like it was written by a robot pretending to be human?
 
-## The art of launching without a product
+So we did something unorthodox: we decided to sell it before building it.
 
-Here's where things get wonderfully stupid. Instead of building anything, we decided to test demand first. Over a weekend in January 2023, Carlo created gorgeous mockups in Figma while I turned them into static HTML. No backend, no AI, no actual functionality - just pretty screenshots and smooth animations that looked like a real product.
+Over a weekend in January 2023, Carlo created gorgeous mockups in Figma. I turned them into static HTML and JavaScript - emphasis on static. No backend. No database. No AI. Just pretty screenshots and smooth animations that looked like a real product. You could click buttons that did absolutely nothing except navigate to another fake screen.
 
 ![The fake idea evaluator we used to test demand](/assets/building-the-first-as-sdr/idea-evaluator.png)
 
-We recorded our screens clicking through the fake interface, stitched together some GIFs, and wrote a Bookface post (YC's internal forum) announcing FirstQuadrant: "a GPT-based outbound sales tool that (actually!) fully automates your B2B outbound activities."
+We recorded our screens clicking through the fake interface, carefully avoiding any interaction that would reveal there was nothing behind the curtain. We stitched together some GIFs and wrote a Bookface post (YC's internal forum) announcing FirstQuadrant: "a GPT-based outbound sales tool that (actually!) fully automates your B2B outbound activities."
 
-The response was immediate and overwhelming. Hundreds of upvotes, dozens of comments, and people asking how to sign up. We were onto something, but we needed stronger validation than just internet points.
+The "(actually!)" was doing a lot of heavy lifting considering the product actually didn't exist.
 
-So we did something unorthodox: we added a $10 paywall to join the waitlist.
+The response was immediate and overwhelming. Hundreds of upvotes, dozens of comments, and people asking how to sign up. We were onto something, but we needed stronger validation than just internet points. So we added a $10 paywall to join the waitlist.
 
 Yes, you read that right. We charged people money to maybe, potentially, possibly get access to a product that didn't exist yet. We figured if people wouldn't pay $10, they definitely wouldn't pay $700/month for the actual product. Plus, it would filter out the tire-kickers and leave us with people who actually felt the pain we were solving.
 
@@ -37,13 +47,17 @@ Carlo was nervous. "What if people get angry about paying for a waitlist?" I was
 
 Within hours of adding the payment gate, the first $10 hit our Stripe account. Then another. And another. By the end of the first day, we had dozens of paid signups. By the end of the week, hundreds. We made more money from our non-existent product's waiting list than we'd made from actual furniture rentals in some months.
 
+Meanwhile, back in Switzerland, our furniture company was still dying. The acquisition deal was in negotiations, our debt financing partner was ghosting us, and customers were asking where their sofas were. Every morning started with a surreal context switch: check the Pabio liquidation spreadsheet, then check the FirstQuadrant waitlist revenue.
+
 The $10 fee turned out to be genius for unexpected reasons. First, it gave us incredibly high-quality feedback. People who pay even a small amount feel invested and give thoughtful input. Second, it created urgency - people don't want to "waste" their $10, so they actively engaged when we reached out. Third, and most importantly, it gave us their email and payment info, making it trivial to convert them to paying customers later.
 
 But the real validation came from the messages. CTOs of YC companies were DMing us their outbound horror stories. One founder wrote, "I spent 6 hours yesterday writing 20 personalized emails and got 1 response saying 'unsubscribe.' Please build this faster." Another said, "I would pay $10,000/month if this actually works."
 
-We looked at each other over Zoom (we were always on Zoom) and realized: we actually had to build this thing now.
+We looked at each other over Zoom (we were always on Zoom) and realized: we actually had to build this thing now. We'd sold a product that didn't exist, and now hundreds of people were waiting for it.
 
-## The race to MVP
+## Finally building the damn thing
+
+Our plan for Q1 2023 was aggressive: January was for the fake launch and validation. February was for building the actual functioning MVP. March was for acquiring first paying customers. We even had dreams of a Product Hunt and TechCrunch launch announcing both the Pabio acquisition and FirstQuadrant simultaneously - the ultimate phoenix-from-the-ashes story. (Spoiler: the acquisition fell through, but that's a story I told in the previous chapter.)
 
 The next few weeks were a blur of 18-hour coding days and endless GPT-3 prompt engineering. We discovered that getting GPT to write emails was easy. Getting it to write good emails that didn't sound like a Victorian butler having a stroke? That was hard.
 
@@ -59,17 +73,9 @@ We spent days teaching GPT to not be weird. Don't use "utilizing" when "using" w
 
 The breakthrough came when we stopped trying to make GPT write like a human and started making it write like a good SDR. We created a two-step process: first classify whether this lead is worth emailing (QUALIFIED, MAYBE, or what we eventually named HELL-NO after testing showed the model responded better to dramatic labels), then rewrite a rough template with genuine personalization.
 
-## The Bookface launch playbook
+We had to understand what a company actually did, which meant crawling their website and extracting meaningful context. The UX evolved into something clever: generate a first email template based on one example account and what you do, generate a second email from the first, then show 5 sample emails to let people see how personalization actually worked before they committed. Every time someone edited an email, we'd automatically update the underlying prompt with their most recent changes - teaching the AI their voice through their corrections.
 
-By late January, we had a barely functional MVP. You could connect your Gmail, import leads, and watch GPT write emails. It was buggy, slow, and crashed if you looked at it wrong, but it worked.
-
-Time to launch properly on Bookface.
-
-We'd learned from the first launch that Bookface posts have about a 4-hour window to gain traction before they're buried. So we prepared like it was D-Day. Carlo designed new screenshots showcasing the actual product. I set up demo accounts with pre-loaded data. We drafted personalized messages to every single person who'd engaged with our first post.
-
-But the secret weapon was our existing waitlist. Within minutes of posting, we messaged all 200+ people who'd paid $10: "It's live on Bookface, would love your support!" They flooded the comments with genuine enthusiasm because they were actually invested in our success.
-
-The post exploded. Top 1% of all Bookface posts ever. VCs started sliding into our DMs. Other YC companies wanted demos immediately. We went from 200 to 400 signups in 48 hours.
+By late January, we had a barely functional MVP. You could connect your Gmail, import leads, and watch GPT write emails. It was buggy, slow, and crashed if you looked at it wrong, but it worked. We'd gone from Figma mockups to actual software in about three weeks, powered by caffeine, desperation, and the knowledge that hundreds of people had paid us $10 each for something we'd promised to deliver.
 
 ## The infrastructure nightmare
 
@@ -83,6 +89,8 @@ The solution was hilariously over-engineered. We'd buy separate domains for each
 
 Our AWS bill for all this infrastructure? About $100 per day just in GPT costs, plus another $50 for email warming, plus whatever we were burning on EC2 instances because I kept forgetting to turn off test servers. We were spending more on infrastructure than most people spend on rent, and we had exactly zero paying customers.
 
+During this same period, the Pabio acquisition was falling apart. Our debt financing partner refused to negotiate, the German buyer walked away, and our lawyer was preparing bankruptcy filings for Koj AG. Some mornings I'd be on a call with our Swiss accountant discussing how to write off CHF 896,000 in furniture to zero, then immediately switch to a call about email warming best practices. The whiplash was disorienting.
+
 ## From zero to... still zero
 
 By May 2023, we had real customers using the product. CoCEO, SimpleHash, Centercode - actual companies sending actual emails to actual prospects. Our Slack channels were filling up with success stories. "5 meetings booked in the first week!" "20% response rate!" "This is magic!"
@@ -93,19 +101,43 @@ We'd been so focused on making the product work that we forgot to charge for it.
 
 The feature list kept growing. Enriched fields that pulled real-time data from the web (a founder mentioned they were profitable in an obscure podcast? We'd find it). Smart scheduling that figured out the optimal time to send emails. Autopilot mode where the AI handled entire conversations. We were building the Rolls Royce of sales tools while our bank account looked like we should be taking the bus.
 
-Michael Seibel from Y Combinator scheduled a call with us. We expected praise for our rapid product development. Instead, he asked one question: "What's your MRR?"
+## The call that changed everything
+
+Michael Seibel from Y Combinator scheduled a call with us. We expected praise for our rapid product development. We'd pivoted from furniture to AI in record time, built a working product, gotten real users - surely he'd be impressed.
+
+The call started normally enough. We showed him our dashboard, our user growth, our engagement metrics. Carlo was excited, talking about the 50 companies actively using the product, the testimonials we'd collected, the technical breakthroughs we'd made.
+
+Michael listened. Then he asked one question: "What's your MRR?"
+
+The call went silent.
 
 "Well, we have 50 companies using the product actively..."
 
 "That's not what I asked. What's your MRR?"
 
+I could feel my face getting hot. Carlo jumped in to explain our freemium strategy, our conversion plans, how we were building trust before monetizing.
+
+Michael cut him off. "What's your MRR?"
+
 "..."
 
 "Zero? Your MRR is zero?"
 
-"Technically, yes, but—"
+"Technically, yes, but we have a really solid—"
 
-"There are no buts. You have zero revenue. This is not a business. This is an expensive hobby."
+"There are no buts." Michael's voice wasn't angry, which somehow made it worse. It was the voice of a parent explaining something obvious to a child. "You have zero revenue. This is not a business. This is an expensive hobby. You're building features instead of building a company."
+
+He paused. "How long has it been since you pivoted?"
+
+"About five months."
+
+"Five months and zero dollars. What were you doing at Pabio when you had zero revenue?"
+
+"We were... losing money on every order." The irony of the situation hit me. We'd discovered Pabio was bleeding cash and immediately panicked. Now we had a new company that had never made a single dollar and we were celebrating.
+
+"You're making the exact same mistake," Michael said. "You're substituting metrics that feel good for the only metric that matters. Users don't pay your bills. Revenue does. Until someone gives you money, you don't know if you have a product. You have a hypothesis."
+
+The call lasted maybe 20 more minutes, but I don't remember any of it. I just remember Carlo and I sitting in silence afterward, staring at our beautiful dashboards full of users who hadn't given us a single cent.
 
 ## The managed service pivot
 
@@ -115,19 +147,131 @@ It worked. Within weeks, we hit $5k MRR. Companies loved not having to think abo
 
 But it was unsustainable. We were basically running a human-powered service pretending to be software. Every customer required hours of manual setup. Every campaign needed hand-holding. Every technical hiccup meant frantic Slack messages at 2 AM. We'd escaped the furniture operations nightmare only to create a new operations nightmare, except instead of sofas getting stuck in elevators, it was emails getting stuck in spam folders.
 
+While we were doing this, the Pabio liquidation was grinding on. Our accountant Monique was writing furniture down to zero while we were writing code. Customers were being told to redirect their subscription payments to our debt financing partner. The Swiss subsidiary was entering formal bankruptcy proceedings. It was surreal to have two companies simultaneously - one dying, one being born - both demanding our attention.
+
 The breaking point came in September. We had a dozen managed customers, growing revenue, and exactly zero hours of sleep. Our queue system would crash, leaving hundreds of emails unsent. OpenAI would have outages during customer demos. Mailboxes would get disabled randomly. One customer's campaign started sending emails in German because GPT detected the lead was from Austria and decided to be helpful.
 
 We looked at our burn rate, our revenue, our sanity levels, and made another pivot: we were done with cold outbound. The technology was better suited for warm outreach anyway - reengaging existing customers, following up with old leads, maintaining relationships. You know, the stuff where you actually have permission to email people.
 
+## The CRM pivot
+
+By October 2023, we were exhausted from playing human email servers. Our managed service model had us manually setting up domains at 3 AM, debugging why Klaus from Munich was receiving emails in German, and explaining to customers why their campaigns to info@genericcorp.com had a 0% response rate.
+
+That's when we had our "aha" moment: why were we trying to email strangers when companies had thousands of warm leads sitting in their CRMs gathering dust?
+
+The pivot wasn't elegant. While our lawyer was literally filing bankruptcy papers for Koj AG (yes, we were still cleaning up that mess), Carlo and I decided to completely refactor FirstQuadrant. Not just a feature update - a complete philosophical shift from "spray and pray" cold outbound to intelligent CRM automation.
+
+Our Slack was a schizophrenic mix of bankruptcy proceedings ("alle Möbel von CHF 896'000 auf CHF 0 abschreiben") and product planning ("create strategy for combining new product in the current codebase"). The irony wasn't lost on us. While one company was being written down to zero, we were writing code for another that we hoped would be worth something someday.
+
+## The second Bookface launch
+
+By January 2024, we had something that barely worked but was 10x better than what existed. Instead of cold emails to strangers, FirstQuadrant would intelligently re-engage old leads, automate follow-ups with context from past conversations, and handle the tedious parts of sales that SDRs hate.
+
+Remember that $10 waitlist from a year earlier? Those 200+ people who'd literally paid to wait? They became our secret weapon again.
+
+On January 24, 2024, we launched on Bookface a second time. Within minutes of posting, we messaged every single person on our waitlist: "It's live on Bookface, would love your support!" They flooded the comments with genuine enthusiasm. Why? Because they'd been waiting a full year and had skin in the game.
+
+The post exploded. Top 1% of all Bookface posts ever. Our waitlist went from 268 to 681 signups in a week. MRR jumped from $5,600 to $7,000. We were so overwhelmed that wait times for onboarding stretched to 6+ months.
+
+But success, as we'd learn, comes with its own special flavors of disaster.
+
+## Gmail's revenge
+
+February 2024 started with Google deciding to enforce new anti-spam policies. Overnight, our customers' carefully warmed mailboxes started getting suspended. Not rate-limited. Not warned. Suspended. Dead. Kaput.
+
+The first message came from Athina: "None of our emails are going out." Then another. Then another. Within 48 hours, we had a full-blown crisis. Gmail had essentially declared war on cold email, and we were caught in the crossfire.
+
+Our Slack turned into a 24/7 war room. Carlo and I were writing appeals to Google at 2 AM, buying new domains at 3 AM, and teaching customers about SPF/DKIM/DMARC records at 4 AM. We became involuntary experts in email deliverability, learning obscure SMTP response codes and the difference between a 4.7.1 rate limit and a 5.5.1 hard bounce.
+
+The solution was absurd in its complexity. For each customer, we'd:
+
+1. Buy 2-4 separate domains (not subdomains - Google hates those)
+2. Create 2 mailboxes per domain
+3. Warm them for 6 weeks using services that send fake emails to other fake emails
+4. Gradually ramp to 30 emails/day/mailbox
+5. Monitor 17 different deliverability metrics
+6. Pray to the email gods
+
+One customer, frustrated by the complexity, asked, "Can't you just make it work?" I wanted to respond, "Sure, let me just call my friend Susan at Gmail and ask her to pretty please stop marking our emails as spam." Instead, I wrote a 2,000-word guide on email warming best practices.
+
+## The growth paradox
+
+Despite Gmail trying to murder our business, we kept growing. By March, we hit $13k MRR. By July, $20k. But the growth came with a paradox: the more successful we became, the more apparent our problems were.
+
+Our "Brain" - the AI system that decided whether to follow up, how to respond to replies, and when to book meetings - would occasionally have seizures. It once sent a follow-up email two weeks late that started with "Sorry for the delay, I was traveling." The lead responded, "Two weeks of traveling? Must have been quite the trip!"
+
+Another time, it classified a clear meeting request ("Let's hop on a call Tuesday at 2 PM") as "Out of Office" and sent an automated "Thanks for letting me know! I'll follow up when you're back!" The customer was not amused.
+
+The technical debt was crushing us. Every customer success required three fires to be put out. Our standups became therapy sessions:
+
+**Fucked up:**
+
+- Too many bugs
+- Demo broke again
+- Mailboxes suspended
+- Brain is hallucinating
+- Apollo rate limits hit
+- Customer is angry
+- Everything is on fire
+
+**Fucking amazing:**
+
+- We're still in business!
+- Someone paid us
+- That bug from yesterday is fixed
+- Coffee exists
+
+## The infrastructure trap
+
+By mid-2024, we were living a hard reality. Our product wasn't an AI that wrote emails - it was:
+
+- A DNS management system
+- An email warming service
+- A deliverability monitoring platform
+- A mailbox rotation scheduler
+- A bounce handler
+- A rate limit manager
+- An IP reputation tracker
+- A spam trap detector
+- Oh, and also some AI that writes emails
+
+We'd become the very thing we tried to avoid - an email infrastructure company. Except instead of building on solid ground, we'd built on quicksand. Gmail could change a policy and destroy our business overnight. Our entire $20k MRR hung by the thread of Google's spam detection algorithms.
+
+The final straw came in June. After another weekend of manually reconnecting mailboxes and apologizing to customers, Carlo and I had a heart-to-heart. We could keep playing whack-a-mole with email deliverability, or we could admit defeat and pivot. Again.
+
+On June 30, 2024, we made the announcement: "We're discontinuing our email deliverability tooling by December 31, 2024." No more warming. No more DNS management. No more fighting Gmail.
+
+It felt like admitting defeat, but it was actually admitting reality. We weren't going to out-engineer Google's spam filters. We weren't going to solve cold email deliverability. We were two guys with a dream and a rapidly depleting bank account, not the email infrastructure messiahs.
+
+## Finding the real product
+
+As we stripped away all the email infrastructure, something interesting emerged: the Brain.
+
+The AI reasoning engine we'd built to decide when to follow up, how to classify responses, and when to escalate to humans - that was actually good. Really good. It could understand context, maintain conversation history, and make decisions that felt almost human. The email delivery was a nightmare, but the intelligence layer was solid.
+
+We started to wonder: what if the Brain was the real product all along? What if we'd spent two years building email infrastructure when we should have been building an AI reasoning engine that could do... well, anything?
+
+The more we looked at it, the more obvious it became. The Brain could:
+
+- Classify incoming messages by intent
+- Generate contextually appropriate responses
+- Know when to escalate to humans
+- Maintain state across long conversations
+- Learn from corrections
+
+That's not an email tool. That's a general-purpose AI agent. We'd accidentally built something far more valuable than we realized while we were distracted by spam filters and domain warming.
+
 ## Three takeaways
 
-Here are the three most important lessons I learned from building the first AI SDR:
+After building an AI SDR through multiple pivots, a bankruptcy, and Gmail declaring war on us, here are the three most important lessons that actually matter:
 
-**Charge for validation, not just feedback.**  
-The $10 waitlist fee was accidentally brilliant. It separated real customers from curious browsers, created psychological commitment, and gave us a payment relationship from day one. Free feedback is worth what you pay for it. Even a tiny payment changes the entire dynamic. If we'd done a free waitlist, we'd probably still be building features nobody wanted.
+**Charge money immediately, even if it hurts.**  
+The $10 waitlist fee was our best decision - it separated real customers from tourists, created psychological commitment, and gave us a payment relationship from day one. But more importantly: charging money forces you to confront reality. When people won't pay even $10, you don't have product-market fit, you have a hobby. Michael Seibel was right - five months with zero revenue meant we were building features, not a company. The money helps you realize that faster.
 
-**Infrastructure is the product in B2B SaaS.**  
-We thought we were building an AI email writer. We were actually building an email delivery infrastructure company that happened to use AI. The prompt engineering took weeks; the email infrastructure took months and never really worked reliably. When you're building B2B SaaS, the boring stuff - authentication, permissions, integrations, reliability - IS the product. The cool AI part is just marketing.
+**Sell before you build.**  
+We launched on Bookface with literally nothing - Figma mockups turned into static HTML with no backend. The screen recording looked real, but there was nothing behind it. That "fake" launch generated thousands in waitlist revenue and proved demand before we wrote a single line of actual code. If we'd built first and launched later, we might have spent months building something nobody wanted. Instead, we had hundreds of paying customers before we had a product.
 
-**Managed services are a great way to learn, terrible way to scale.**  
-Doing everything manually first taught us what customers actually needed versus what we thought they needed. But it also trapped us in a high-touch, low-margin business model that looked like SaaS to investors but felt like a services company to us. The middle ground - productized services - might have been better, but we were too burned out to find it.
+**The product you think you're building isn't the product you're actually building.**  
+We thought we were building an AI email writer. We were actually building email infrastructure - and badly. But buried in all that infrastructure was a reasoning engine that could do far more than send cold emails. Sometimes the most valuable thing you build is the thing you didn't know you were building.
+
+Next up, the final chapter: How we discovered that the Brain - our AI reasoning engine - was the real product all along, why $20k-$30k MRR and early product-market fit signals still weren't enough, and how we made the hardest decision of all: [The brain that ate FirstQuadrant](/blog/2025/the-brain-that-ate-firstquadrant).
