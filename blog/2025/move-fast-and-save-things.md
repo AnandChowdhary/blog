@@ -68,8 +68,6 @@ The Zurich warehouse stands empty now, probably being used for something sensibl
 
 In January 2023, we started approaching potential buyers for what was left of our assets. A German company, a part of one of the world's largest players in this space, wanted to buy everything - the brand, website, customer contracts, maybe even our Lounge system. It was not exactly the exit we'd dreamed of, but when you're drowning, you don't negotiate the color of the life preserver.
 
-While trying to secure alternate financing to make the main furniture work in the end of 2022, Carlo and I starting brainstorming alternate ideas. By January 2023, we had launched the prototype of FirstQuadrant, in the same week that I got married to Sukriti... but that's a story for the next chapter.
-
 The due diligence dragged on for months, but luckily we had already validated our next idea and were working on that in parallel. The new buyers wanted every contract, every invoice, every Excel sheet we'd ever created. Carlo and I spent entire days exporting data, creating summaries, and answering questions about German VAT implications. By March, we had a signed Letter of Intent. By April, we had a signed purchase agreement. We even started planning the PR announcement, thinking we were going to make it sound like a strategic acquisition rather than a desperate fire sale.
 
 ![Sale price calculations](/assets/move-fast-and-save-things/sale-price.png)
@@ -96,7 +94,30 @@ Here's what I wish I'd understood earlier: subscription furniture in Europe was 
 
 The recurring joke in our standups became "Today's goal: Try not to die". Some days, that was literally the only goal. Don't run out of cash today. Don't get sued today. Don't have another vendor cut us off today. It's amazing how clarifying imminent death can be for prioritization.
 
-But here's the weird thing: even in the middle of this slow-motion catastrophe, we were already building something new. While negotiating with the debt financing partner in the morning, we were testing GPT-3 prompts in the afternoon. While canceling subscriptions, we were sketching product mockups in Figma. The furniture might have been dying, but the company - whatever it was becoming - was still alive.
+## Finding the next thing
+
+But here's the thing about near-death experiences: they clarify what you actually want to do with your life. While the furniture business was in its death spiral, Neel, Carlo, and I started a Notion document titled "Pains and pivot ideas". We wrote down every problem we'd encountered over the past years - some directly from the furniture business, others completely out there. Each pain point got a potential solution, and by the end we had nearly 40 ideas.
+
+![Michael's pivot email](/assets/move-fast-and-save-things/michael-pivot-ideas.png)
+
+Some were obvious derivatives of what we'd built. We knew how painful it was to input product data into our ERP system - maybe we could build a global product database for the furniture industry. We'd watched customers struggle with curtains and window treatments - maybe a fully digitalized curtain service. Could Pabio itself pivot to focus purely on the design service with third-party furniture integration?
+
+Others came from our own frustrations as founders. Carlo couldn't properly assess my technical skills when we first met - maybe we could build outsourced engineering interviews. Every company we knew struggled with outbound sales - maybe we could build "Facebook Ads for outbound", an AI-assisted service that discovers leads and sends personalized emails. Could we sell our own internal ERP called Lounge as a product for subscription commerce businesses?
+
+And some ideas were truly out there. A job board specifically for ex-founders who didn't want typical 9-to-5 jobs, which could have been us in the near future. A subscription service for MacBooks, basically Pabio for laptops. A fully digital migration service because both Carlo and I know what a nightmare it is to move to a new country. Or a personalized supplement subscription because Carlo was deep into longevity research?
+
+![Idea evaluator spreadsheet](/assets/move-fast-and-save-things/idea-evaluator.png)
+
+Three ideas rose to the top: an ERP for subscription services (basically Lounge as a product), a unified database of all physical product data (solving the nightmare of inputting furniture specs called Produit), and an AI outbound tool called FirstQuadrant (we move your sales graph up and to the right). We did dozens of customer interviews for each, talking to anyone who'd give us an hour of their time. I used Y Combinator's ways to decide what's a good startup idea and created a spreadsheet to score them.
+
+The AI outbound idea kept winning. Every founder we talked to had the same complaint: outbound sales was either impossibly expensive (hire SDRs) or impossibly time-consuming (do it yourself). The pain was universal and urgent. This was late 2022 - ChatGPT hadn't launched yet - and OpenAI had a GPT-3 API for us to play around with.
+
+We went deep. We studied how these language models were trained, how they worked under the hood, what their limitations were. We ran unit economics based on GPT-3's pricing at the time - could we actually make money sending AI-generated emails at scale? The answer was yes, barely, if we were clever about it. We ran dozens of experiments: Could GPT-3 write a cold email that didn't sound like spam? Could it personalize at scale? Could it respond to replies naturally?
+
+![ChatGPT response 1](/assets/move-fast-and-save-things/chatgpt-1.png)
+![ChatGPT response 2](/assets/move-fast-and-save-things/chatgpt-2.png)
+
+The results were promising enough that by January 2023, we'd launched the prototype of FirstQuadrant - in the same week that I got married to Sukriti - but that's a story for the next article. While negotiating with the debt financing partner in the morning, we were testing GPT-3 prompts in the afternoon. While canceling furniture subscriptions, we were sketching product mockups in Figma. The furniture was dying, but the company - whatever it was becoming - was still alive.
 
 ## Three takeaways
 
@@ -109,6 +130,6 @@ We discovered we were losing money on every order after months of bleeding cash,
 Our entire business model depended on a debt financing partner continuing to fund furniture purchases. We had no Plan B, no alternative funding sources lined up, no way to operate without them. When they pulled out, we had 72 hours to invent a new business model. Every critical dependency you can't control is a ticking time bomb. We learned that "asset-light" can quickly become "asset-impossible" when your financing partner ghosts you.
 
 **Wind-downs are harder than startups.**  
-Starting a company is exciting - everything is potential and promise. Shutting one down is a slow grind through legal documents, angry customers, and disappointed stakeholders. It took us eight months to properly close Pabio, and we're still occasionally getting emails about furniture warranties. We learned that the same optimism that helps you start a company makes it almost impossible to know when to stop. The sunk cost fallacy is more than an economic concept; it's an emotional reality when you've spent years building something.
+Starting a company is exciting - everything is potential and promise. Shutting one down is a slow grind through legal documents, angry customers, and disappointed stakeholders. It took us eight months to properly close Pabio, and we're still occasionally getting emails about furniture warranties. We learned that the same optimism that helps you start a company makes it almost impossible to know when to stop. The sunk cost fallacy is more than an economic concept; it's an emotional reality when you've spent years building something. The only thing that made it bearable was having something new to build - testing GPT-3 prompts while canceling furniture subscriptions kept us sane.
 
 Next up: How we went from selling sofas to selling software in 48 hours, and why building an AI SDR even before ChatGPT launched was simultaneously the best and worst decision we could have made: Building the first AI SDR (coming soon).
