@@ -449,27 +449,14 @@
     "emoji": "🏠💡🚀"
   },
   {
-    "slug": "building-the-first-as-sdr.md",
-    "path": "blog/2025/building-the-first-as-sdr.md",
-    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/building-the-first-as-sdr.md",
-    "title": "Building the first AI SDR",
-    "date": "2025-11-24T00:00:00.000Z",
-    "excerpt": "This is the fourth chapter in my five-year retrospective. We decided to move fast and save things, after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, we ended up inventing the first sales tool in the post-ChatGPT era. From sofas to software in 48 hours\n\nIn December 2022, while our furniture business was literally being dismantled and sold piece by piece, Carlo and I were secretly playing with GPT",
-    "attributes": {
-      "date": "2025-11-24T00:00:00.000Z",
-      "draft": true
-    },
-    "emoji": "🤖💼🚀"
-  },
-  {
     "slug": "the-life-of-pabio.md",
     "path": "blog/2025/the-life-of-pabio.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-life-of-pabio.md",
     "title": "The Life of Pabio",
-    "date": "2025-11-24T00:00:00.000Z",
+    "date": "2025-11-25T00:00:00.000Z",
     "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d",
     "attributes": {
-      "date": "2025-11-24T00:00:00.000Z"
+      "date": "2025-11-25T00:00:00.000Z"
     },
     "emoji": "🛋️📈🗺️"
   },
@@ -478,11 +465,37 @@
     "path": "blog/2025/move-fast-and-save-things.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/move-fast-and-save-things.md",
     "title": "Move fast and save things",
-    "date": "2025-11-25T00:00:00.000Z",
+    "date": "2025-11-27T00:00:00.000Z",
     "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. Our culture was... unique? Carlo introduced the XX:59 meeting - every meeting started at 29 or 59 minutes past the hour so if you're on time at 8 am, you're already late. Miss the 7:59 am standup by even 30 seconds?",
     "attributes": {
-      "date": "2025-11-25T00:00:00.000Z"
+      "date": "2025-11-27T00:00:00.000Z"
     },
     "emoji": "💸📉🔄"
+  },
+  {
+    "slug": "building-the-first-as-sdr.md",
+    "path": "blog/2025/building-the-first-as-sdr.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/building-the-first-as-sdr.md",
+    "title": "Building the first AI SDR",
+    "date": "2025-11-29T00:00:00.000Z",
+    "excerpt": "This is the fourth chapter in my five-year retrospective. We tried to move fast and save things after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, and ended up inventing the first sales agent in the post-ChatGPT era. The wedding I almost missed\n\nJanuary 2023. I was about to marry Sukriti, the love of my life, in a beautiful ceremony in India. Except I wasn't really t",
+    "attributes": {
+      "date": "2025-11-29T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "🤖💼🚀"
+  },
+  {
+    "slug": "the-brain-that-ate-firstquadrant.md",
+    "path": "blog/2025/the-brain-that-ate-firstquadrant.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-brain-that-ate-firstquadrant.md",
+    "title": "The brain that ate FirstQuadrant",
+    "date": "2025-12-01T00:00:00.000Z",
+    "excerpt": "This is the fifth and final chapter in my five-year retrospective. After building the first AI SDR and fighting Gmail's spam filters to reach $20k MRR, we discovered our real product wasn't email automation at all - it was an AI reasoning engine we called the Brain. This is the story of how we only found idea-market fit, ran out of money, and sold our company's assets. The accidental discovery\n\nIn August 2024, we hit a milestone that seemed impossible just months earlier: we",
+    "attributes": {
+      "date": "2025-12-01T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "🧠💸🚪"
   }
 ]
