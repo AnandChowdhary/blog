@@ -98,7 +98,7 @@ The recurring joke in our standups became "Today's goal: Try not to die". Some d
 
 But here's the thing about near-death experiences: they clarify what you actually want to do with your life. While the furniture business was in its death spiral, Neel, Carlo, and I started a Notion document titled "Pains and pivot ideas". We wrote down every problem we'd encountered over the past years - some directly from the furniture business, others completely out there. Each pain point got a potential solution, and by the end we had nearly 40 ideas.
 
-![Michael's pivot email](/assets/move-fast-and-save-things/michael-pivot-ideas.png)
+![Michael's pivot email](/assets/move-fast-and-save-things/michael-pivot.png)
 
 Some were obvious derivatives of what we'd built. We knew how painful it was to input product data into our ERP system - maybe we could build a global product database for the furniture industry. We'd watched customers struggle with curtains and window treatments - maybe a fully digitalized curtain service. Could Pabio itself pivot to focus purely on the design service with third-party furniture integration?
 
