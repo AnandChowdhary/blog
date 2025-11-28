@@ -59,9 +59,9 @@ We spent days teaching GPT to not be weird. Don't use "utilizing" when "using" w
 
 The breakthrough came when we stopped trying to make GPT write like a human and started making it write like a good SDR. We created a two-step process: first classify whether this lead is worth emailing (QUALIFIED, MAYBE, or what we eventually named HELL-NO after testing showed the model responded better to dramatic labels), then rewrite a rough template with genuine personalization.
 
-We had to understand what a company actually did, which meant crawling their website and extracting meaningful context. The UX evolved into something clever: generate a first email template based on one example account and what you do, generate a second email from the first, then show 5 sample emails to let people see how personalization actually worked before they committed. Every time someone edited an email, we'd automatically update the underlying prompt with their most recent changes - teaching the AI their voice through their corrections.
+We had to understand what a company actually did, which meant crawling their website and extracting meaningful context. The UX evolved into something clever: generate a first email template based on one example account and what you do, generate a second email from the first, then show 5 sample emails to let people see how personalization actually worked before they committed. Every time someone edited an email, we'd automatically add most recent changes to the few-shot learning examples - teaching the AI their voice through their corrections.
 
-By late January, we had a barely functional MVP. You could connect your Gmail, import leads, and watch GPT write emails. It was buggy, slow, and crashed if you looked at it wrong, but it worked. We'd gone from Figma mockups to actual software in about three weeks, powered by caffeine, desperation, and the knowledge that hundreds of people had paid us $10 each for something we'd promised to deliver.
+By late January, we had a barely functional MVP. You could connect your Gmail, find leads, and watch GPT write emails. It was buggy, slow, and crashed if you looked at it wrong, but it worked. We'd gone from Figma mockups to actual software in about three weeks, powered by caffeine, desperation, and the knowledge that hundreds of people had paid us $10 each for something we'd promised to deliver.
 
 ## The infrastructure nightmare
 
@@ -71,27 +71,27 @@ Want to send emails on behalf of customers? You need OAuth. Want those emails to
 
 We discovered that email providers really, really don't like it when you suddenly start sending personalized emails at scale. Google would randomly disable mailboxes. Our warming service would crash. Customers' emails would land in spam despite perfect technical setup. One customer's IT team flagged us as a "potential cyber attack" because we were sending "too many good emails too quickly" (yes, that was the actual ticket).
 
-The solution was hilariously over-engineered. We'd buy separate domains for each customer (protecting their main domain), create multiple mailboxes on each domain, warm them for weeks using a service that basically sends fake emails to other fake inboxes to build reputation, then slowly ramp up sending while monitoring deliverability metrics across seventeen different parameters.
+The solution was very manual. We'd buy separate domains for each customer (protecting their main domain), create multiple mailboxes on each domain, warm them for weeks using a service that basically sends fake emails to other fake inboxes to build reputation, then slowly ramp up sending while monitoring deliverability metrics across seventeen different parameters. Do things that don't scale.
 
 Our AWS bill for all this infrastructure? About $100 per day just in GPT costs, plus another $50 for email warming, plus whatever we were burning on EC2 instances because I kept forgetting to turn off test servers. We were spending more on infrastructure than most people spend on rent, and we had exactly zero paying customers.
 
-During this same period, the Pabio acquisition was falling apart. Our debt financing partner refused to negotiate, the German buyer walked away, and our lawyer was preparing bankruptcy filings for Koj AG. Some mornings I'd be on a call with our Swiss accountant discussing how to write off CHF 896,000 in furniture to zero, then immediately switch to a call about email warming best practices. The whiplash was disorienting.
+During this same period, the Pabio acquisition was falling apart. Our debt financing partner refused to negotiate, the German buyer walked away, and our lawyer was preparing bankruptcy filings for Koj AG. Some mornings Carlo would be on a call with our Swiss accountant discussing how to write off the furniture to zero, then immediately switch to a call about email warming best practices. The whiplash was disorienting.
 
 ## From zero to... still zero
 
-By May 2023, we had real customers using the product. CoCEO, SimpleHash, Centercode - actual companies sending actual emails to actual prospects. Our Slack channels were filling up with success stories. "5 meetings booked in the first week!" "20% response rate!" "This is magic!"
+By May 2023, we had real customers using the product. Actual companies sending actual emails to actual prospects. Our Slack channels were filling up with success stories. "5 meetings booked in the first week!" "20% response rate!" "This is magic!" (all real quotes).
 
 There was just one tiny problem: nobody was paying us.
 
 We'd been so focused on making the product work that we forgot to charge for it. Every customer was on a "free trial" that we kept extending because we were afraid they'd churn if we asked for money. We had the classic founder delusion: "Once we add this one more feature, then we'll start charging."
 
-The feature list kept growing. Enriched fields that pulled real-time data from the web (a founder mentioned they were profitable in an obscure podcast? We'd find it). Smart scheduling that figured out the optimal time to send emails. Autopilot mode where the AI handled entire conversations. We were building the Rolls Royce of sales tools while our bank account looked like we should be taking the bus.
+The feature list kept growing. Enriched fields that pulled real-time data from the web (a founder mentioned they were profitable in an obscure podcast? We'd find it). Smart scheduling that figured out the optimal time to send emails. Autopilot mode where the AI handled entire conversations. We were building the Rolls-Royce of sales tools while our bank account looked like we should be taking the bus.
 
 ## The call that changed everything
 
-Michael Seibel from Y Combinator scheduled a call with us. We expected praise for our rapid product development. We'd pivoted from furniture to AI in record time, built a working product, gotten real users - surely he'd be impressed.
+We scheduled a call with Michael Seibel from Y Combinator. We expected praise for our rapid product development. We'd pivoted from furniture to AI in record time, built a working product, gotten real users - surely he'd be impressed.
 
-The call started normally enough. We showed him our dashboard, our user growth, our engagement metrics. Carlo was excited, talking about the 50 companies actively using the product, the testimonials we'd collected, the technical breakthroughs we'd made.
+The call started normally enough. We showed him our dashboard, our user growth, our engagement metrics. Carlo was excited, talking about the tens of companies actively using the product, the testimonials we'd collected, the technical breakthroughs we'd made.
 
 Michael listened. Then he asked one question: "What's your MRR?"
 
@@ -229,23 +229,9 @@ On June 30, 2024, we made the announcement: "We're discontinuing our email deliv
 
 It felt like admitting defeat, but it was actually admitting reality. We weren't going to out-engineer Google's spam filters. We weren't going to solve cold email deliverability. We were two guys with a dream and a rapidly depleting bank account, not the email infrastructure messiahs.
 
-## Finding the real product
+We'd stripped FirstQuadrant down to its bones. No more domain buying. No more mailbox warming. No more deliverability monitoring. What was left?
 
-As we stripped away all the email infrastructure, something interesting emerged: the Brain.
-
-The AI reasoning engine we'd built to decide when to follow up, how to classify responses, and when to escalate to humans - that was actually good. Really good. It could understand context, maintain conversation history, and make decisions that felt almost human. The email delivery was a nightmare, but the intelligence layer was solid.
-
-We started to wonder: what if the Brain was the real product all along? What if we'd spent two years building email infrastructure when we should have been building an AI reasoning engine that could do... well, anything?
-
-The more we looked at it, the more obvious it became. The Brain could:
-
-- Classify incoming messages by intent
-- Generate contextually appropriate responses
-- Know when to escalate to humans
-- Maintain state across long conversations
-- Learn from corrections
-
-That's not an email tool. That's a general-purpose AI agent. We'd accidentally built something far more valuable than we realized while we were distracted by spam filters and domain warming.
+That question would lead us to our biggest discovery yet - but it would also lead us to our biggest failure.
 
 ## Three takeaways
 
@@ -257,7 +243,7 @@ The $10 waitlist fee was our best decision - it separated real customers from to
 **Sell before you build.**  
 We launched on Bookface with literally nothing - Figma mockups turned into static HTML with no backend. The screen recording looked real, but there was nothing behind it. That "fake" launch generated thousands in waitlist revenue and proved demand before we wrote a single line of actual code. If we'd built first and launched later, we might have spent months building something nobody wanted. Instead, we had hundreds of paying customers before we had a product.
 
-**The product you think you're building isn't the product you're actually building.**  
-We thought we were building an AI email writer. We were actually building email infrastructure - and badly. But buried in all that infrastructure was a reasoning engine that could do far more than send cold emails. Sometimes the most valuable thing you build is the thing you didn't know you were building.
+**Infrastructure is a trap.**  
+We thought we were building an AI email writer. We were actually building email infrastructure - DNS management, warming services, deliverability monitoring, bounce handling. The AI was maybe 10% of what we actually built. If you find yourself spending 90% of your time on something that isn't your core product, you're building the wrong thing. Sometimes you have to strip everything away to find what actually matters.
 
-Next up, the final chapter: How we discovered that the Brain - our AI reasoning engine - was the real product all along, why $20k-$30k MRR and early product-market fit signals still weren't enough, and how we made the hardest decision of all: [The brain that ate FirstQuadrant](/blog/2025/the-brain-that-ate-firstquadrant).
+Next up, the final chapter: How we discovered what was actually valuable in the wreckage of our email infrastructure, why $20k-$30k MRR and early product-market fit signals still weren't enough, and how we made the hardest decision of all: [Finding the real product and running out of money](/blog/2025/finding-the-real-product-and-running-out-of-money).
