@@ -76,7 +76,7 @@ But there was one problem: our debt financing partner. Our new acquirers needed 
 
 In May, one of our advisors wrote the email that summed up our position: "Accept anything higher than 0". That's where we were - grateful for literally any amount of money. But even that was too optimistic. In June, the buyer walked away. After six months of negotiations, due diligence, and false hope, they walked away. The debt financing partner wouldn't negotiate, so there was no deal. We'd kept the company on life support for half a year for nothing.
 
-With the acquisition deal dead, we had one option left: liquidation. The Swiss subsidiary, Koj AG, would be formally wound down. The furniture contracts would be... well, we weren't sure what would happen to them. The debt financing partner could theoretically try to collect on the loans, but the furniture was already in customers' homes across Switzerland and Germany so that wouldn't be easy.
+With the acquisition deal dead, we had one option left: bankruptcy. The Swiss subsidiary, Koj AG, would be formally wound down in a bankruptcy court. The furniture contracts would be... well, we weren't sure what would happen to them. The debt financing partner could theoretically try to collect on the loans, but the furniture was already in customers' homes across Switzerland and Germany so that wouldn't be easy.
 
 Carlo and I sat on a Zoom call - we were always on Zoom calls - and did the math. We had about $700,000 left in the US entity. Our burn rate was down to $30-40k per month. If we were careful, we had maybe 18-24 months of runway. Enough time to try something else.
 
@@ -88,7 +88,7 @@ The final insult came when we tried to calculate what the debt financing partner
 ![Delivery image](/assets/move-fast-and-save-things/delivery-2.jpg)
 ![Delivery image](/assets/move-fast-and-save-things/delivery-3.jpg)
 
-By July, it was over. Koj AG entered formal liquidation. A process that finally completed after two years. While lawyers handled the liquidation paperwork, I wrote a post-mortem. Not the sanitized version, the real one - the one that admitted we'd been losing money on every single apartment for months and didn't know it, the one that acknowledged we'd prioritized growth metrics over unit economics because the charts looked better, the one that said we should have killed this thing six months earlier.
+By July, it was over. Koj AG entered formal bankruptcy. A process that finally completed after two years. While lawyers handled the liquidation paperwork, I wrote a post-mortem. Not the sanitized version, the real one - the one that admitted we'd been losing money on every single apartment for months and didn't know it, the one that acknowledged we'd prioritized growth metrics over unit economics because the charts looked better, the one that said we should have killed this thing six months earlier.
 
 Here's what I wish I'd understood earlier: subscription furniture in Europe was fundamentally a zero interest rate phenomenon. When money was free, it made sense to finance $20,000 of furniture over four years. When interest rates hit 5%, the math stopped working. We could have seen this coming if we'd been watching the right indicators. Instead, we were watching MRR go up and to the right, not realizing each new sale was digging us deeper into a hole.
 

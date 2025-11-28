@@ -7,57 +7,43 @@ draft: true
 
 This is the fourth chapter in my five-year retrospective. We tried to [move fast and save things](/blog/2025/move-fast-and-save-things) after discovering we were losing money on every sofa and had to liquidate our furniture inventory in 72 hours, and ended up inventing the first sales agent in the post-ChatGPT era.
 
-## The wedding I almost missed
+January 2023. My highschool sweetheart Sukriti and I were about to get married in a beautiful ceremony in India. Except I wasn't really there - not mentally, anyway. While my then-fiancée was coordinating with vendors, finalizing the guest list, choosing flowers, and handling the thousand tiny decisions along with my family that make a wedding happen, I was on my laptop in the corner, debugging GPT-3 prompts. Our furniture business was collapsing in Switzerland, Carlo and I were frantically pivoting to AI, and I was physically present but emotionally checked out of my own wedding preparations.
 
-January 2023. I was about to marry Sukriti, the love of my life, in a beautiful ceremony in India. Except I wasn't really there - not mentally, anyway.
-
-While my then-fiancée was coordinating with vendors, finalizing the guest list, choosing flowers, and handling the thousand tiny decisions that make a wedding happen, I was on my laptop in the corner, debugging GPT-3 prompts. Our furniture business was collapsing in Switzerland, Carlo and I were frantically pivoting to AI, and I was physically present but emotionally checked out of my own wedding preparations.
-
-I need to say this clearly: Sukriti did everything. She and our families carried the entire weight of the wedding while I contributed approximately nothing except stress and distraction. I should have been there more. I should have put the laptop away. I should have been a better partner in those weeks. But when you're watching one company die while trying to birth another, your judgment gets clouded. She deserved better, and I'm still grateful she married me anyway.
-
-The same week we got married, we launched FirstQuadrant on Bookface. I was editing wedding photos in one browser tab and refreshing our Stripe dashboard in another - not exactly the honeymoon I'd imagined, but when you're pivoting from a failing furniture business, you don't get to be picky about timing.
+I need to say this clearly: Sukriti and my family did everything - they carried the entire weight of the wedding while I contributed approximately nothing except stress and distraction. I should have been there more. I should have put the laptop away. I should have been a better partner in those weeks. But when you're watching one company die while trying to birth another, your judgment gets clouded. She deserved better, and I'm still grateful she married me anyway.
 
 ## Selling a product that didn't exist
 
 Here's where things get wonderfully stupid. We didn't have a product. We didn't have a prototype. We didn't even have a backend. What we had was audacity and Figma.
 
-For weeks before the wedding, while our furniture business was being dismantled piece by piece, Carlo and I had been secretly playing with GPT-3 like kids who'd discovered fire. We'd type prompts, watch the AI respond, and text each other "this is insane" at 2 AM. Carlo even had GPT-3 write our investor update about Pabio's collapse, and when investors complimented the clarity of our communication, we just smiled and nodded.
+For weeks before the wedding, while our furniture business was being dismantled piece by piece, Carlo and I had been secretly playing with GPT-3. We'd type prompts, watch the AI respond, and text each other "this is insane" in the middle of the night. Carlo even had GPT-3 write our investor update about Pabio's collapse, and when investors complimented the clarity of our communication, we just smiled and nodded.
 
-The AI outbound idea kept winning our scoring sheets. Every founder we talked to had the same complaint: outbound sales was either impossibly expensive (hire SDRs) or impossibly time-consuming (do it yourself). At Carlo's previous company Cleverclip, he'd built an 8-person SDR team that generated millions in revenue. But the reality of an SDR's life is soul-crushing: endless LinkedIn stalking, crafting "personalized" messages that were really just templates with {FirstName} variables, and praying for a 2% response rate.
+The AI outbound idea kept winning our scoring sheets. Every founder we talked to had the same complaint: outbound sales was either impossibly expensive (hire SDRs) or impossibly time-consuming (do it yourself). At Carlo's previous company Cleverclip, he'd built an 8-person SDR team that generated millions in revenue. But the reality of an SDR's life is soul-crushing: endless LinkedIn stalking, crafting "personalized" messages that were really just templates with `{FirstName}` variables, and praying for a 2% response rate.
 
-That's when it clicked: what if GPT could write actually personalized sales emails? Not just "Hi {FirstName}, I see you work at {Company}" but real, researched, contextual outreach that didn't sound like it was written by a robot pretending to be human?
+That's when it clicked: what if GPT could write actually personalized sales emails? Not just `Hi {FirstName}, I see you work at {Company}` but real, researched, contextual outreach that didn't sound like it was written by a robot pretending to be human?
 
 So we did something unorthodox: we decided to sell it before building it.
 
-Over a weekend in January 2023, Carlo created gorgeous mockups in Figma. I turned them into static HTML and JavaScript - emphasis on static. No backend. No database. No AI. Just pretty screenshots and smooth animations that looked like a real product. You could click buttons that did absolutely nothing except navigate to another fake screen.
+A few weekends before the wedding, Carlo designed pixel-perfect mockups of the product in Figma, and I turned them into static HTML and CSS - emphasis on static. No backend, no database, no AI. Just screen recording in a browser to like a real product. You could click buttons that did absolutely nothing except navigate to another fake screen. It had prospecting, email generation, scheduling, sending, and reporting.
 
 ![The fake idea evaluator we used to test demand](/assets/building-the-first-as-sdr/idea-evaluator.png)
 
-We recorded our screens clicking through the fake interface, carefully avoiding any interaction that would reveal there was nothing behind the curtain. We stitched together some GIFs and wrote a Bookface post (YC's internal forum) announcing FirstQuadrant: "a GPT-based outbound sales tool that (actually!) fully automates your B2B outbound activities."
+Before we launched, I had another unorthodox idea: we'd charge $10 to join the waitlist.
 
-The "(actually!)" was doing a lot of heavy lifting considering the product actually didn't exist.
+Yep - we'd charge people money to maybe, potentially, possibly get access to a product that didn't exist yet. I figured signing up for waiting list is free, but if you're taking your credit card out and actually paying $10, that's a very strong signal.
 
-The response was immediate and overwhelming. Hundreds of upvotes, dozens of comments, and people asking how to sign up. We were onto something, but we needed stronger validation than just internet points. So we added a $10 paywall to join the waitlist.
+We stitched together some GIFs and wrote a Launch Bookface post (YC's internal forum) announcing FirstQuadrant: "a GPT-based outbound sales tool that (actually!) fully automates your B2B outbound activities." The "(actually!)" was doing a lot of heavy lifting considering the product actually didn't exist yet.
 
-Yes, you read that right. We charged people money to maybe, potentially, possibly get access to a product that didn't exist yet. We figured if people wouldn't pay $10, they definitely wouldn't pay $700/month for the actual product. Plus, it would filter out the tire-kickers and leave us with people who actually felt the pain we were solving.
-
-Carlo was nervous. "What if people get angry about paying for a waitlist?" I was nervous too, but for a different reason: "What if nobody pays and we realize this idea sucks?"
-
-## The $10 validation hack
-
-Within hours of adding the payment gate, the first $10 hit our Stripe account. Then another. And another. By the end of the first day, we had dozens of paid signups. By the end of the week, hundreds. We made more money from our non-existent product's waiting list than we'd made from actual furniture rentals in some months.
+The response was immediate and overwhelming. Hundreds of upvotes, dozens of comments, and people asking how to sign up. But more importantly: people were actually paying. Within hours, the first $10 hit our Stripe account. Then another. And another. By the end of the first day, we had dozens of paid signups. In the next few weeks, hundreds. We made more money from our non-existent product's waiting list than we'd made from actual furniture rentals in our first few months.
 
 Meanwhile, back in Switzerland, our furniture company was still dying. The acquisition deal was in negotiations, our debt financing partner was ghosting us, and customers were asking where their sofas were. Every morning started with a surreal context switch: check the Pabio liquidation spreadsheet, then check the FirstQuadrant waitlist revenue.
 
-The $10 fee turned out to be genius for unexpected reasons. First, it gave us incredibly high-quality feedback. People who pay even a small amount feel invested and give thoughtful input. Second, it created urgency - people don't want to "waste" their $10, so they actively engaged when we reached out. Third, and most importantly, it gave us their email and payment info, making it trivial to convert them to paying customers later.
+The $10 fee turned out to be genius for unexpected reasons. First, it gave us incredibly high-quality feedback. People who pay even a small amount feel invested and give thoughtful input. Second, it created urgency - people don't want to "waste" their $10, so they actively engaged when we reached out. Third, and most importantly, it gave us their email and payment info, making it much easier to convert them to paying customers later.
 
-But the real validation came from the messages. CTOs of YC companies were DMing us their outbound horror stories. One founder wrote, "I spent 6 hours yesterday writing 20 personalized emails and got 1 response saying 'unsubscribe.' Please build this faster." Another said, "I would pay $10,000/month if this actually works."
+We looked at each other over Zoom and realized: we actually had to build this thing now. We'd sold a product that didn't exist, and now hundreds of people were waiting for it.
 
-We looked at each other over Zoom (we were always on Zoom) and realized: we actually had to build this thing now. We'd sold a product that didn't exist, and now hundreds of people were waiting for it.
+## AI SDR in 3 weeks
 
-## Finally building the damn thing
-
-Our plan for Q1 2023 was aggressive: January was for the fake launch and validation. February was for building the actual functioning MVP. March was for acquiring first paying customers. We even had dreams of a Product Hunt and TechCrunch launch announcing both the Pabio acquisition and FirstQuadrant simultaneously - the ultimate phoenix-from-the-ashes story. (Spoiler: the acquisition fell through, but that's a story I told in the previous chapter.)
+Our plan for Q1 2023 was aggressive: January was for the "fake" launch and validation. February was for building the actual functioning MVP. March was for acquiring first paying customers. We even had dreams of a Product Hunt and TechCrunch launch announcing both the Pabio acquisition and FirstQuadrant simultaneously - the ultimate phoenix-from-the-ashes story (the acquisition fell throug, so this didn't happen anyway).
 
 The next few weeks were a blur of 18-hour coding days and endless GPT-3 prompt engineering. We discovered that getting GPT to write emails was easy. Getting it to write good emails that didn't sound like a Victorian butler having a stroke? That was hard.
 
