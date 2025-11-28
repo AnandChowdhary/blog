@@ -486,12 +486,25 @@
     "emoji": "🤖💼🚀"
   },
   {
+    "slug": "finding-the-real-product-and-running-out-of-money.md",
+    "path": "blog/2025/finding-the-real-product-and-running-out-of-money.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/finding-the-real-product-and-running-out-of-money.md",
+    "title": "Finding the real product and running out of money",
+    "date": "2025-12-01T00:00:00.000Z",
+    "excerpt": "This is the fifth and final chapter in my five-year retrospective. After building the first AI SDR and fighting Gmail's spam filters to reach $20k MRR, we stripped away all our email infrastructure in defeat - and discovered something unexpected in the wreckage. This is the story of how we found the real product, why it still wasn't enough, and how we made the hardest decision of all. Finding the real product\n\nJuly 2024. We'd just announced we were killing our email deliverability toolin",
+    "attributes": {
+      "date": "2025-12-01T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "🧠💸💥"
+  },
+  {
     "slug": "the-brain-that-ate-firstquadrant.md",
     "path": "blog/2025/the-brain-that-ate-firstquadrant.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-brain-that-ate-firstquadrant.md",
-    "title": "The brain that ate FirstQuadrant",
+    "title": "Finding the real product and running out of money",
     "date": "2025-12-01T00:00:00.000Z",
-    "excerpt": "This is the fifth and final chapter in my five-year retrospective. After building the first AI SDR and fighting Gmail's spam filters to reach $20k MRR, we discovered our real product wasn't email automation at all - it was an AI reasoning engine we called the Brain. This is the story of how we only found idea-market fit, ran out of money, and sold our company's assets. The accidental discovery\n\nIn August 2024, we hit a milestone that seemed impossible just months earlier: we",
+    "excerpt": "This is the fifth and final chapter in my five-year retrospective. After building the first AI SDR and fighting Gmail's spam filters to reach $20k MRR, we stripped away all our email infrastructure in defeat - and discovered something unexpected in the wreckage. This is the story of how we found the real product, why it still wasn't enough, and how we made the hardest decision of all. Finding the real product\n\nJuly 2024. We'd just announced we were killing our email deliverability toolin",
     "attributes": {
       "date": "2025-12-01T00:00:00.000Z",
       "draft": true

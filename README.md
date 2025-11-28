@@ -8,11 +8,12 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 47 blog in 13 years
+- 48 blog in 13 years
 
 ### 2025
 
-- 🧠💸🚪 `[DRAFT]` [The brain that ate FirstQuadrant](./blog/2025/the-brain-that-ate-firstquadrant.md)
+- 🧠💸💥 `[DRAFT]` [Finding the real product and running out of money](./blog/2025/finding-the-real-product-and-running-out-of-money.md)
+- 🧠💸🚪 `[DRAFT]` [Finding the real product and running out of money](./blog/2025/the-brain-that-ate-firstquadrant.md)
 - 🤖💼🚀 `[DRAFT]` [Building the first AI SDR](./blog/2025/building-the-first-as-sdr.md)
 - 💸📉🔄 [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
 - 🛋️📈🗺️ [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
