@@ -8,7 +8,7 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 48 blog in 13 years
+- 47 blog in 13 years
 
 ### 2025
 
