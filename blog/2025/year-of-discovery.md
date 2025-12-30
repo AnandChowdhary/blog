@@ -38,7 +38,7 @@ And that last part - the identity question - is more disorienting than I expecte
 
 I'm actively exploring two paths: joining another company or starting something new with Carlo. After being the sole technical decision-maker for years, I'm excited about the prospect of working with other really smart engineers and product builders. I very much don't want to be the smartest person in the room, I want to learn from people who know more than me.
 
-But I'm also still hungry. Two company shutdowns in three years means I have unfinished business. I want to prove I can build something that works financially, not just technically. The next idea needs to resonate deeply - not just be a good market opportunity, but something I genuinely care about and want to learn from.
+But I'm also still hungry. Two companies shut down in five years means I have unfinished business. I want to prove I can build something that works financially, not just technically. The next idea needs to resonate deeply - not just be a good market opportunity, but something I genuinely care about and want to learn from.
 
 ## 2025 by the numbers
 
@@ -59,15 +59,9 @@ I also had some side quests this year:
 - Spoke about how to build your own coding agents at RenderATL in Atlanta
 - Chatted with dozens of founders about building sales tools and navigating exits in the last few months
 
-According to ChatGPT, if 2025 gave out awards, I'd get:
+Here's my year painted in pixels by ChatGPT - "Still Life with Laptop and Eurail Pass":
 
-> Most Likely to Redesign the Internet (Mid-Flight): For rewriting dev tools, pitch decks, and UI libraries between connecting flights, proving context-switching is a legitimate superpower.
-
-And my year painted in pixels:
-
-![A pixel tableau of late‑night code, espresso rings, and half‑packed suitcases—where startup decks meet train timetables in perfect entrepreneurial motion blur.](/assets/year-of-discovery.png)
-
-> “Still Life with Laptop and Eurail Pass” – ChatGPT, 2025
+<img alt="A pixel tableau of late‑night code, espresso rings, and half‑packed suitcases—where startup decks meet train timetables in perfect entrepreneurial motion blur." src="/assets/year-of-discovery.png" width="300">
 
 Seems about right.
 
@@ -95,7 +89,7 @@ I mostly dealt with 2025 by staying busy - working 80-hour weeks, doing things o
 
 Secondly, **I want to learn from people smarter than me.** After a decade as a solo technical founder in a small team, I'm interested in other startups. I want to work with other really smart engineers, not be the person making every architectural decision. I'm genuinely open to joining the right company if the mission aligns. What scares me more than failing as a founder is failing as an employee, discovering I can't handle not being in control.
 
-Finally, **I want to discover who I am without a company.** For ten years, I've had a simple answer to "what do you do?" Now I don't. That identity shift is stranger than I expected, and I need to sit with that discomfort. I want to explore interests beyond startups, read broadly without everything tying back to "building a company", and do the internal work of understanding what actually matters to me.
+Finally, **I want to discover who I am without a company.** For ten years, I've had a simple answer to "what do you do?" and now I don't. That identity shift is stranger than I expected, and I need to sit with that discomfort. I want to explore interests beyond startups, read broadly without everything tying back to building a company, and do the internal work of understanding what actually matters to me.
 
 Other themes I considered were Year of Learning and Year of Exploration. Sukriti gave me six months to figure this out, and I don't know what happens when that runs out without clarity.
 
