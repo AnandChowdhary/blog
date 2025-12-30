@@ -28,7 +28,7 @@ I'm writing a five-part retrospective about the Pabio + FirstQuadrant journey, s
 
 I ran an extremely fast acquisition process and ended up selling our assets to an AI decacorn. It wasn't life-changing money, but it was enough to have a clean ending and some time to figure out what's next. It was surprisingly relieving. For the first time in the better part of a decade, I had a clean slate. No customers to support, no fires to put out, no KPIs to track. But it was also painful. This wasn't a pivot with a silver lining, this was the end.
 
-Sukriti gave me six months to try new things, explore new ideas, and decide what I want to do with my life. November was a blur of asset transfer logistics, decompressing, reading, thinking, and spending time together. I thought I'd enjoy the break after five years of 80-hour weeks.
+I had six months to try new things, explore new ideas, and decide what I want to do with my life. November was a blur of asset transfer logistics, decompressing, reading, thinking, and spending time together. I thought I'd enjoy the break after five years of 80-hour weeks.
 
 By December, the restless feeling caught up with me. I can't do nothing all day, so I started exploring: chatting with other startups, spending a few hours every other day with Carlo thinking about new ideas, attending AI events, having lunch with founders. My days became a mix of reading, gym, cooking, ideation, and trying to figure out who I am when I'm not "cofounder of X".
 
@@ -87,10 +87,8 @@ I mostly dealt with 2025 by staying busy - working 80-hour weeks, doing things o
 
 **I want to explore ideas.** Carlo and I are spending a few hours every other day thinking about new concepts, talking to users, and validating problems. But this time, I'm not rushing to build. I need to find something I deeply care about, something that resonates strongly with me as a person, something worth committing the next five years to. And at the same time, I'm working with some great founders on problems I'm excited about such as context search in AI applications, adding value wherever I can.
 
-Secondly, **I want to learn from people smarter than me.** After a decade as a solo technical founder in a small team, I'm interested in other startups. I want to work with other really smart engineers, not be the person making every architectural decision. I'm genuinely open to joining the right company if the mission aligns. What scares me more than failing as a founder is failing as an employee, discovering I can't handle not being in control.
+Secondly, **I want to learn from people smarter than me.** After a decade as a solo technical founder in a small team, I'm interested in other startups. I want to work with other really smart engineers, and I'm genuinely curious about what I'll learn when I'm not one of the two people making every call. What scares me more than failing as a founder is failing as an employee, discovering I can't handle not being in control, which is why this will be most fun.
 
 Finally, **I want to discover who I am without a company.** For ten years, I've had a simple answer to "what do you do?" and now I don't. That identity shift is stranger than I expected, and I need to sit with that discomfort. I want to explore interests beyond startups, read broadly without everything tying back to building a company, and do the internal work of understanding what actually matters to me.
 
-Other themes I considered were Year of Learning and Year of Exploration. Sukriti gave me six months to figure this out, and I don't know what happens when that runs out without clarity.
-
-But that's the point - the Year of Discovery is about being comfortable not knowing, exploring without forcing outcomes, and trusting that the right path will emerge if I give it space.
+I really don't know what lies in 2026. But that's the point - the Year of Discovery is about being comfortable not knowing, exploring without forcing outcomes, and trusting that the right path will emerge if I give it space.
