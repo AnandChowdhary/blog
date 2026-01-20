@@ -414,6 +414,19 @@
     "emoji": "🙏🏡📝"
   },
   {
+    "slug": "the-most-radical-programmer-i-met.md",
+    "path": "blog/2025/the-most-radical-programmer-i-met.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/the-most-radical-programmer-i-met.md",
+    "title": "The most radical programmer I've met doesn't use a laptop",
+    "date": "2025-01-20T00:00:00.000Z",
+    "excerpt": "A few months ago, I had a conversation that made me feel like I'd been doing Year of Agents wrong. Not in the \"oops I didn't turn on /plan mode\" way, but in the \"oh no, I've fundamentally misunderstood who's leading this revolution\" way. I was chatting with a distinguished principal research engineer at [big tech] - someone with multiple decades of experience at the company, deep in research, working on the future of agentic workflows.",
+    "attributes": {
+      "date": "2025-01-20T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "📱🤖🧠"
+  },
+  {
     "slug": "state-flags-for-india.md",
     "path": "blog/2025/state-flags-for-india.md",
     "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2025/state-flags-for-india.md",
