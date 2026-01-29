@@ -17,7 +17,7 @@ I was thinking about an idea in the agent orchestration space and had recently b
 
 I must have made a face, because he continued: "Look at our codebase. I haven't written a single line of Go. And I think we have 300,000 lines of Go so far." He does everything from the GitHub Mobile app.
 
-Here's his workflow: When he has an idea, he opens the GitHub app on his phone, creates an issue or assigns a task to Copilot agent, and waits. Twenty minutes later, he gets a notification - like "Instagram, but for code". A pull request appears, he reviews it, maybe leaves some comments, and either merges or requests changes. The agent iterates, he moves on to the next thing.
+Here's his workflow: When he has an idea, he opens the GitHub app on his phone, creates an issue or assigns a task to Copilot agent, and goes on to do something else. Twenty minutes later, he gets a notification - like "Instagram, but for code". A pull request appears, he reviews it, maybe leaves some comments, and either merges, requests changes, or just gives up. Yes, sometimes agentic code is code you throw away. The agent iterates, he moves on to the next thing.
 
 But that's not even the wild part.
 
@@ -35,7 +35,7 @@ Here's what broke my brain: this wasn't the person I expected to be living in th
 
 In my mental model, the people going full agent-mode were 17-year-old YC founders who don't know how to write code in a pre-LLM era. I did not expect a 50-something OG programming veteran with more than my lifespan in experience to be more radical than me. I've been building AI products for years, I built the tool for running Claude Code in automated loops, and I'm still opening Cursor every morning like some kind of dinosaur.
 
-When I said as much to him, he laughed. "Senior devs, you would be surprised. The amount of principal and distinguished engineers here are going full agentic... We've been reviewing PRs our entire career. We've been training interns, new hires. When you're doing agentic, you're playing chess on 10 boards. You're just monitoring an army of interns. Most of the time you spend code reviewing. It's a muscle that a 17-year-old doesn't have."
+When I said as much to him, he laughed. "Senior devs, you would be surprised. We've been reviewing PRs our entire career. We've been training interns, new hires. When you're doing agentic, you're playing chess on 10 boards. You're just monitoring an army of interns. Most of the time you spend code reviewing. It's a muscle that a 17-year-old doesn't have."
 
 And that's when it clicked.
 
@@ -51,7 +51,7 @@ He can't type two lines of Go without making ten typos - he doesn't have the mus
 
 Meanwhile, on the other end of the experience spectrum, things are getting grim for people just getting started. [Stanford research](https://www.cnn.com/2025/08/28/tech/computer-science-graduates-job-hunt-ai) found that employment among software developers aged 22 to 25 fell nearly 20% between 2022 and 2025. Salesforce announced they'd stop hiring new software engineers entirely.
 
-As one senior engineer [put it](https://www.cio.com/article/3509174/ai-coding-assistants-wave-goodbye-to-junior-developers.html): "Why hire a junior for $90K when GitHub Copilot costs $10?"
+As another senior engineer [put it](https://www.cio.com/article/3509174/ai-coding-assistants-wave-goodbye-to-junior-developers.html): "Why hire a junior for $90K when GitHub Copilot costs $10?"
 
 The irony? Everyone thought AI would be the great equalizer - finally, anyone can code! Instead, it's becoming a force multiplier that makes experienced people exponentially more productive while making inexperienced people only marginally better. If you've been programming for several years, you get an army of AI interns. If you're just starting out, you get... a slightly smarter autocomplete that you don't know how to use properly.
 
@@ -77,11 +77,12 @@ The ideas were always the hard part. The typing was busywork we convinced oursel
 
 ## What this actually means
 
-I don't think every programmer needs to throw away their laptop. This guy was operating at a certain scale and seniority where his time was best spent on architecture and review. Most of us still need to understand code at a visceral level, and writing it is part of how we learn.
+I don't think every programmer needs to throw away their laptop. As he himself reviwed this article on his laptop, telling me "this is not a dogma; I still jump on my laptop when it is the best tool for the job, but not because I liked to bang funny symbols on the keyboard." He was operating at a certain scale and seniority where his time was best spent on architecture and review. Most of us still need to understand code at a visceral level, and writing it is part of how we learn.
 
 But I do think the direction is clear. IDEs as we know them are on the way out. The future is agent orchestration - spinning up multiple AI workers, reviewing their output, providing feedback, and maintaining the quality bar across a fleet of automated contributors.
 
 The people who will thrive are the ones who can:
+
 1. Express intent clearly (prompting is the new programming)
 2. Review code efficiently (reading > writing)
 3. Design systems that can be improved incrementally by agents
