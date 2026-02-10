@@ -8,7 +8,11 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 49 blog in 13 years
+- 50 blog in 14 years
+
+### 2026
+
+- 💻🔒🧭 [AgentScript](./blog/2026/agentscript.md)
 
 ### 2025
 

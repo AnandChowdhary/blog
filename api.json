@@ -522,5 +522,17 @@
       "date": "2025-12-29T00:00:00.000Z"
     },
     "emoji": "🔎🧭🌱"
+  },
+  {
+    "slug": "agentscript.md",
+    "path": "blog/2026/agentscript.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2026/agentscript.md",
+    "title": "AgentScript",
+    "date": "2026-02-09T00:00:00.000Z",
+    "excerpt": "A few weeks ago, I was staring at a system prompt that was 127,000 tokens long. One hundred and twenty-seven thousand tokens - just the system prompt. Most of it was, you guessed it, tool schemas: JSON definitions for every possible thing the agent could do, most of which it would never touch in any given run. My solution? I propose AgentScript: a code-first execution language where the LLM can only interact with the outside world by writing programs.",
+    "attributes": {
+      "date": "2026-02-09T00:00:00.000Z"
+    },
+    "emoji": "💻🔒🧭"
   }
 ]
