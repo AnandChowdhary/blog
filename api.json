@@ -534,5 +534,17 @@
       "date": "2026-02-09T00:00:00.000Z"
     },
     "emoji": "💻🔒🧭"
+  },
+  {
+    "slug": "why-i-joined-sycamore.md",
+    "path": "blog/2026/why-i-joined-sycamore.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2026/why-i-joined-sycamore.md",
+    "title": "Why I joined Sycamore",
+    "date": "2026-03-31T00:00:00.000Z",
+    "excerpt": "On Halloween last year, my cofounder Carlo and I had a handshake deal with a pretty known AI company to sell FirstQuadrant, and for the first time in nearly a decade, I had nothing to build. I wrote about this in my Year of Discovery post: the plan was to sit with the discomfort. Not rush into the next thing, and figure out who I am when I'm not \"cofounder of X\". As you'd expect, that lasted about six weeks. By December, I was restless.",
+    "attributes": {
+      "date": "2026-03-31T00:00:00.000Z"
+    },
+    "emoji": "🚀🧭🤖"
   }
 ]
