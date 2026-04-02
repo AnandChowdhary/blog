@@ -12,7 +12,7 @@ Taking this approach, I started brainstorming about what the logo should look li
 
 Then, I had to look for a color. To be honest, we were already sure. We didn’t even try any other color out. The color is optimistic and uplifting, rejuvenating our spirit. With its enthusiasm for life, the color also highlights connectivity, and is also visually appealing. So, it was decided that we would go with a flat color, a beautiful shade of orange, tomato.
 
-Another concept I really loved was Jabong.com’s logo. I can’t see a dot in their logo. But when I read the text, I read it as “jabong-dot-com,” simply because the ‘com’ is highlighted, much to my delight. So, I decided to merge our concept of usage of circles with this unique idea. Thus, our logo was the text “internet” in Helvetica lowercase followed by a negative circle with the text “org” in it. A sideline reason was that we wanted to highlight the ‘org,’ since it’s a non-profit organization. Metaphorically, the circle also did a great job since it looks like an enlarged dot, avoiding any confusion. The following was the end-product. Later, we designing similar favicons and Apple-touch-icons.
+Another concept I really loved was Jabong.com’s logo. I can’t see a dot in their logo. But when I read the text, I read it as “jabong-dot-com,” simply because the ‘com’ is highlighted, much to my delight. So, I decided to merge our concept of usage of circles with this unique idea. Thus, our logo was the text “internet” in Helvetica lowercase followed by a negative circle with the text “org” in it. A sideline reason was that we wanted to highlight the ‘org,’ since it’s a non-profit organization. Metaphorically, the circle also did a great job since it looks like an enlarged dot, avoiding any confusion. The following was the end-product. Later, we designed similar favicons and Apple-touch-icons.
 
 ![Logo](https://svbtleusercontent.com/jysyu4plfooaq_retina.png)
 
@@ -45,6 +45,6 @@ In conclusion, we designed a simple and flat logo and a responsive and aesthetic
 ## Footnotes
 
 1. Chimero, Frank [“The Shape of Design”](http://read.shapeofdesignbook.com/chapter01.html) — Chapter 1 — Quote
-2. [Internet.org](http://internet.org/) — Section 3 — Definition of the initative
+2. [Internet.org](http://internet.org/) — Section 3 — Definition of the initiative
 3. Empower Yourself with Color Psychology — “The Color [Orange](http://www.empower-yourself-with-color-psychology.com/color-orange.html“
 4. Photos are copyrighted by [Greg Peverill-Conti](http://www.flickr.com/photos/gregpc/) under a Creative Commons BY-NC-SA 2.0 license

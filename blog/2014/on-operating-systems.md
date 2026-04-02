@@ -56,7 +56,7 @@ The OS should be self-explanatory. Users shouldn’t have a hard time figuring o
 
 ## unobtrusive
 
-One of the most major issues in current OSes is that they come in the way of uses and what they want to do. If I turn Windows on, I see the lock screen which I swipe to top and then log into my account. Then, I tap on Desktop and launch Chrome and type “gm” and press enter to go to Gmail. I want one below the screen that turns it on. I tap on Gmail and I see my mail. Is that too much to ask? Mobile implementation of these ideas are still pretty okay, but why can’t we have a consistent—and yet great—experience across all my device? Why don’t I receive Android notifications on Chrome? Why does my OS come in the way of productivity?
+One of the most major issues in current OSes is that they come in the way of users and what they want to do. If I turn Windows on, I see the lock screen which I swipe to top and then log into my account. Then, I tap on Desktop and launch Chrome and type “gm” and press enter to go to Gmail. I want one below the screen that turns it on. I tap on Gmail and I see my mail. Is that too much to ask? Mobile implementation of these ideas are still pretty okay, but why can’t we have a consistent—and yet great—experience across all my device? Why don’t I receive Android notifications on Chrome? Why does my OS come in the way of productivity?
 
 ## honest
 

@@ -8,7 +8,7 @@ The purpose of this redesign is not to criticize Gaana’s current brand identit
 
 **The problem is that the current Gaana identity doesn’t evoke emotion.**
 
-Their logo consists of a wordmark in a custom-designed typeface similar to Core Sans M, or the letter g in a rounded square. The tomato color sometimes seems oversaturated, but looks good when used in advertisement campaigns. The kerning, too, seems a bit out of place. The a-n ligature could be easily transformed into an a-a-n triple-letter ligature, which makes the first a seems less out of place.
+Their logo consists of a wordmark in a custom-designed typeface similar to Core Sans M, or the letter g in a rounded square. The tomato color sometimes seems oversaturated, but looks good when used in advertisement campaigns. The kerning, too, seems a bit out of place. The a-n ligature could be easily transformed into an a-a-n triple-letter ligature, which makes the first a seem less out of place.
 
 ## The Solution
 
@@ -32,7 +32,7 @@ We evoke user emotion by the simple connection of gaana. Gaana offers thousands 
 
 ### Wordmark
 
-Gaana’s current custom-designed wordmark is that it is too unfriendly. Letters which are relatively smoother and more curved seem more friendly that those with extremely sharp edges.
+Gaana’s current custom-designed wordmark is that it is too unfriendly. Letters which are relatively smoother and more curved seem more friendly than those with extremely sharp edges.
 
 ![](https://miro.medium.com/max/1400/1*gEseasuJO4HtpFfjNM30tw.jpeg)
 

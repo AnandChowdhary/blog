@@ -41,7 +41,7 @@ Every episode of Heavyweight is an auditory adventure with Jonathan Goldstein. H
   <span>Clockwise</span>
 </h3>
 
-This is my go-to podcast when biking from home to university. Each episode is 30 minutes, which is 20 minutes at `1.5x`, exactly the duration of my my bike ride every morning. It covers four tech news topics in each episode with various guests.
+This is my go-to podcast when biking from home to university. Each episode is 30 minutes, which is 20 minutes at `1.5x`, exactly the duration of my bike ride every morning. It covers four tech news topics in each episode with various guests.
 
 <h3 class="img-heading">
   <img src="/images/blog/state-of-the/podcasts/codeish.png" alt="">

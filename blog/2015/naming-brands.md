@@ -12,11 +12,11 @@ eBay has a great logo, but the very best part is its name’s look, which is exa
 
 When you see the text ‘IPhone’ or ‘Iphone,’ you feel uneasy because you know it’s not the correct way to write it. You always write Google with a capital ‘G’ and 9GAG with all letters in uppercase, because it is the look of the brand name.
 
-Dave Mosher that “easily pronounced named may make people more likable.” Forget made-up words and nonsense phrases. One of the key parts about naming your brand is that it should be easy to pronounce, maybe one or two syllables. Simple and straightforward are back in style. See Google and Apple, easy to pronounce and remember. If my friend with a Russian accent can’t pronounce it well, think of it as a failure.
+Dave Mosher wrote that “easily pronounced named may make people more likable.” Forget made-up words and nonsense phrases. One of the key parts about naming your brand is that it should be easy to pronounce, maybe one or two syllables. Simple and straightforward are back in style. See Google and Apple, easy to pronounce and remember. If my friend with a Russian accent can’t pronounce it well, think of it as a failure.
 
-Your brand will become more widely-known and hopefully unforgettable. In trade, this is called **stickiness**. “Every company wants a name that stands out from the crowd, a catchy handle that will remain fresh and memorable over time. That’s a challenge because naming trends change, often by year, making timeless named hard to find,” says Martin Zwilling.
+Your brand will become more widely-known and hopefully unforgettable. In trade, this is called **stickiness**. “Every company wants a name that stands out from the crowd, a catchy handle that will remain fresh and memorable over time. That’s a challenge because naming trends change, often by year, making timeless names hard to find,” says Martin Zwilling.
 
-Remember the KISS principle: Keep is simple, silly.
+Remember the KISS principle: Keep it simple, silly.
 
 The shorter in length, the better. Avoid using hyphens and other special characters, and pick a name closer to A than Z. Since the directory listings across the world are alphabetically, try to be on the first few pages to attract more customers. Nowadays, names are also converted to verbs by time, like, Google it or Facebook him. A simple and sensible name would help you that way too.
 

@@ -4,7 +4,7 @@ At Oswald Foundation, we’re currently building a user interface for the blind,
 
 If you call your Doctor in the morning every day and your parents in the evening on weekends, the app should be able to analyse that pattern and pre-populate the list of contacts relevant to the current time and location. This means that we can make a huge button for “Call Doctor” if it’s the right time and the user launches the app, and then add other options below it.
 
-I’ve only very recently started experimenting with Machine Learning, but Python has made is super simple. First, set up an [scikit-learn](http://scikit-learn.org/stable/) environment (I used [Anaconda](https://www.continuum.io/downloads)) and import the decision tree.
+I’ve only very recently started experimenting with Machine Learning, but Python has made it super simple. First, set up a [scikit-learn](http://scikit-learn.org/stable/) environment (I used [Anaconda](https://www.continuum.io/downloads)) and import the decision tree.
 
 ```py
 from sklearn import tree

@@ -62,7 +62,7 @@ The migration was a nightmare of edge cases. Some customers had been double-char
 
 ![OKRs](/assets/the-life-of-pabio/okrs.png)
 
-**The render revolution:** Remember when customers would say "I love it, but can you switch to the blue armchait?" and we'd die a little inside because that meant 48 hours of re-rendering? Yeah, that was sustainable for exactly zero seconds at scale.
+**The render revolution:** Remember when customers would say "I love it, but can you switch to the blue armchair?" and we'd die a little inside because that meant 48 hours of re-rendering? Yeah, that was sustainable for exactly zero seconds at scale.
 
 Ralph, our 3D wizard, had this crazy idea: "What if designers could just drag and drop furniture?" Six weeks of caffeine-fueled coding later, we had a visual builder that could generate renders almost in real time. Our AWS bill was high with all those GPUs running at full blast, but watching designers drag a sofa onto a floor plan and get a photorealistic render in minutes? Pure magic.
 
@@ -71,7 +71,7 @@ But the real breakthrough was the render pipeline itself. Raphael and Laura, our
 ![Floor plan uploading page](/assets/the-life-of-pabio/proposal-floor-plan.png)
 ![Add-ons page](/assets/the-life-of-pabio/pabio-proposal-addons.png)
 ![Furniture selection page](/assets/the-life-of-pabio/pabio-proposal-furniture.png)
-![Product deatils page](/assets/the-life-of-pabio/pabio-proposal-product.png)
+![Product details page](/assets/the-life-of-pabio/pabio-proposal-product.png)
 
 **The German expansion:** "How different can Germany be?" we asked ourselves. "It's literally next door!" Oh, sweet summer children.
 
@@ -99,7 +99,7 @@ But like moths to a very expensive flame, we kept going back to paid ads. Every 
 
 ## Automation and Lounge
 
-By early 2022, our operation were not operational. Picture this daily ritual: Check 15 supplier websites, calculate delivery windows using a spreadsheet, manually type the same order into six different systems (each with its own special way of formatting addresses), then track everything through an email thread.
+By early 2022, our operations were not operational. Picture this daily ritual: Check 15 supplier websites, calculate delivery windows using a spreadsheet, manually type the same order into six different systems (each with its own special way of formatting addresses), then track everything through an email thread.
 
 Oh, and coordinate with logistics partners who communicated exclusively in German abbreviations I'm 90% sure they made up, plus electricians who had their own scheduling system that appeared to be based on lunar cycles. We knew something had to change. So we built web scrapers with the confidence of people who'd never built web scrapers before. "How hard can it be?" we asked. The `#automation-errors` Slack channel answered that question hourly.
 
@@ -172,7 +172,7 @@ Because I have no boundaries, I set up a 24/7 live stream. People could literall
 ![Carlo sleeping](/assets/the-life-of-pabio/zurich-carlo-asleep.png)
 ![Live stream](/assets/the-life-of-pabio/zurich-streaming.png)
 
-This was our peak. Not in revenue, not in metrics, but in pure startup audacity. We'd convinced Switzerland's' busiest train station to let us build a bedroom in their train infrastructure. We got Swiss people to stop and chat (a miracle).
+This was our peak. Not in revenue, not in metrics, but in pure startup audacity. We'd convinced Switzerland's busiest train station to let us build a bedroom in their train infrastructure. We got Swiss people to stop and chat (a miracle).
 
 ![The boys](/assets/the-life-of-pabio/zurich-boys.png)
 ![Dining table](/assets/the-life-of-pabio/zurich-dining.png)

@@ -62,7 +62,7 @@ We had some cash left, so we had two options: we could either return the money t
 
 We scheduled hour-long calls with each team member individually, and over the course of a single very long day, we told everyone that we had to let them go because we were shutting down the existing business and will start thinking of something new to work on. This was one of the worst days of my life. It was really hard to say goodbye to everyone, but it had to be done.
 
-The Zurich warehouse stands empty now, probably being used for something sensible like storing things that people actually want. But here's the thing: for two and a half glorious, chaotic years, we helped hundreds of people create homes they loved. We made beautiful spaces accessible. Yes, we learned lessons that are priceless, but it costed millions.
+The Zurich warehouse stands empty now, probably being used for something sensible like storing things that people actually want. But here's the thing: for two and a half glorious, chaotic years, we helped hundreds of people create homes they loved. We made beautiful spaces accessible. Yes, we learned lessons that are priceless, but it cost millions.
 
 ## The acquisition that wasn't
 

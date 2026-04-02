@@ -16,7 +16,7 @@ The [theme system](https://www.themesystem.com) was popularized by CGP Gray in t
 
 2020 was my **Year of Long Term**. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to focus my effort. I was almost certain that I didn't want to move back to India immediately, but I wasn't sure whether I want to get a job-job or work full-time on Oswald Labs. The one thing I knew for sure is that 2020 will determine what the rest of my 20s will be like, so it became the year where I say goodbye to myopic decisions and focus on the long term.
 
-I ended up doing the exact opposite as planned; I moved back to India in March because of the uncertainty brought by the pandemic, finished my thesis which ended up being nominated for the Creative Technology Bachelor Award and received 9/10, and cofounded a new company. With this, Pabio became by first official full-time job, and a job I can very well imagine doing for the next decade.
+I ended up doing the exact opposite as planned; I moved back to India in March because of the uncertainty brought by the pandemic, finished my thesis which ended up being nominated for the Creative Technology Bachelor Award and received 9/10, and cofounded a new company. With this, Pabio became my first official full-time job, and a job I can very well imagine doing for the next decade.
 
 ### Committing in 2021
 

@@ -6,7 +6,7 @@
 
 The first version of Agastya was launched in 2016 when Nishant, Mahendra, and I founded Oswald Labs (we called it Oswald Foundation back then).
 
-I found old some screenshots to tell the story.
+I found some old screenshots to tell the story.
 
 Since I was working with Justice Adda in back in 2016, they were our first partner for adding a beta of Agastya on their website. It looked simple, with the option of choosing any one of five modes.
 
@@ -34,11 +34,11 @@ It also featured new compliancy features like an EU cookie law banner, GDPR data
 
 ## Agastya 4
 
-After over 100 betas over three months, we’re proud to launch Agastya 4 with (another) re-write from the group up. Agastya 4 is built around one idea — complete customization. We don’t want to impose any restrictions on what users or developers can do with our plugin.
+After over 100 betas over three months, we’re proud to launch Agastya 4 with (another) re-write from the ground up. Agastya 4 is built around one idea — complete customization. We don’t want to impose any restrictions on what users or developers can do with our plugin.
 
 ### User customization
 
-Put simply, users can customize everything. For example, instead of being restricted to our template for dyslexia-friendly mode, users can now build on top of it by changing things like letter spacing and typeface. This is incredibly powerful because dyslexia is not a “one size fits all” problem, and allowing using to customize every aspect of reading means they can decide what works best for them.
+Put simply, users can customize everything. For example, instead of being restricted to our template for dyslexia-friendly mode, users can now build on top of it by changing things like letter spacing and typeface. This is incredibly powerful because dyslexia is not a “one size fits all” problem, and allowing users to customize every aspect of reading means they can decide what works best for them.
 
 ![](https://miro.medium.com/max/882/1*hb_vRPf5jE6kn-vDW0dKZQ.png)
 

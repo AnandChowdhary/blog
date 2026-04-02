@@ -25,15 +25,15 @@ All said, the Apple Remote is gorgeous. It’s incredibly thin and light, has a 
 
 Apple didn’t, however, incorporate the click wheel in the remote. From a completely user-oriented view, the very reason the click wheel got popular in the first place was that it made life simpler. Apple TV is giving us the option to control nearly all the media we have on our computers—which includes thousands of songs, movies, and pictures—but it lacks that "revolutionary user interface” Steve Jobs talked about.
 
-When the original iPod was introduced in 2010, it was a revolution of itself. Apple introduced a product that would later change the music industry completely, and one of its most significant features was the click wheel navigation component. Chris Anderson, Lead Developer of .NET at Microsoft, said:
+When the original iPod was introduced in 2001, it was a revolution of itself. Apple introduced a product that would later change the music industry completely, and one of its most significant features was the click wheel navigation component. Chris Anderson, Lead Developer of .NET at Microsoft, said:
 
-> “I couldn’t resist anymore. The Industrial Design on the this thing is absolutely amazing. The usability of the device is light-years beyond anything else I’ve seen.”
+> “I couldn’t resist anymore. The Industrial Design on this thing is absolutely amazing. The usability of the device is light-years beyond anything else I’ve seen.”
 
-Thought the iPod Classic is currently the only iPod with the click wheel that’s still marketed and sold, it gives you that “feel” you receive when you use an Apple product. If Apple incorporated the click wheel, the user would get that same “feel” on another device, which would give it a unified and consistent experience, not just a consistent design language. After all, an experience lies in so much more than just design.
+Though the iPod Classic is currently the only iPod with the click wheel that’s still marketed and sold, it gives you that “feel” you receive when you use an Apple product. If Apple incorporated the click wheel, the user would get that same “feel” on another device, which would give it a unified and consistent experience, not just a consistent design language. After all, an experience lies in so much more than just design.
 
 Keeping the iPod aside, there’s another place Apple seemed to find inspiration for its remote. I’ll give you hint: rotate it 180°. It now looks like those 1980s’ pedestal speakers from Sony. I think the inspiration from classic speakers signifies—in the fundamental form—love for music (or rather, media), which Apple TV and Apple Remote are all about.
 
-Yet, of course, the probability of the Remote being one-piece was very low. Turns out, it’s not a single piece. The result of Apple’s clever engineering is visible when you just a magnifying glass and observe really closely (and I mean really very closely). A faint line visible in parts is (in)visible on the side, thus bringing me to the conclusion that Foxconn developed the remote in two parts to incorporate the circuit, and then later machined them together.
+Yet, of course, the probability of the Remote being one-piece was very low. Turns out, it’s not a single piece. The result of Apple’s clever engineering is visible when you use a magnifying glass and observe really closely (and I mean really very closely). A faint line visible in parts is (in)visible on the side, thus bringing me to the conclusion that Foxconn developed the remote in two parts to incorporate the circuit, and then later machined them together.
 
 Apple’s Remote is just another example of the company’s emphasis on designing elegant and easy-to-use solutions. Apple always seems to think that a killer graphical interface is enough to enable consumers to easily access and control.
 

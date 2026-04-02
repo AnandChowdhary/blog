@@ -10,7 +10,7 @@ A warm feeling comes over you and a smile plays on your lips. You reach for your
 
 Thus, we’re launching the ‘Made with ♥ in India’ initiative, a purely positive non-profit movement with an objective to celebrate, promote, and build a brand, India.
 
-> “A small thing, a simple gesture, can brighten up someone’s day and remind them that they should be proud of helping local businesses and entrepreneurs who contribute largely to the economy. Be proud of buying products made on India; after all, you too are one of India’s many fine products.”
+> “A small thing, a simple gesture, can brighten up someone’s day and remind them that they should be proud of helping local businesses and entrepreneurs who contribute largely to the economy. Be proud of buying products made in India; after all, you too are one of India’s many fine products.”
 
 We’d love it if you could collaborate and become a part of a change; a revolution. All you need to do is add a ‘Made with ♥ in India’ in your website or product. You can attribute us on our [Facebook page](https://www.facebook.com/madewithloveinindia). That’s it!
 

@@ -30,14 +30,14 @@ Franz is a native\* client for multiple messaging apps. I think of it as a brows
   <span>VS Code</span>
 </h3>
 
-In 2017, I starting using Visual Studio Code from Microsoft instead of my long-time favorite Sublime Text as my go-to code editor. In the past, I've used everything from (then Macromedia) DreamWeaver to fully fledged IDEs, but I fell in love with the customization and extension ecosystem of VS Code. I use the theme Atom One Dark with the ligature typeface Fira Code.
+In 2017, I started using Visual Studio Code from Microsoft instead of my long-time favorite Sublime Text as my go-to code editor. In the past, I've used everything from (then Macromedia) DreamWeaver to fully fledged IDEs, but I fell in love with the customization and extension ecosystem of VS Code. I use the theme Atom One Dark with the ligature typeface Fira Code.
 
 <h3 class="img-heading">
   <img src="/images/blog/state-of-the/dock/iterm.png" alt="">
   <span>iTerm2</span>
 </h3>
 
-iTerm2 is the terminal replacement I use, primarily because of its features like multiple panes, search, and better themes. Even simple tings like copy-and-paste are simpler in iTerm2 and it's native to Mac (unlike other Electron-based terminals.)
+iTerm2 is the terminal replacement I use, primarily because of its features like multiple panes, search, and better themes. Even simple things like copy-and-paste are simpler in iTerm2 and it's native to Mac (unlike other Electron-based terminals.)
 
 <h3 class="img-heading">
   <img src="/images/blog/state-of-the/dock/termius.png" alt="">

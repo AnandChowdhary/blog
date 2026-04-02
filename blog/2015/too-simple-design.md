@@ -26,7 +26,7 @@ For example, when people search for “Animals,” they could either mean the si
 
 I panicked. I thought that the very idea of having a sophisticated super-fast download process was defeated if the loved one-step process was broken.
 
-It wasn’t till after Saga grew to conspicuousness that I realized that the thing most people are looking for was choice. Even thought the one-step process was probably the most amazing part about Saga, it had to go. Because people want simplicity. **Don’t confuse simplicity with minimalism.**
+It wasn’t till after Saga grew to conspicuousness that I realized that the thing most people are looking for was choice. Even though the one-step process was probably the most amazing part about Saga, it had to go. Because people want simplicity. **Don’t confuse simplicity with minimalism.**
 
 A minimalistic approach to downloading music would be to hit enter and get what you were looking for. Except, in one out of ten cases, people didn’t get what they were looking for. Those are big odds. Too big for a risk.
 

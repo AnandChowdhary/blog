@@ -10,7 +10,7 @@ My solution? I propose AgentScript: a code-first execution language where the LL
 
 ## The problem with tool calling
 
-Here's how tool calling works today: you define a bunch of tools as JSON schemas, stuff them into the system prompt, and hope the model picks the right one. Each tool needs a name, a description, parameter definitions, and examples. A single tool can easily consume hundreds of tokens. A production-grade system might have tens, sometimes hundrends, of tools.
+Here's how tool calling works today: you define a bunch of tools as JSON schemas, stuff them into the system prompt, and hope the model picks the right one. Each tool needs a name, a description, parameter definitions, and examples. A single tool can easily consume hundreds of tokens. A production-grade system might have tens, sometimes hundreds, of tools.
 
 And the tools the model never uses still consume tokens - they're sitting in the context window like furniture in a storage unit you're paying rent on but never visiting (I would know something about that). As systems grow, you get this compounding problem: context inflation drives up latency and reduces alignment, both in turn drive up costs, and costs scale non-linearly because you're paying for all those schema tokens on every single inference call.
 
@@ -22,7 +22,7 @@ AgentScript takes that insight to its logical conclusion.
 
 ## The core idea
 
-AgentScript enforces a code-only contract between a language model and its execution environment. In this world, the LLM is not an API client, not it is a conversational participant; it's a program author that can only emit AgentScript code. So there is only one execution entry point, and all interaction with the world happens through code.
+AgentScript enforces a code-only contract between a language model and its execution environment. In this world, the LLM is not an API client, nor is it a conversational participant; it's a program author that can only emit AgentScript code. So there is only one execution entry point, and all interaction with the world happens through code.
 
 This collapses tool calling, function responses, and structured outputs into a single universal abstraction: program execution.
 

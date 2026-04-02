@@ -12,7 +12,7 @@ In the previous year's post, [2022 will be the Year of Teamwork](/blog/2021/year
 
 ## Past themes
 
-2020 was my **Year of Long Term**. I moved back to India because of the uncertainty brought by the pandemic, graduated from my university, and cofounded my next company. When I thought of this goal, I wanted to focus on long-term goals and not get distracted with short-term prospects. I thought I'll end up working at a large tech company (I even applied to a some jobs!), so this theme really did evolve with me as I started a new startup.
+2020 was my **Year of Long Term**. I moved back to India because of the uncertainty brought by the pandemic, graduated from my university, and cofounded my next company. When I thought of this goal, I wanted to focus on long-term goals and not get distracted with short-term prospects. I thought I'll end up working at a large tech company (I even applied to some jobs!), so this theme really did evolve with me as I started a new startup.
 
 2021 was my **Year of Commitment**. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life). Instead of doing many things at the same time, for the first time in my life I was fully focused on one full-time gig at Pabio. Sukriti and I grew up to become adults who live together, I lost 10 kg with the help of my personal trainer, and Pabio raised $3 million and got into Y Combinator.
 
@@ -87,6 +87,8 @@ Reflecting on my progress in the past year, there are some interesting takeaways
 
 **I want a healthy relationship with my work.** I want to continue to work hard on my company. 2022 was my highest productivity year yet, and I don’t want that to change in 2023, while taking enough time off and maintaining a healthy balance. I also want to plan better and spend time in structured thinking.
 
-Secondly, **I want a strong relationship with my body & mind.** One of the best things I did in 2022 was frequent gym and therapy sessions — training my body and mind. I want to continue to try and become the best version of myself.2023: Year of relationships
+Secondly, **I want a strong relationship with my body & mind.** One of the best things I did in 2022 was frequent gym and therapy sessions — training my body and mind. I want to continue to try and become the best version of myself.
+
+## 2023: Year of relationships
 
 Finally, **I want to invest more in my support system and better maintain relationships.** One of my goals in 2022 was to find more time for my friends and family, and I did improve, but I want to try harder this year. I want to give back to the people who care for me, and be a better friend, and for the first time -- a husband.

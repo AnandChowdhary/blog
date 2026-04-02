@@ -6,7 +6,7 @@ date: 2023-06-28
 
 After you graduate from a Dutch university, you get a one-year orientation year visa to find a job or set up a business. Sukriti and I moved to the Netherlands in 2021 after spending a year in India during the pandemic, so the clock started ticking for my visa. Since Pabio was already fully operational at this point as a Swiss company (owned by an American company), I decided to set up a Dutch subsidiary and apply for a startup visa to keep my residency here.
 
-As part of this process, you work with a facilitator (e.g., startup accelerator or mentor) to get your business plan approved by the Dutch government. I worked with my friends at [Novel-T](https://novelt.com) and submitted the following application in December 2020, which was approve after around seven weeks. If you're looking to write a business plan for a startup visa, I hope this helps you get started!
+As part of this process, you work with a facilitator (e.g., startup accelerator or mentor) to get your business plan approved by the Dutch government. I worked with my friends at [Novel-T](https://novelt.com) and submitted the following application in December 2020, which was approved after around seven weeks. If you're looking to write a business plan for a startup visa, I hope this helps you get started!
 
 ## Startup visa conditions
 
@@ -48,7 +48,7 @@ Pabio provides rent-to-own furniture in Europe with an interior design service. 
 
 My co-founder Carlo Badini and I started Pabio in Switzerland (where my co-founder lives) while I was living in India last year. We have already furnished over \[redacted] apartments there, and generated contracts of over \[redacted] million with monthly recurring revenue of over €\[redacted] as of last month.
 
-I came back to the Netherlands earlier this year and want to start operations for Pabio in the Netherlands and the rest of Europe. The Dutch company Pabio B.V. is a wholly owned subsidiary of United States-based Pabio Inc. The parent company was incorporated in the United States to make it easier for American investors to participate in the company's funding. To date, we have raised over €3 million in funding from top American and European investors including Pioneer Find, Serpentine Ventures, and SessionVC, part of which we will be investing to set up the Dutch company.
+I came back to the Netherlands earlier this year and want to start operations for Pabio in the Netherlands and the rest of Europe. The Dutch company Pabio B.V. is a wholly owned subsidiary of United States-based Pabio Inc. The parent company was incorporated in the United States to make it easier for American investors to participate in the company's funding. To date, we have raised over €3 million in funding from top American and European investors including Pioneer Fund, Serpentine Ventures, and SessionVC, part of which we will be investing to set up the Dutch company.
 
 Recently, we also participated in Y Combinator, the world's most prestigious startup program based in Silicon Valley. From over 16,000 applicants this summer, only 400 companies were funded by Y Combinator, as they have previously funded public companies like Airbnb, Dropbox, and Coinbase, and top Dutch companies like GitLab and Messagebird. I am only the 3rd ever graduate from Twente to receive funding from Y Combinator, and one of only 280 founders from Western Europe. My goal now is to start Pabio operations in the Netherlands, hire a few employees for some key positions, and eventually disrupt the furniture industry.
 
@@ -70,7 +70,7 @@ How it works:
 
 1. Users go through our virtual onboarding questionnaire on our website Pabio.com and state their interior design preferences
 2. They can upload their floor plan or take photos of their apartment, and our technology and team generates a 3D model of their apartment and furnishes it
-3. We delivery and install all furniture, and the customer pays every month
+3. We deliver and install all furniture, and the customer pays every month
 
 #### The product or service is new to the Netherlands
 

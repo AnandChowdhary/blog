@@ -4,7 +4,7 @@ _Disclaimer: I wrote this article for the Fleksy Blog and they provided me with 
 
 A couple of days ago, one of my friends asked me to try out a new keyboard called Fleksy. I had never heard its name before, but since he was so excited about it, I decided to give it a try. Soon, I installed it on my phone.
 
-And then, my whole tying experience changed. But before I get into that, I’ll let you know that I was using Swype. And I have it uninstalled now.
+And then, my whole typing experience changed. But before I get into that, I’ll let you know that I was using Swype. And I have it uninstalled now.
 
 It was Swype that originally gave us the gesture-based typing feature (and they’ve got a patent for that!) which is found on a majority of keyboards today, including SwiftKey and Google Keyboard, and I respect it for its incremental contributions. It single-handedly changed the entire market of custom keyboards for touch displays. And as amazing as gesture-based typing is, not everyone can love it. Unless you know where a letter is, you really can’t make use of it. Or if you’re blind, can’t read small print, or have a similar disability, there’s no use of gesture-based typing for you. I do, however, also understand that there is no denying the fact that the given keyboards are great standalone keyboards for your Android device, but Fleksy opens a new sea of endless possibilities.
 
@@ -14,7 +14,7 @@ It works with really cool gestures, but not the conventional ones. For deleting 
 
 You can see more of your screen, because Fleksy takes up very little space. You can customize the font sizes to small, like I have, to have the majority of your screen for viewing what’s happening. This is a very useful UI feature when you’re using apps like WhatsApp and you receive a new message while typing. Fleksy has really increased my productivity. I can type very fast while replying to clients’ mails without worrying about making errors.
 
-Language support is a little off, thought. I use Hindi words in my language quite often, and I have to add them to Fleksy’s dictionary. That’s working out for me pretty cool, but their team members told me that they’re adding more languages very soon. Fleksy only supports English, Spanish, German, Italian, French, Portuguese and Dutch for now.
+Language support is a little off, though. I use Hindi words in my language quite often, and I have to add them to Fleksy’s dictionary. That’s working out for me pretty cool, but their team members told me that they’re adding more languages very soon. Fleksy only supports English, Spanish, German, Italian, French, Portuguese and Dutch for now.
 
 It’s beautiful. That’s one of the features that is terribly overlooked in other keyboards like SwiftKey. Some of the themes present in that app are just dreadful, to be frank. On the other hand, Fleksy is aesthetically pleasing. It’s simple, beautiful, and just works the way you’d want it to. Its clean interface is exactly what a perfect keyboard should be. Nothing that’s there shouldn’t be there. And with the addition of different themes, I keep changing my keyboard every week.
 

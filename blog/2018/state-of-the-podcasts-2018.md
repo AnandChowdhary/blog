@@ -26,7 +26,7 @@ Hello Internet is a podcast hosted by internet educators CGP Grey and vice host 
   <span>Cortex</span>
 </h3>
 
-Myke Hurley from podcast network RelayFM talks to GDP Grey about productivity, tools, and working lives as independent content creators. Cortex is like HI but focussed on how Grey gets things done. I especially like Grey's advocacy towards being the most productive in the time you work instead of just working all the time. It's also a great podcasts to learn about tools for productivity such as time-tracking, lists, and everything in between.
+Myke Hurley from podcast network RelayFM talks to CGP Grey about productivity, tools, and working lives as independent content creators. Cortex is like HI but focussed on how Grey gets things done. I especially like Grey's advocacy towards being the most productive in the time you work instead of just working all the time. It's also a great podcasts to learn about tools for productivity such as time-tracking, lists, and everything in between.
 
 <h3 class="img-heading">
   <img src="/images/blog/state-of-the/podcasts/the-unmade-podcast_faatpk.png" alt="">

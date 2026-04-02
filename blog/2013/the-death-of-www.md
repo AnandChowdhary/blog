@@ -8,7 +8,7 @@ Let us first recall the definition of WWW:
 
 > World Wide Web — n. Abbr. WWW — The complete set of documents residing on all Internet servers that use the HTTP protocol, accessible to users via a simple point-and-click system; n: a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol
 
-All web browsers assume HTTP by default. So, the app looks for the http:// in the requested URL and automatically connects to the HTTP server on port 80 (likewise FTP connects on port 21). Mail servers do not require your to email to example@mail.example.com, so why do so many servers use the WWW subdomain? Thus web servers should allow access to their pages through the main domain unless a particular subdomain is required, like maps.google.com.
+All web browsers assume HTTP by default. So, the app looks for the http:// in the requested URL and automatically connects to the HTTP server on port 80 (likewise FTP connects on port 21). Mail servers do not require you to email to example@mail.example.com, so why do so many servers use the WWW subdomain? Thus web servers should allow access to their pages through the main domain unless a particular subdomain is required, like maps.google.com.
 
 I mean, a random user who just wants to view the new Taylor Swift video would just type in youtube.com and check out his Watch Later list, he really wouldn’t find the need to type in http://www.youtube.com/; it’s plain simply twelve characters extra. The WWW subdomain is a redundant and time consuming mean of communication. The internet, media, and society are all better off without it. Here’s what a website known as Yes WWW says:
 

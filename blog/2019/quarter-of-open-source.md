@@ -36,7 +36,7 @@ Last year is when there was a substantial, 6x increase in my open-source work. W
 
 ### 2019
 
-Finally, as of the first quarter of this year, I already have over 1,500 contributions. These are split around both Oswald Labs and my personal projects, and I also made a [system](https://github.com/AnandChowdhary/anand-services) to count my GitLab commits. At this rate, I should hit 5,000 this year (thought I don't know how long I can keep this rate up).
+Finally, as of the first quarter of this year, I already have over 1,500 contributions. These are split around both Oswald Labs and my personal projects, and I also made a [system](https://github.com/AnandChowdhary/anand-services) to count my GitLab commits. At this rate, I should hit 5,000 this year (though I don't know how long I can keep this rate up).
 
 <div class="image"><img alt="Contributions in 2019" src="/images/blog/quarter-of-open-source/2019.png"></div>
 
@@ -74,11 +74,11 @@ _Around this time is also when I learned TypeScript, so the projects after late-
 
 **Itch:** It's hard to translate JSON files using Google Translate, especially if they have nested items. However, this is a necessity if you can't afford to pay human translators and still need localization.
 
-**Scratch:** A Node.js utility to translate works, objects, and files using Google Translate. TypeScript, March 2019 · [GitHub](https://github.com/AnandChowdhary/auto-i18n) · [NPM](https://npmjs.com/package/auto-i18n)
+**Scratch:** A Node.js utility to translate words, objects, and files using Google Translate. TypeScript, March 2019 · [GitHub](https://github.com/AnandChowdhary/auto-i18n) · [NPM](https://npmjs.com/package/auto-i18n)
 
 ### 📦 Typestart
 
-**Itch:** With me making so many DOM libraries in TypeScript, I wanted a easy-to-use, no-configuration starter with didn't have tons of boilerplate code.
+**Itch:** With me making so many DOM libraries in TypeScript, I wanted an easy-to-use, no-configuration starter with didn't have tons of boilerplate code.
 
 **Scratch:** A TypeScript starter for libraries with DOM support and tests using Jest. TypeScript, February 2019 · [GitHub](https://github.com/AnandChowdhary/typestart) · [NPM](https://npmjs.com/package/typestart)
 

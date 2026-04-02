@@ -4,4 +4,4 @@ When I first started using Google Docs, my favorite feature was "smart" autosavi
 
 The question is — how can I combine the rich text and autosaving aspects with git's version control, so I can smartly save only the changes to a file and easily go back. Plus, why not write text in Markdown? Everybody loves Markdown.
 
-[GitWriter](https://github.com/AnandChowdhary/gitwriter) is an app I made in a couple of hours for exactly that. It's a frontend-only PWA written in Vue.js and Typescript (decorators and everything!), hosted on Netlify. It connects with your GitHub account (personal access token), you shoose a repository and file, and just write. GitWriter automatically commits your changes as you write every few moments.
+[GitWriter](https://github.com/AnandChowdhary/gitwriter) is an app I made in a couple of hours for exactly that. It's a frontend-only PWA written in Vue.js and Typescript (decorators and everything!), hosted on Netlify. It connects with your GitHub account (personal access token), you choose a repository and file, and just write. GitWriter automatically commits your changes as you write every few moments.

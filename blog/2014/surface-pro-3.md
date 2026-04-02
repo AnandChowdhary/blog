@@ -4,7 +4,7 @@ There were only two companies in this world that I truly adored for their great 
 
 When the iOS 5 came out, I was honestly mesmerized. It was the best, made even better, and I’m still a huge fan of Scott Forstall (I was rather unhappy when Apple let him go, but I believe Tim Cook made an informed decision.) Google, not unlike Apple, didn’t fail to thrill me almost each time either—I remember how thrilled I was when I said “Okay, Google Now” the first time.
 
-However, Microsoft usually made something really cool, but forgot to focus on something more far important than their products—people.
+However, Microsoft usually made something really cool, but forgot to focus on something far more important than their products—people.
 
 Recently, I’ve been working with an amazing company called Unifiers. Their motto is “People and ideas, for a beautiful world.” That’s the most apt vision I could find for a company like Microsoft, which is constantly worrying about users and interfaces. That’s not how you make great products. Great products are made when you make admirable stories. Stories of, to quote Daniel Eden, “people, not users.” When you actually give people what they need, that’s where you start to make a great product.
 

@@ -23,13 +23,13 @@ That's when it clicked: what if GPT could write actually personalized sales emai
 
 So we did something unorthodox: we decided to sell it before building it.
 
-A few weekends before the wedding, Carlo designed pixel-perfect mockups of the product in Figma, and I turned them into static HTML and CSS - emphasis on static. No backend, no database, no AI. Just screen recording in a browser to like a real product. You could click buttons that did absolutely nothing except navigate to another fake screen. It had prospecting, email generation, scheduling, sending, and reporting.
+A few weekends before the wedding, Carlo designed pixel-perfect mockups of the product in Figma, and I turned them into static HTML and CSS - emphasis on static. No backend, no database, no AI. Just screen recording in a browser to look like a real product. You could click buttons that did absolutely nothing except navigate to another fake screen. It had prospecting, email generation, scheduling, sending, and reporting.
 
 ![The fake idea evaluator we used to test demand](/assets/building-the-first-as-sdr/idea-evaluator.png)
 
 Before we launched, I had another unorthodox idea: we'd charge $10 to join the waitlist.
 
-Yep - we'd charge people money to maybe, potentially, possibly get access to a product that didn't exist yet. I figured signing up for waiting list is free, but if you're taking your credit card out and actually paying $10, that's a very strong signal.
+Yep - we'd charge people money to maybe, potentially, possibly get access to a product that didn't exist yet. I figured signing up for a waiting list is free, but if you're taking your credit card out and actually paying $10, that's a very strong signal.
 
 We stitched together some GIFs and wrote a Launch Bookface post (YC's internal forum) announcing FirstQuadrant: "a GPT-based outbound sales tool that (actually!) fully automates your B2B outbound activities." The "(actually!)" was doing a lot of heavy lifting considering the product actually didn't exist yet.
 
@@ -43,7 +43,7 @@ We looked at each other over Zoom and realized: we actually had to build this th
 
 ## AI SDR in 3 weeks
 
-Our plan for Q1 2023 was aggressive: January was for the "fake" launch and validation. February was for building the actual functioning MVP. March was for acquiring first paying customers. We even had dreams of a Product Hunt and TechCrunch launch announcing both the Pabio acquisition and FirstQuadrant simultaneously - the ultimate phoenix-from-the-ashes story (the acquisition fell throug, so this didn't happen anyway).
+Our plan for Q1 2023 was aggressive: January was for the "fake" launch and validation. February was for building the actual functioning MVP. March was for acquiring first paying customers. We even had dreams of a Product Hunt and TechCrunch launch announcing both the Pabio acquisition and FirstQuadrant simultaneously - the ultimate phoenix-from-the-ashes story (the acquisition fell through, so this didn't happen anyway).
 
 The next few weeks were a blur of 18-hour coding days and endless GPT-3 prompt engineering. We discovered that getting GPT to write emails was easy. Getting it to write good emails that didn't sound like a Victorian butler having a stroke? That was hard.
 

@@ -132,7 +132,7 @@ Goa's history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admi
 - Colors:
   - Deep Maroon for the traditional Goan football jerseys, passion, and identity, also similar to the Portuguese flag
   - White for coastal clarity and purity - white churches, white sands, white blossoms
-  - Soft yellow deontes the local flora and light from the peace, joy, and sacredness in Goan homes and altars
+  - Soft yellow denotes the local flora and light from the peace, joy, and sacredness in Goan homes and altars
 - Symbols:
   - Coconut palm, the heritage tree of Goa
   - 3 frangipani flowers on the palm form a cross to reference the syncretic Christian heritage
@@ -142,7 +142,7 @@ Goa's history spans Kadamba, Muslim, and Vijayanagar rule before Portuguese admi
 
 ### Context
 
-The culture of Gujarat is linked to Krishna mythology where traditional dances like garba and bhavai are performed during Navratri. Vaishnava saints Narsinh Mehta and Mirabai influenced music and poetry, and there is architectural heritage including the Somnath and Dwarka temples, Modhera Sun Temple and the step‑well Rani ki Vav. The craft traditions include bandhani tie‑dye, patola silk and Ajrakh printing, the Statue of Unity honours Sardar Patel, and ttate symbols are Asiatic lion (animal), greater flamingo (bird), marigold (flower), banyan (tree).
+The culture of Gujarat is linked to Krishna mythology where traditional dances like garba and bhavai are performed during Navratri. Vaishnava saints Narsinh Mehta and Mirabai influenced music and poetry, and there is architectural heritage including the Somnath and Dwarka temples, Modhera Sun Temple and the step‑well Rani ki Vav. The craft traditions include bandhani tie‑dye, patola silk and Ajrakh printing, the Statue of Unity honours Sardar Patel, and state symbols are Asiatic lion (animal), greater flamingo (bird), marigold (flower), banyan (tree).
 
 ### Flag
 

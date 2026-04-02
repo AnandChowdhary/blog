@@ -6,13 +6,13 @@ Ever since I found out about Y Combinator, I wanted to be a part of it.[^when-yc
 
 I never applied to YC until earlier this year because I never felt I was ready. I always thought that we were too far from product-market fit; we didn't even know what it *is*. And if we were to compare ourselves to the kind of companies YC funds, we shouldn't even bother applying. No founder should think like this. When Carlo and I applied to YC, we were already working on Pabio (then called Koj) for the better part of a year, and already had some revenue and early traction, and $1 million in pre-seed funding. I think we could have applied earlier because YC didn't invest in us because we had some funding, but because we had a good team and our early customers loved the product, and we had all of that much earlier. YC's goal is to find as many great teams as they can whose ideas early customers love and invest in them -- why would it be any other way?
 
-The fact that we could be near our customers still be part of YC remotely made all the difference. We were one of the first Swiss companies in YC and we wouldn't have applied if were an in-person batch. The YC mantra is "talk to your customers" and so it didn't make sense for us to move to Silicon Valley for three months, away from our customers in Europe, working across a 9-hour time difference. When I was trying to convince Carlo to apply, we decided that it only makes sense to do it if the S21 batch would also be remote, and when it was announced that it will be, we applied early.
+The fact that we could be near our customers still be part of YC remotely made all the difference. We were one of the first Swiss companies in YC and we wouldn't have applied if it were an in-person batch. The YC mantra is "talk to your customers" and so it didn't make sense for us to move to Silicon Valley for three months, away from our customers in Europe, working across a 9-hour time difference. When I was trying to convince Carlo to apply, we decided that it only makes sense to do it if the S21 batch would also be remote, and when it was announced that it will be, we applied early.
 
 Now that I completed the YC S21 batch, I realized that **YC is not about exclusivity, it's about accessibility.** I think Kamps' argument stems from the misnomer that YC is the [Harvard Of Silicon Valley](https://www.huffpost.com/entry/y-combinator-harvard-silicon-valley_n_874245), which I think couldn't be further from the truth. YC's [Founding Principles](https://www.ycombinator.com/principles/) state:
 
 > YC's value is the number of startups we help times how much we help them. Make both factors surprisingly big, and the product will be surprising squared.
 
-The first batch had 32 companies while my batch had over 350 companies, so YC has always been heading in this direction. On our last day, Geoff Ralston said that 2021 was a "sandwich year"; we're right in the middle of figuring out what the future of work, school, commerce, really society, looks like. The pandemic has been a forcing function for what that would have happened nonetheless, albeit slowly.
+The first batch had 32 companies while my batch had over 350 companies, so YC has always been heading in this direction. On our last day, Geoff Ralston said that 2021 was a "sandwich year"; we're right in the middle of figuring out what the future of work, school, commerce, really society, looks like. The pandemic has been a forcing function for what would have happened nonetheless, albeit slowly.
 
 I think the future of YC should be hybrid and with 1,000 companies per batch.
 
@@ -20,7 +20,7 @@ One point that Kamps didn't make is that the deal is likely outdated. [The Y Com
 
 In an article on [Insider](https://www.businessinsider.com/y-combinator-demo-day-startup-valuation-increases-2021-8) with data from Pioneer Fund[^pioneer-fund], they quote Geoff:
 
-> "Investors will always complain about the valuations that they give YC companies," Ralton said. "If they're going to set a market where they average valuation of a YC company is $10 million, that's fine. What we will tell our companies is, raise the money and get back to work."
+> "Investors will always complain about the valuations that they give YC companies," Ralston said. "If they're going to set a market where they average valuation of a YC company is $10 million, that's fine. What we will tell our companies is, raise the money and get back to work."
 
 As YC batch sizes grow, I think YC's deal should also be updated to reflect the market; something like $150k for 5%. Many startups raise at valuations over $10 million after Demo Day and the current in-batch valuation of less than $2 million doesn't seem right. Investors don't care much about 5x returns anyway, I'm certain it wouldn't matter much to YC but will make it much more digestible to founders.
 

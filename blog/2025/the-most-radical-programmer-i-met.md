@@ -9,7 +9,7 @@ A few months ago, I had a conversation that made me feel like I'd been doing Yea
 
 I was chatting with a distinguished principal research engineer at \[big tech] - someone with multiple decades of experience at the company, deep in research, working on the future of agentic workflows. The kind of person you'd expect to have strong opinions about proper software architecture and maybe a slight disdain for anyone who doesn't understand monads.
 
-I was thinking about an idea in the agent orchestration space and had recently built Continuous Claude, a way to run coding agents autonomously for large tasks by breaking them down into many pull requests, something now popularized as the Ralph loop. We were discussing our workflows when we told me that he hasn't touched his laptop in four months.
+I was thinking about an idea in the agent orchestration space and had recently built Continuous Claude, a way to run coding agents autonomously for large tasks by breaking them down into many pull requests, something now popularized as the Ralph loop. We were discussing our workflows when he told me that he hasn't touched his laptop in four months.
 
 ## The phone-only workflow
 
@@ -67,7 +67,7 @@ And here's the thing: it worked.
 
 It's now January, and nothing has changed. I'm still using a coding agent as my primary way of interacting with code. I built out Continuous Claude properly - it topped Hacker News and hit 1k+ stars on GitHub. I've been running it overnight and waking up to pull requests, just like that engineer described. Hundreds of commits, high signal-to-noise ratio, steady improvement while I sleep.
 
-The mental shift was harder than the technical shift. The tools were already there. What I had to overcome was the identity attachment and start a new way to building. But talking to him helped me reframe it: I've been promoted from individual contributor to engineering manager, except my reports are AI agents who work 24/7 and never complain about the coffee.
+The mental shift was harder than the technical shift. The tools were already there. What I had to overcome was the identity attachment and start a new way of building. But talking to him helped me reframe it: I've been promoted from individual contributor to engineering manager, except my reports are AI agents who work 24/7 and never complain about the coffee.
 
 The best advice he gave me was this: "Just close your laptop for a week. Code on your phone. Because it's actually a forcing function. Anything I want to do that's not well supported, yeah, I need to write an agent for it. So I can't cheat."
 
@@ -77,7 +77,7 @@ The ideas were always the hard part. The typing was busywork we convinced oursel
 
 ## What this actually means
 
-I don't think every programmer needs to throw away their laptop. As he himself reviwed this article on his laptop, telling me "this is not a dogma; I still jump on my laptop when it is the best tool for the job, but not because I liked to bang funny symbols on the keyboard." He was operating at a certain scale and seniority where his time was best spent on architecture and review. Most of us still need to understand code at a visceral level, and writing it is part of how we learn.
+I don't think every programmer needs to throw away their laptop. As he himself reviewed this article on his laptop, telling me "this is not a dogma; I still jump on my laptop when it is the best tool for the job, but not because I liked to bang funny symbols on the keyboard." He was operating at a certain scale and seniority where his time was best spent on architecture and review. Most of us still need to understand code at a visceral level, and writing it is part of how we learn.
 
 But I do think the direction is clear. IDEs as we know them are on the way out. The future is agent orchestration - spinning up multiple AI workers, reviewing their output, providing feedback, and maintaining the quality bar across a fleet of automated contributors.
 
