@@ -8,7 +8,7 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 51 blog in 14 years
+- 50 blog in 14 years
 
 ### 2026
 
@@ -20,7 +20,6 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 - 🔎🧭🌱 [2026 will be the Year of Discovery](./blog/2025/year-of-discovery.md)
 - 🧠💸💥 `[DRAFT]` [Finding the real product and running out of money](./blog/2025/finding-the-real-product-and-running-out-of-money.md)
 - 🤖💼🚀 `[DRAFT]` [Building the first AI SDR](./blog/2025/building-the-first-as-sdr.md)
-- 💸📉🔄 [Move fast and save things](./blog/2025/move-fast-and-save-things.md)
 - 🛋️📈🗺️ [The Life of Pabio](./blog/2025/the-life-of-pabio.md)
 - 🏠💡🚀 [Accidentally founding Koj](./blog/2025/accidentally-founding-koj.md)
 - 🤖🔄💻 [Running Claude Code in a loop](./blog/2025/running-claude-code-in-a-loop.md)
