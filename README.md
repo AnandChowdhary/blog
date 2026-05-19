@@ -8,10 +8,11 @@ This repository contains my blog posts, available to read on [**anandchowdhary.c
 
 ## 🌯 Summary
 
-- 50 blog in 14 years
+- 51 blog in 14 years
 
 ### 2026
 
+- 🚗📚❤️ [Reflections on six weeks in Palo Alto](./blog/2026/six-weeks-in-palo-alto.md)
 - 🚀🧭🤖 [Why I joined Sycamore](./blog/2026/why-i-joined-sycamore.md)
 - 💻🔒🧭 [AgentScript](./blog/2026/agentscript.md)
 
