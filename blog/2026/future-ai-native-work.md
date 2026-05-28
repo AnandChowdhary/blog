@@ -122,7 +122,7 @@ If someone says, "The agent wrote it and I cannot explain it", that is worse as 
 
 The person you want is somewhere in the middle. They can run multiple sessions and use agents aggressively without becoming passive, while being able to defend architectural decisions. They have taste.
 
-This is a weird profile. Less senior IS and more engineering manager (of agents)/tech lead/product thinker/systems designer compressed into one person.
+This is a weird profile. It's like an engineering manager (of agents)/tech lead/product thinker/systems designer compressed into one person.
 
 This is why finding the best people seems harder. The tools make the output easier and judgment more valuable.
 
@@ -142,7 +142,7 @@ I find myself thinking about that sentence; it may be the core of AI-native work
 
 After FirstQuadrant, I thought I knew what AI-assisted development looks like with my shiny Cursor tab key... but now I think that the next stage is about parallel systems of agents working inside rails that humans design, maintain, and inspect.
 
-We need to separare human time from token time and move engineering from coding and even code review toward specification, orchestration, verification, and taste.
+We need to separate human time from token time and move engineering from coding and even code review toward specification, orchestration, verification, and taste.
 
 The best teams will clearly not be the ones that generate the most code fastest (move fast!), they'll be the ones that build the best loops for planning, review, testing, cleanup, memory, compliance... loops that let the company move faster without pretending trust no longer matters.
 
