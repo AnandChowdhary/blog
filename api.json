@@ -546,16 +546,13 @@
     "emoji": "🚗📚❤️"
   },
   {
-    "slug": "future-ai-native-work-token-time.md",
-    "path": "blog/2026/future-ai-native-work-token-time.md",
-    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2026/future-ai-native-work-token-time.md",
-    "title": "Token time",
-    "date": "2026-05-28T00:00:00.000Z",
-    "excerpt": "A friend asked me this week what AI-native development actually feels like now. I think my answer would have sounded absurd to me even a year ago: I spend a lot less time writing code, I spend a lot less time reviewing code line by line, and I feel more responsible for the software than before. That last part is the important one. The lazy version of the AI coding story is that engineers stop caring and let models spray code into production. That is not what is happening in the best teams.",
-    "attributes": {
-      "date": "2026-05-28T00:00:00.000Z",
-      "draft": true
-    },
-    "emoji": "🤖⏳📜"
+    "slug": "future-ai-native-work.md",
+    "path": "blog/2026/future-ai-native-work.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2026/future-ai-native-work.md",
+    "title": "The future of AI-native work",
+    "date": "2026-05-28T16:00:51.000Z",
+    "excerpt": "I had a chance to reflect at the past half year we've been building the team and culture at Sycamore after a friend asked me what AI-native development actually feels like these days. I think my answer would have sounded absurd to me even a year ago: I spend a lot less time writing code, I spend a lot less time reviewing code line-by-line, and I feel more responsible for the software.",
+    "attributes": {},
+    "emoji": "🤖💼🔮"
   }
 ]
