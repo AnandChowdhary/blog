@@ -544,5 +544,18 @@
     "excerpt": "In February 2026, I moved to Palo Alto for six weeks to work in person with the Sycamore team. I plan on splitting my time between the Netherlands and California in the near future, and I wrote this blog post on the last day of my first trip as part of the founding team and Head of Product at Sycamore. The Commute as meditation\n\n100 miles a day. A few hours in the car. 50 miles each way... the longest commute of my life, and somehow one of the most valuable parts of my day. M",
     "attributes": {},
     "emoji": "🚗📚❤️"
+  },
+  {
+    "slug": "future-ai-native-work-token-time.md",
+    "path": "blog/2026/future-ai-native-work-token-time.md",
+    "source": "https://github.com/AnandChowdhary/blog/blob/main/blog/2026/future-ai-native-work-token-time.md",
+    "title": "Token time",
+    "date": "2026-05-28T00:00:00.000Z",
+    "excerpt": "A friend asked me this week what AI-native development actually feels like now. I think my answer would have sounded absurd to me even a year ago: I spend a lot less time writing code, I spend a lot less time reviewing code line by line, and I feel more responsible for the software than before. That last part is the important one. The lazy version of the AI coding story is that engineers stop caring and let models spray code into production. That is not what is happening in the best teams.",
+    "attributes": {
+      "date": "2026-05-28T00:00:00.000Z",
+      "draft": true
+    },
+    "emoji": "🤖⏳📜"
   }
 ]
